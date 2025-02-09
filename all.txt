@@ -902,3 +902,4 @@
 [2025-02-10 00:26:25] : BOSS Super Broly 29 vừa xuất hiện tại Rừng dương xỉ
 [2025-02-10 00:26:37] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 00:26:49] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 00:27:01] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
