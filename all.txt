@@ -1408,3 +1408,4 @@
 [2025-02-10 05:29:04] : ongketrumsd: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
 [2025-02-10 05:29:16] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 05:29:28] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 05:29:40] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
