@@ -1024,3 +1024,4 @@
 [2025-02-10 01:32:04] : ongtrumsv14: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-10 01:32:15] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-10 01:32:27] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-10 01:32:39] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
