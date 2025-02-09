@@ -1278,3 +1278,4 @@
 [2025-02-10 04:16:26] : abachu14s vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-10 04:18:02] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 04:18:16] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-10 04:18:27] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
