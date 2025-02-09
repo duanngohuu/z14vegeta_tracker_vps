@@ -1464,3 +1464,4 @@
 [2025-02-10 05:58:45] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 05:58:57] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 05:59:09] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 05:59:21] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
