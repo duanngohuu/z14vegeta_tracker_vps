@@ -41,3 +41,17 @@
 [2025-02-09 22:09:45] : Tự động Đánh: BẬT
 [2025-02-09 22:09:47] : Tự động Đánh: TẮT
 [2025-02-09 22:09:48] : Tự động Đánh: BẬT
+[2025-02-09 22:51:43] : Heo da xanh tại Núi hoa tím
+[2025-02-09 22:51:43] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 22:51:43] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 22:51:49] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
+[2025-02-09 23:04:57] : Heo da xanh tại Núi hoa tím
+[2025-02-09 23:04:58] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 23:04:58] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 23:05:03] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
+[2025-02-09 23:05:08] : Fake TDLT: Off
+[2025-02-09 23:05:19] : Tự động Đánh: BẬT
+[2025-02-09 23:06:56] : Tự động Đánh: TẮT
+[2025-02-09 23:06:59] : nrvps vừa gọi rồng thần tại Làng Kakarot khu vực 0
+[2025-02-09 23:07:10] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 23:07:12] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
