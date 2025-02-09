@@ -1524,3 +1524,4 @@
 [2025-02-10 06:20:47] : BOSS Bido vừa xuất hiện tại Rừng xương
 [2025-02-10 06:20:59] : BOSS Zangya vừa xuất hiện tại Rừng xương
 [2025-02-10 06:21:12] : BOSS Kogu vừa xuất hiện tại Rừng xương
+[2025-02-10 06:21:23] : BOSS Bujin vừa xuất hiện tại Rừng xương
