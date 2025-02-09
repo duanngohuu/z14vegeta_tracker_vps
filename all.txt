@@ -945,3 +945,4 @@
 [2025-02-10 00:52:44] : 00huydiet00 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-10 00:54:19] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 00:54:57] : kaionolie vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Thần Vũ Trụ Kaio
+[2025-02-10 00:55:55] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
