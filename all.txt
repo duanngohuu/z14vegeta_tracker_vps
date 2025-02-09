@@ -1497,3 +1497,4 @@
 [2025-02-10 06:06:58] : nqvuog vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-10 06:10:23] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 06:10:35] : BOSS Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-10 06:10:47] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
