@@ -966,3 +966,4 @@
 [2025-02-10 00:59:44] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 01:00:45] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 01:01:21] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 01:01:34] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
