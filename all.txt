@@ -1256,3 +1256,4 @@
 [2025-02-10 04:01:08] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 04:01:43] : nrvps: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
 [2025-02-10 04:02:31] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 04:03:31] : omentd: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
