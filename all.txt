@@ -1366,3 +1366,4 @@
 [2025-02-10 05:08:32] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 05:12:20] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-10 05:12:32] : nrvps: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-10 05:12:56] : nrvps: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
