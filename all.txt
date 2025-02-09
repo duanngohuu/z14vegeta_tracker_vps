@@ -927,3 +927,4 @@
 [2025-02-10 00:38:03] : BOSS Super Broly 29 vừa xuất hiện tại Đảo Kamê
 [2025-02-10 00:39:15] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vách núi Moori
 [2025-02-10 00:39:27] : BOSS Số 1 vừa xuất hiện tại Vách núi Moori
+[2025-02-10 00:39:41] : BOSS Số 2 vừa xuất hiện tại Vách núi Moori
