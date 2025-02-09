@@ -1522,3 +1522,4 @@
 [2025-02-10 06:19:48] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-10 06:20:36] : BOSS Bojack vừa xuất hiện tại Rừng xương
 [2025-02-10 06:20:47] : BOSS Bido vừa xuất hiện tại Rừng xương
+[2025-02-10 06:20:59] : BOSS Zangya vừa xuất hiện tại Rừng xương
