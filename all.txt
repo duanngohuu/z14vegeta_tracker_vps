@@ -1394,3 +1394,4 @@
 [2025-02-10 05:23:25] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 05:25:26] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-10 05:25:38] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-10 05:25:52] : BOSS Số 2 vừa xuất hiện tại Vực maima
