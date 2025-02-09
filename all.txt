@@ -1606,3 +1606,4 @@
 [2025-02-10 06:47:17] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 06:47:29] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 06:47:41] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 06:47:53] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
