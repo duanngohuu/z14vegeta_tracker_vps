@@ -1005,3 +1005,4 @@
 [2025-02-10 01:24:01] : ongtrumsv14: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
 [2025-02-10 01:26:38] : BOSS Super Broly 29 vừa xuất hiện tại Nam Kamê
 [2025-02-10 01:28:14] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 01:28:50] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
