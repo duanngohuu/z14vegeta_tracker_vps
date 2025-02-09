@@ -1436,3 +1436,4 @@
 [2025-02-10 05:43:43] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 05:43:55] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-10 05:45:19] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 05:45:31] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
