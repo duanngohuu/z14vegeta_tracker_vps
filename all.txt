@@ -1001,3 +1001,4 @@
 [2025-02-10 01:21:01] : ongtrumsv14: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
 [2025-02-10 01:22:49] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 01:23:13] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-10 01:23:25] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
