@@ -1500,3 +1500,4 @@
 [2025-02-10 06:10:47] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 06:10:59] : BOSS Bido vừa xuất hiện tại Rừng nấm
 [2025-02-10 06:11:11] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 06:11:23] : BOSS Zangya vừa xuất hiện tại Rừng nấm
