@@ -1537,3 +1537,4 @@
 [2025-02-10 06:28:01] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 06:28:26] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 06:28:38] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 06:28:50] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
