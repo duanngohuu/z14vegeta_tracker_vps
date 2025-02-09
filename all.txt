@@ -1535,3 +1535,4 @@
 [2025-02-10 06:25:00] : 00huydiet00 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-10 06:26:13] : Chúc mừng songgotung14 đã thắng 90.000.000 vàng  với con số may mắn  62
 [2025-02-10 06:28:01] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 06:28:26] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
