@@ -1364,3 +1364,4 @@
 [2025-02-10 05:06:44] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-10 05:06:56] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-10 05:08:32] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 05:12:20] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
