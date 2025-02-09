@@ -1547,3 +1547,4 @@
 [2025-02-10 06:30:16] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 06:30:28] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 06:30:40] : BOSS Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-10 06:30:52] : BOSS Bido vừa xuất hiện tại Nam Kamê
