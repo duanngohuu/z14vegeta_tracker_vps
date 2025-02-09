@@ -1300,3 +1300,4 @@
 [2025-02-10 04:30:41] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-10 04:30:54] : nrvps: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-10 04:31:06] : nrvps: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-10 04:34:18] : ikarifo vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
