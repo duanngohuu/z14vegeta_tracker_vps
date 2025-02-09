@@ -1473,3 +1473,4 @@
 [2025-02-10 06:00:33] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-10 06:00:45] : BOSS Bido vừa xuất hiện tại Đông Karin
 [2025-02-10 06:00:57] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 06:01:09] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
