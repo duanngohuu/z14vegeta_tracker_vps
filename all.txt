@@ -848,3 +848,4 @@
 [2025-02-09 23:55:54] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-09 23:56:07] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-09 23:56:19] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-09 23:56:30] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
