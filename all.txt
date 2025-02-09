@@ -832,3 +832,4 @@
 [2025-02-09 23:47:54] : nmpassed: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
 [2025-02-09 23:48:06] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-09 23:48:17] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-09 23:48:30] : babynmec22 vừa nhặt được Áo Thần Linh tại Dòng sông băng khu 13
