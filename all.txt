@@ -1583,3 +1583,4 @@
 [2025-02-10 06:39:39] : Chúc mừng nan63ra1vcl đã may mắn mở Lì xì VIP nhận được Đá may mắn cấp 5
 [2025-02-10 06:40:39] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 06:40:51] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-10 06:41:03] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
