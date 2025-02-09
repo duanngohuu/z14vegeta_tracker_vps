@@ -1086,3 +1086,4 @@
 [2025-02-10 02:06:59] : ductessstt: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-10 02:07:12] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 02:07:23] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-10 02:07:35] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
