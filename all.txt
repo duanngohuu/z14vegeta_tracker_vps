@@ -1211,3 +1211,4 @@
 [2025-02-10 03:22:23] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 03:22:35] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 03:23:23] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-10 03:23:37] : chillend: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
