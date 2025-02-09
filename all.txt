@@ -1006,3 +1006,4 @@
 [2025-02-10 01:26:38] : BOSS Super Broly 29 vừa xuất hiện tại Nam Kamê
 [2025-02-10 01:28:14] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 01:28:50] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 01:29:02] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
