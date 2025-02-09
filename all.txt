@@ -1282,3 +1282,4 @@
 [2025-02-10 04:18:39] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 04:18:52] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 04:26:17] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 04:26:29] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
