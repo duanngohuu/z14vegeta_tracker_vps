@@ -1551,3 +1551,4 @@
 [2025-02-10 06:31:04] : BOSS Zangya vừa xuất hiện tại Nam Kamê
 [2025-02-10 06:31:17] : BOSS Kogu vừa xuất hiện tại Nam Kamê
 [2025-02-10 06:31:29] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 06:31:42] : BOSS Bujin vừa xuất hiện tại Nam Kamê
