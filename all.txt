@@ -882,3 +882,4 @@
 [2025-02-10 00:11:35] : ongtrumsv14: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-10 00:12:10] : sonjinwoo: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-10 00:14:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 00:14:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
