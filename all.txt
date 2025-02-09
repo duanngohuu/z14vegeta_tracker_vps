@@ -1441,3 +1441,4 @@
 [2025-02-10 05:45:55] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 05:46:07] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 05:47:07] : purplenamec: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-10 05:47:29] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
