@@ -1237,3 +1237,4 @@
 [2025-02-10 03:56:41] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 03:56:54] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 03:57:06] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 03:57:17] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
