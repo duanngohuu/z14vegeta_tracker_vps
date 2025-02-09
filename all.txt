@@ -1344,3 +1344,4 @@
 [2025-02-10 04:57:52] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 04:58:04] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 04:58:16] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 04:58:28] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
