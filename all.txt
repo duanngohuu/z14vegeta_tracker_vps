@@ -1221,3 +1221,4 @@
 [2025-02-10 03:32:04] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-10 03:32:15] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 03:32:29] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 03:32:39] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
