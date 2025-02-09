@@ -55,3 +55,22 @@
 [2025-02-09 23:06:59] : nrvps vừa gọi rồng thần tại Làng Kakarot khu vực 0
 [2025-02-09 23:07:10] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
 [2025-02-09 23:07:12] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 23:14:26] : Heo da xanh tại Núi hoa tím
+[2025-02-09 23:14:26] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 23:14:26] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 23:14:31] : Tự động Đánh: BẬT
+[2025-02-09 23:14:31] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
+[2025-02-09 23:22:07] : Heo da xanh tại Núi hoa tím
+[2025-02-09 23:22:07] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 23:22:08] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 23:22:12] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
+[2025-02-09 23:22:41] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 23:22:48] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 23:28:55] : Heo da xanh tại Núi hoa tím
+[2025-02-09 23:28:56] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 23:28:56] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 23:29:01] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
+[2025-02-09 23:32:36] : Heo da xanh tại Núi hoa tím
+[2025-02-09 23:32:36] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 23:32:36] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 23:32:42] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
