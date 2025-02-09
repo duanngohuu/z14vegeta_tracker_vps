@@ -1,0 +1,35 @@
+﻿[2025-02-09 16:35:47] : Heo da xanh tại Núi hoa tím
+[2025-02-09 16:35:47] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 16:35:47] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 16:35:52] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
+[2025-02-09 16:39:16] : Heo da xanh tại Núi hoa tím
+[2025-02-09 16:39:16] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 16:39:16] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 16:39:21] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
+[2025-02-09 16:40:06] : Fake TDLT: On
+[2025-02-09 16:40:13] : Item TDLT: On
+[2025-02-09 16:43:03] : Heo da xanh tại Núi hoa tím
+[2025-02-09 16:43:03] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 16:43:03] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 16:43:09] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
+[2025-02-09 16:49:24] : Fake TDLT: Off
+[2025-02-09 16:49:26] : Fake TDLT: On
+[2025-02-09 16:49:52] : Fake TDLT: Off
+[2025-02-09 16:49:57] : Tự động Đánh: BẬT
+[2025-02-09 16:50:05] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 16:53:43] : Fake TDLT: On
+[2025-02-09 16:54:29] : Fake TDLT: Off
+[2025-02-09 17:00:16] : bapcaix vừa gọi rồng thần tại Làng Aru khu vực 2
+[2025-02-09 17:25:46] : bapcaix vừa gọi rồng thần tại Làng Mori khu vực 0
+[2025-02-09 17:32:33] : bapcaix vừa gọi rồng thần tại Làng Aru khu vực 1
+[2025-02-09 17:38:37] : bapcaix vừa gọi rồng thần tại Làng Kakarot khu vực 0
+[2025-02-09 17:39:43] : Chúc mừng kaisouliz vừa vô địch giải Ngoại hạng
+[2025-02-09 20:30:28] : Chúc mừng onmywayyyyy vừa vô địch giải Siêu cấp 2
+[2025-02-09 21:30:33] : Chúc mừng flofrozen vừa vô địch giải Siêu cấp 3
+[2025-02-09 21:49:48] : Heo da xanh tại Núi hoa tím
+[2025-02-09 21:49:48] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-09 21:49:48] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
+[2025-02-09 21:49:54] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
+[2025-02-09 21:50:24] : zinvinijj vừa gọi rồng thần tại Làng Kakarot khu vực 0
+[2025-02-09 21:57:26] : s14kingkog vừa gọi rồng thần tại Làng Mori khu vực 0
+[2025-02-09 22:01:56] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
