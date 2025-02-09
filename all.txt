@@ -1069,3 +1069,4 @@
 [2025-02-10 01:58:22] : beoxdsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Cađic M
 [2025-02-10 01:59:33] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 01:59:45] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 01:59:58] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
