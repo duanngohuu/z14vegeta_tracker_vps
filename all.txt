@@ -1397,3 +1397,4 @@
 [2025-02-10 05:25:52] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-10 05:26:03] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-10 05:26:14] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-10 05:26:26] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
