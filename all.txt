@@ -856,3 +856,4 @@
 [2025-02-09 23:57:31] : onlylisa: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-09 23:57:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-09 23:57:54] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-09 23:58:07] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
