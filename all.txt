@@ -1216,3 +1216,4 @@
 [2025-02-10 03:26:48] : chillend: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-10 03:29:15] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 03:29:38] : BOSS Super Broly 29 vừa xuất hiện tại Rừng đá
+[2025-02-10 03:31:39] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima

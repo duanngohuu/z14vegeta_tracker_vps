@@ -103,3 +103,5 @@
 [2025-02-10 03:26:33] : Hệ thống sẽ bảo trì sau 6 phút nữa
 [2025-02-10 03:27:38] : Hệ thống sẽ bảo trì sau 5 phút nữa
 [2025-02-10 03:28:48] : Hệ thống sẽ bảo trì sau 4 phút nữa
+[2025-02-10 03:30:00] : Hệ thống sẽ bảo trì sau 3 phút nữa hãy thoát game ngay để tránh mất mát vật phẩm.
+[2025-02-10 03:30:58] : Hệ thống sẽ bảo trì sau 2 phút nữa hãy thoát game ngay để tránh mất mát vật phẩm.
