@@ -1088,3 +1088,4 @@
 [2025-02-10 02:07:23] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 02:07:35] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 02:07:48] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-10 02:08:00] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
