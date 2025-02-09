@@ -1597,3 +1597,4 @@
 [2025-02-10 06:45:16] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 1
 [2025-02-10 06:45:29] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 06:45:40] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-10 06:45:52] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
