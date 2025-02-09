@@ -884,3 +884,4 @@
 [2025-02-10 00:14:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 00:14:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 00:14:59] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 00:15:11] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
