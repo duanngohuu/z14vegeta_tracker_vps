@@ -135,3 +135,8 @@
 [2025-02-10 03:32:55] : Hệ thống sẽ bảo trì sau 3 giây nữa
 [2025-02-10 03:32:56] : Hệ thống sẽ bảo trì sau 2 giây nữa
 [2025-02-10 03:32:57] : Hệ thống sẽ bảo trì sau 1 giây nữa
+[2025-02-10 03:54:28] : Heo da xanh tại Núi hoa tím
+[2025-02-10 03:54:28] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-10 03:54:28] : Hôm nay bạn sẽ nhận được từ 1 tới 2 viên ngọc khi tiêu diệt 1 con quái
+[2025-02-10 03:54:28] : Bạn muốn nạp ngọc hoặc nhận ngọc miễn phí, hãy đến tìm Bò Mộng tại rừng Karin
+[2025-02-10 03:54:28] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
