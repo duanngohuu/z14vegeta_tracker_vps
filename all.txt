@@ -1252,3 +1252,4 @@
 [2025-02-10 03:59:42] : z14toyota: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-10 03:59:54] : nrvps: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-10 04:00:30] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 04:00:55] : nrvps: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
