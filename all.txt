@@ -1070,3 +1070,4 @@
 [2025-02-10 01:59:33] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 01:59:45] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 01:59:58] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 02:00:09] : dunghuongsl: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
