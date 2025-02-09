@@ -1446,3 +1446,4 @@
 [2025-02-10 05:56:25] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 05:56:28] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 05:56:30] : purplenamec: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-10 05:56:32] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
