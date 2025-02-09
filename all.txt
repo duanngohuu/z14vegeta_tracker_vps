@@ -993,3 +993,4 @@
 [2025-02-10 01:13:47] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 01:14:00] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 01:14:59] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 01:15:12] : BOSS Super Broly 29 vừa xuất hiện tại Rừng cọ
