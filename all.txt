@@ -933,3 +933,4 @@
 [2025-02-10 00:41:04] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 00:42:28] : BOSS Super Broly 29 vừa xuất hiện tại Đảo Guru
 [2025-02-10 00:42:40] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 00:42:52] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
