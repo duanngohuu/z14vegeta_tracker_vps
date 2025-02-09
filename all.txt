@@ -1369,3 +1369,4 @@
 [2025-02-10 05:12:56] : nrvps: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-10 05:13:20] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 05:13:32] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-10 05:13:45] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
