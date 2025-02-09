@@ -1336,3 +1336,4 @@
 [2025-02-10 04:53:25] : ongketrumsd: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
 [2025-02-10 04:56:28] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-10 04:56:39] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-10 04:56:52] : BOSS Số 2 vừa xuất hiện tại Vực maima
