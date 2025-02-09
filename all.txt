@@ -1103,3 +1103,4 @@
 [2025-02-10 02:16:24] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 02:16:37] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 02:16:50] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 02:17:01] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
