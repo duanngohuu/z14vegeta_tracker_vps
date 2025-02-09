@@ -1218,3 +1218,4 @@
 [2025-02-10 03:29:38] : BOSS Super Broly 29 vừa xuất hiện tại Rừng đá
 [2025-02-10 03:31:39] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-10 03:31:52] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-10 03:32:04] : BOSS Số 2 vừa xuất hiện tại Vực maima
