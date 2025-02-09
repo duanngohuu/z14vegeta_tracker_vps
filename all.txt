@@ -1310,3 +1310,4 @@
 [2025-02-10 04:40:43] : BOSS Số 4 vừa xuất hiện tại Vách núi Moori
 [2025-02-10 04:41:43] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 04:41:55] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 04:42:07] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
