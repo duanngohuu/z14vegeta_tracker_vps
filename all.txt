@@ -1156,3 +1156,4 @@
 [2025-02-10 02:50:55] : xiaorio vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 3 sao
 [2025-02-10 02:51:33] : BOSS Super Broly 29 vừa xuất hiện tại Nam Kamê
 [2025-02-10 02:52:09] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-10 02:52:20] : BOSS Số 1 vừa xuất hiện tại Vực maima
