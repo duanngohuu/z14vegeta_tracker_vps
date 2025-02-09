@@ -830,3 +830,4 @@
 [2025-02-09 23:43:16] : ongtrumsv14: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
 [2025-02-09 23:47:42] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-09 23:47:54] : nmpassed: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-09 23:48:06] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
