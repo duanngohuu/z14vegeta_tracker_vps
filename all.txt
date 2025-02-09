@@ -897,3 +897,4 @@
 [2025-02-10 00:22:36] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 00:22:48] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 00:23:01] : ongtrumsv14: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-10 00:23:12] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
