@@ -845,3 +845,4 @@
 [2025-02-09 23:54:19] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-09 23:54:31] : nmpassed: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-09 23:55:06] : edatcuto vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-09 23:55:54] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
