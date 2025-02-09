@@ -824,3 +824,4 @@
 [2025-02-09 23:39:14] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-09 23:39:35] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-09 23:39:56] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-09 23:40:39] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
