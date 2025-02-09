@@ -895,3 +895,4 @@
 [2025-02-10 00:21:12] : BOSS Super Broly 25 vừa xuất hiện tại Thành phố Vegeta
 [2025-02-10 00:22:13] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 00:22:36] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 00:22:48] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
