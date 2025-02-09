@@ -1528,3 +1528,4 @@
 [2025-02-10 06:21:36] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 06:21:47] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 06:21:59] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 06:22:12] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
