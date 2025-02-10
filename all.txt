@@ -1641,3 +1641,4 @@
 [2025-02-10 07:00:30] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 07:00:41] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 07:00:54] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 07:01:06] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
