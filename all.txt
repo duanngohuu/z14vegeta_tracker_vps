@@ -2174,3 +2174,4 @@
 [2025-02-10 10:23:01] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 10:23:25] : onmywayyyyy vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 3 sao
 [2025-02-10 10:23:49] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 10:24:01] : BOSS Cooler vừa xuất hiện tại Hang băng
