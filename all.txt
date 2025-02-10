@@ -3399,3 +3399,4 @@
 [2025-02-10 18:46:33] : 14daystop1: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-10 18:46:35] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 18:46:37] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-10 18:46:39] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
