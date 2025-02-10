@@ -3225,3 +3225,4 @@
 [2025-02-10 17:23:02] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 17:23:26] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 17:23:49] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 17:24:13] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
