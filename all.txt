@@ -2166,3 +2166,4 @@
 [2025-02-10 10:15:59] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 10:16:11] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 10:16:23] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 10:21:12] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
