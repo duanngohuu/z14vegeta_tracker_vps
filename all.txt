@@ -2286,3 +2286,4 @@
 [2025-02-10 11:11:11] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 11:11:23] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 11:11:47] : BOSS Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-10 11:11:59] : BOSS Bido vừa xuất hiện tại Nam Kamê
