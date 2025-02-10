@@ -5106,3 +5106,4 @@
 [2025-02-11 06:53:28] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:53:49] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 06:54:13] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 06:54:34] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
