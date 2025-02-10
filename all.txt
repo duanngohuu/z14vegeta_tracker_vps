@@ -1867,3 +1867,4 @@
 [2025-02-10 08:21:05] : BOSS Bido vừa xuất hiện tại Rừng nấm
 [2025-02-10 08:21:17] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 08:21:29] : BOSS Zangya vừa xuất hiện tại Rừng nấm
+[2025-02-10 08:21:41] : BOSS Kogu vừa xuất hiện tại Rừng nấm
