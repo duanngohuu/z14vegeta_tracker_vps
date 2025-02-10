@@ -3244,3 +3244,4 @@
 [2025-02-10 17:30:05] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 17:30:23] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 17:30:42] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 17:31:00] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
