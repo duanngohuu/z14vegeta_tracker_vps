@@ -3178,3 +3178,4 @@
 [2025-02-10 17:05:38] : BOSS Super Broly 30 vừa xuất hiện tại Nam Kamê
 [2025-02-10 17:05:58] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 17:06:19] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 17:06:39] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
