@@ -2334,3 +2334,4 @@
 [2025-02-10 11:37:17] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-10 11:37:29] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-10 11:37:41] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-10 11:37:53] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
