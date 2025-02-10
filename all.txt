@@ -2389,3 +2389,4 @@
 [2025-02-10 12:02:16] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
 [2025-02-10 12:02:28] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 12:02:40] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 12:02:52] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
