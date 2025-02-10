@@ -1878,3 +1878,4 @@
 [2025-02-10 08:23:29] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 08:24:18] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 08:24:29] : sv14dwsze: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-10 08:26:06] : BOSS Cooler vừa xuất hiện tại Hang băng
