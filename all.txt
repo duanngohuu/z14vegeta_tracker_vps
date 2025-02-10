@@ -3650,3 +3650,4 @@
 [2025-02-10 20:00:55] : s14diablo vừa lên Top 1 Giải Siêu Hạng
 [2025-02-10 20:03:07] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 20:04:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-10 20:04:56] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
