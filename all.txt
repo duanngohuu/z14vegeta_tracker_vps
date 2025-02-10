@@ -2539,3 +2539,4 @@
 [2025-02-10 13:03:49] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 13:03:59] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 13:04:11] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 13:04:22] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
