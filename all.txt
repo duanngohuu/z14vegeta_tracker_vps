@@ -1976,3 +1976,4 @@
 [2025-02-10 09:03:45] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 09:03:57] : longgmee: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
 [2025-02-10 09:04:09] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 09:04:21] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
