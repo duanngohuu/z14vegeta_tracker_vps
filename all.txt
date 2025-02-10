@@ -3323,3 +3323,4 @@
 [2025-02-10 18:04:22] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 18:04:46] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 18:05:08] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-10 18:05:29] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
