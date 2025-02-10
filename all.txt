@@ -2142,3 +2142,4 @@
 [2025-02-10 10:05:10] : lausun: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-10 10:05:34] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 10:05:46] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 10:05:58] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
