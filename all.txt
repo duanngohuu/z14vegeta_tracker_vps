@@ -1952,3 +1952,4 @@
 [2025-02-10 08:51:28] : BOSS Bujin vừa xuất hiện tại Rừng xương
 [2025-02-10 08:58:08] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 08:58:32] : whydontss: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-10 08:58:44] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
