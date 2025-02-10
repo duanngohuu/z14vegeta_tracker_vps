@@ -192,3 +192,14 @@
 [2025-02-10 18:21:29] : Thời gian tìm set kích hoạt đến 2025/03/08 19:35:08
 [2025-02-10 20:30:57] : Chúc mừng helomaifenn vừa vô địch giải Siêu cấp 2
 [2025-02-10 21:16:16] : Mau tìm 99 bình nước cho Xinbatô
+[2025-02-10 21:16:27] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-10 21:16:30] : Mau tìm 99 bình nước cho Xinbatô
+[2025-02-10 21:16:45] : Mau tìm 99 bình nước cho Xinbatô
+[2025-02-10 21:16:46] : Mau tìm 99 bình nước cho Xinbatô
+[2025-02-10 21:16:58] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-10 21:17:27] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-10 21:17:30] : Mau tìm 99 bình nước cho Xinbatô
+[2025-02-10 21:17:31] : Mau tìm 99 bình nước cho Xinbatô
+[2025-02-10 21:17:45] : Mau tìm 99 bình nước cho Xinbatô
+[2025-02-10 21:17:58] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-10 21:18:01] : Mau tìm 99 bình nước cho Xinbatô
