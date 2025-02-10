@@ -3993,3 +3993,4 @@
 [2025-02-10 22:32:43] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-10 22:32:55] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-10 22:33:07] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 22:33:19] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
