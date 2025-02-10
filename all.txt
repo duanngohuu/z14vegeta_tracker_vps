@@ -2021,3 +2021,4 @@
 [2025-02-10 09:21:46] : BOSS Kogu vừa xuất hiện tại Nam Kamê
 [2025-02-10 09:21:58] : BOSS Bujin vừa xuất hiện tại Nam Kamê
 [2025-02-10 09:22:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 09:22:46] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
