@@ -3806,3 +3806,4 @@
 [2025-02-10 21:25:25] : sv14swat: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-10 21:27:01] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 21:27:13] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 21:27:25] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
