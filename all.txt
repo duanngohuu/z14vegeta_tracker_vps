@@ -1738,3 +1738,4 @@
 [2025-02-10 07:30:47] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 07:31:59] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 07:32:11] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 07:32:23] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
