@@ -2770,3 +2770,4 @@
 [2025-02-10 14:46:47] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:47:03] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:47:21] : BOSS Super Broly 29 vừa xuất hiện tại Đảo Kamê
+[2025-02-10 14:47:37] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
