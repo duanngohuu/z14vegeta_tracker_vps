@@ -5082,3 +5082,4 @@
 [2025-02-11 06:38:22] : trcien4888 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 06:41:17] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:41:41] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 06:42:02] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
