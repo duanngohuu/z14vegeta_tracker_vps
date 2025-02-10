@@ -4655,3 +4655,4 @@
 [2025-02-11 03:24:23] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 03:24:35] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 03:24:47] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 03:24:59] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
