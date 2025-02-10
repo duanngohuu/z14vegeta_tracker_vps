@@ -4688,3 +4688,4 @@
 [2025-02-11 03:31:00] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 03:51:47] : BOSS Black Goku 1 vừa xuất hiện tại Đảo Balê
 [2025-02-11 03:52:00] : BOSS Black Goku 2 vừa xuất hiện tại Đảo Balê
+[2025-02-11 03:52:14] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
