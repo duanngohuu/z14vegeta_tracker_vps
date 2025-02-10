@@ -4999,3 +4999,4 @@
 [2025-02-11 06:03:49] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 06:04:13] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 06:04:35] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 06:04:55] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
