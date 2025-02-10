@@ -4730,3 +4730,4 @@
 [2025-02-11 04:00:43] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 04:00:55] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 04:01:08] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 04:01:23] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
