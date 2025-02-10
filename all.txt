@@ -4517,3 +4517,4 @@
 [2025-02-11 02:28:12] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 02:28:24] : kimtami: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-11 02:29:38] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 02:29:51] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
