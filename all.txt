@@ -2199,3 +2199,4 @@
 [2025-02-10 10:31:04] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 10:31:15] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
 [2025-02-10 10:31:27] : BOSS Bido vừa xuất hiện tại Đảo Kamê
+[2025-02-10 10:31:39] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
