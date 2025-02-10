@@ -4930,3 +4930,4 @@
 [2025-02-11 05:36:04] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 05:36:21] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 05:36:36] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 05:36:50] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
