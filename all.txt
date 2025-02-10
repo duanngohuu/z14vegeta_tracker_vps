@@ -3641,3 +3641,4 @@
 [2025-02-10 19:58:31] : kingtft vừa lên Top 5 Giải Siêu Hạng
 [2025-02-10 19:58:43] : kingtft vừa lên Top 3 Giải Siêu Hạng
 [2025-02-10 19:59:19] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 19:59:31] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
