@@ -1937,3 +1937,4 @@
 [2025-02-10 08:41:12] : BOSS Zangya vừa xuất hiện tại Rừng nấm
 [2025-02-10 08:41:24] : BOSS Kogu vừa xuất hiện tại Rừng nấm
 [2025-02-10 08:41:36] : BOSS Bujin vừa xuất hiện tại Rừng nấm
+[2025-02-10 08:42:24] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
