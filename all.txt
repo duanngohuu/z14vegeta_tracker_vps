@@ -4951,3 +4951,4 @@
 [2025-02-11 05:44:48] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 05:45:07] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 05:46:21] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-11 05:47:22] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
