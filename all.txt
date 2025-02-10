@@ -3857,3 +3857,4 @@
 [2025-02-10 21:43:15] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 21:44:51] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 21:45:03] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 21:45:15] : hspssjc1: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
