@@ -4492,3 +4492,4 @@
 [2025-02-11 02:15:01] : BOSS Super Broly 27 vừa xuất hiện tại Nam Guru
 [2025-02-11 02:15:12] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-11 02:15:25] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-11 02:15:37] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
