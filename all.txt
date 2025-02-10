@@ -2127,3 +2127,4 @@
 [2025-02-10 10:01:09] : BOSS Bojack vừa xuất hiện tại Rừng xương
 [2025-02-10 10:01:21] : BOSS Bido vừa xuất hiện tại Rừng xương
 [2025-02-10 10:01:34] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 10:01:45] : BOSS Zangya vừa xuất hiện tại Rừng xương
