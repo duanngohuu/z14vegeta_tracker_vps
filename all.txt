@@ -5067,3 +5067,4 @@
 [2025-02-11 06:34:02] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:34:18] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 06:34:35] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 06:34:52] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
