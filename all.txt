@@ -4372,3 +4372,4 @@
 [2025-02-11 01:14:09] : BOSS Super Broly 27 vừa xuất hiện tại Đảo Kamê
 [2025-02-11 01:14:21] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 01:14:45] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-11 01:14:57] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
