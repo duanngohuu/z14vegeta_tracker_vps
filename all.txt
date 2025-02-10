@@ -3084,3 +3084,4 @@
 [2025-02-10 16:21:58] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 16:22:20] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 16:22:42] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 16:23:02] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
