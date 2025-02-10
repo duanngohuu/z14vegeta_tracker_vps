@@ -4424,3 +4424,4 @@
 [2025-02-11 01:42:50] : BOSS Super Broly 27 vừa xuất hiện tại Đảo Kamê
 [2025-02-11 01:42:54] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-11 01:43:06] : BOSS Super Broly 27 vừa xuất hiện tại Nam Kamê
+[2025-02-11 01:43:18] : BOSS Số 1 vừa xuất hiện tại Vực maima
