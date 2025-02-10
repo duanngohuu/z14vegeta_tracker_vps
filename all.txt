@@ -2260,3 +2260,4 @@
 [2025-02-10 11:02:31] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 11:02:43] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 11:02:55] : BOSS Bojack vừa xuất hiện tại Rừng Bamboo
+[2025-02-10 11:03:07] : BOSS Bido vừa xuất hiện tại Rừng Bamboo
