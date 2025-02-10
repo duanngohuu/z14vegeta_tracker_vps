@@ -3810,3 +3810,4 @@
 [2025-02-10 21:27:38] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 21:27:50] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 21:28:01] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 21:28:13] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
