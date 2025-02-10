@@ -2495,3 +2495,4 @@
 [2025-02-10 12:47:11] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-10 12:47:26] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 12:47:47] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 12:47:59] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
