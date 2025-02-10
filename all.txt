@@ -2446,3 +2446,4 @@
 [2025-02-10 12:24:29] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 12:24:41] : ongtrumsv14: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-10 12:24:53] : ongtrumsv14: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-10 12:25:05] : ongtrumsv14: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
