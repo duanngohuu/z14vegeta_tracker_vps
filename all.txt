@@ -3510,3 +3510,4 @@
 [2025-02-10 19:18:14] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 19:18:26] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 19:18:38] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 19:18:50] : BOSS Super Broly 30 vừa xuất hiện tại Thung lũng đen
