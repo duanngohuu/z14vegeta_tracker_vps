@@ -1884,3 +1884,4 @@
 [2025-02-10 08:27:42] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 08:29:56] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-10 08:30:08] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-10 08:30:20] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
