@@ -2798,3 +2798,4 @@
 [2025-02-10 14:55:14] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:55:31] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 14:55:48] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 14:56:11] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
