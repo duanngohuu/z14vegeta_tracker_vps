@@ -4526,3 +4526,4 @@
 [2025-02-11 02:32:03] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 02:32:16] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 02:32:28] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 02:32:40] : sv14swat: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
