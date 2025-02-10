@@ -3773,3 +3773,4 @@
 [2025-02-10 21:09:13] : BOSS Fide Vàng 1 vừa xuất hiện tại Đông Karin
 [2025-02-10 21:10:48] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 21:11:01] : 600kmh: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-10 21:11:12] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
