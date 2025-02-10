@@ -3473,3 +3473,4 @@
 [2025-02-10 19:05:37] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 19:05:49] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 19:06:01] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 19:06:13] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
