@@ -4945,3 +4945,4 @@
 [2025-02-11 05:39:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 05:40:07] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 05:42:44] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-11 05:43:44] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
