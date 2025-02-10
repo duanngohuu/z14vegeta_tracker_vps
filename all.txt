@@ -4498,3 +4498,4 @@
 [2025-02-11 02:16:14] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 02:16:27] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-11 02:16:38] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-11 02:16:50] : BOSS Super Broly 27 vừa xuất hiện tại Thung lũng đen
