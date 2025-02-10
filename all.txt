@@ -3208,3 +3208,4 @@
 [2025-02-10 17:15:11] : captaingoku: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-10 17:16:01] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 17:16:39] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 17:17:17] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
