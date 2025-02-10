@@ -2945,3 +2945,4 @@
 [2025-02-10 15:35:46] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 15:36:02] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 15:36:16] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 15:36:31] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
