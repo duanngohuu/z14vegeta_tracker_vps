@@ -3597,3 +3597,4 @@
 [2025-02-10 19:45:43] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 19:45:55] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 19:46:07] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-10 19:46:19] : 14daystop1: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
