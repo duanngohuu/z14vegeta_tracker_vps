@@ -3118,3 +3118,4 @@
 [2025-02-10 16:38:08] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 16:38:37] : lausun: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-10 16:39:04] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 16:39:28] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
