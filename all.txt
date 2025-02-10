@@ -2332,3 +2332,4 @@
 [2025-02-10 11:35:52] : nmsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-10 11:37:04] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-10 11:37:17] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-10 11:37:29] : BOSS Số 2 vừa xuất hiện tại Vực maima
