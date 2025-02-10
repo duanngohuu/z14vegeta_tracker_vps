@@ -1818,3 +1818,4 @@
 [2025-02-10 08:00:59] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 08:01:11] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 08:01:23] : BOSS Zangya vừa xuất hiện tại Đông Karin
+[2025-02-10 08:01:35] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
