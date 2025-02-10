@@ -204,3 +204,5 @@
 [2025-02-10 21:17:58] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
 [2025-02-10 21:18:01] : Mau tìm 99 bình nước cho Xinbatô
 [2025-02-10 21:18:27] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-10 21:18:58] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-10 21:19:27] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
