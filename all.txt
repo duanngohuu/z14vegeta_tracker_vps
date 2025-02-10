@@ -5086,3 +5086,4 @@
 [2025-02-11 06:42:23] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:42:45] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:43:05] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-11 06:43:26] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
