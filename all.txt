@@ -3353,3 +3353,4 @@
 [2025-02-10 18:16:17] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 18:16:45] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 18:17:14] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-10 18:17:40] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
