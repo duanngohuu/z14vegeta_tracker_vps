@@ -3406,3 +3406,4 @@
 [2025-02-10 18:46:47] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 18:46:49] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 18:46:51] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 18:46:53] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
