@@ -1701,3 +1701,4 @@
 [2025-02-10 07:18:57] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 07:19:09] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 07:19:33] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-10 07:19:45] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
