@@ -4198,3 +4198,4 @@
 [2025-02-10 23:58:14] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 23:58:28] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 23:58:40] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 23:58:52] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
