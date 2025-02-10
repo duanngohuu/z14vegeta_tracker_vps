@@ -3777,3 +3777,4 @@
 [2025-02-10 21:11:25] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 21:11:37] : 600kmh: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-10 21:11:48] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 21:12:01] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
