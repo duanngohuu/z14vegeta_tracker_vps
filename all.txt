@@ -3195,3 +3195,4 @@
 [2025-02-10 17:10:25] : jenstess vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 2 sao
 [2025-02-10 17:10:42] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 17:10:57] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 17:11:15] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
