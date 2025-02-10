@@ -4419,3 +4419,4 @@
 [2025-02-11 01:41:30] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 01:41:42] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 01:41:54] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-11 01:42:18] : BOSS Cooler vừa xuất hiện tại Hang băng
