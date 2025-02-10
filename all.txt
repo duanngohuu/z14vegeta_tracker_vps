@@ -2304,3 +2304,4 @@
 [2025-02-10 11:20:19] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 11:20:30] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 11:20:43] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 11:20:55] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
