@@ -4536,3 +4536,4 @@
 [2025-02-11 02:37:21] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 02:37:34] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
 [2025-02-11 02:37:46] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-11 02:37:58] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
