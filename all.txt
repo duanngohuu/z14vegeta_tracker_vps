@@ -2129,3 +2129,4 @@
 [2025-02-10 10:01:34] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 10:01:45] : BOSS Zangya vừa xuất hiện tại Rừng xương
 [2025-02-10 10:01:57] : BOSS Kogu vừa xuất hiện tại Rừng xương
+[2025-02-10 10:02:09] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
