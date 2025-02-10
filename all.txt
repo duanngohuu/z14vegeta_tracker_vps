@@ -5042,3 +5042,4 @@
 [2025-02-11 06:22:55] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:24:03] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 06:25:15] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-11 06:25:40] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
