@@ -2262,3 +2262,4 @@
 [2025-02-10 11:02:55] : BOSS Bojack vừa xuất hiện tại Rừng Bamboo
 [2025-02-10 11:03:07] : BOSS Bido vừa xuất hiện tại Rừng Bamboo
 [2025-02-10 11:03:19] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 11:03:31] : BOSS Zangya vừa xuất hiện tại Rừng Bamboo
