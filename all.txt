@@ -2674,3 +2674,4 @@
 [2025-02-10 14:02:45] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 14:03:06] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 14:03:25] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-10 14:03:41] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
