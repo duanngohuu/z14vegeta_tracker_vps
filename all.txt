@@ -5039,3 +5039,4 @@
 [2025-02-11 06:21:58] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:22:17] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:22:37] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 06:22:55] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
