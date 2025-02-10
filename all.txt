@@ -3513,3 +3513,4 @@
 [2025-02-10 19:18:50] : BOSS Super Broly 30 vừa xuất hiện tại Thung lũng đen
 [2025-02-10 19:19:02] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 19:19:14] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 19:19:26] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
