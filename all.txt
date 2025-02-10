@@ -2923,3 +2923,4 @@
 [2025-02-10 15:29:55] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 15:30:14] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 15:30:32] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-10 15:30:50] : BOSS Số 1 vừa xuất hiện tại Vực maima
