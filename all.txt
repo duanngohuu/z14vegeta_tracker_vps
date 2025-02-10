@@ -3050,3 +3050,4 @@
 [2025-02-10 16:06:17] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 16:06:35] : BOSS Super Broly 29 vừa xuất hiện tại Thung lũng đen
 [2025-02-10 16:06:58] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 16:07:30] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 4
