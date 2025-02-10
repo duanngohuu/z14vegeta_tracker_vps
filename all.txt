@@ -2578,3 +2578,4 @@
 [2025-02-10 13:18:37] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 13:18:51] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 13:21:51] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 13:22:15] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
