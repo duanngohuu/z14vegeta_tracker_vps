@@ -2474,3 +2474,4 @@
 [2025-02-10 12:39:42] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 12:39:50] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 12:40:02] : ongketrumsd: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-10 12:40:14] : BOSS Tiểu đội trưởng vừa xuất hiện tại Đông Nam Guru
