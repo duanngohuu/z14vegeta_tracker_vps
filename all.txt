@@ -2329,3 +2329,4 @@
 [2025-02-10 11:33:02] : BOSS Bido vừa xuất hiện tại Đông Karin
 [2025-02-10 11:33:14] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-10 11:33:27] : BOSS Kogu vừa xuất hiện tại Đông Karin
+[2025-02-10 11:35:52] : nmsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
