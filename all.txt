@@ -2520,3 +2520,4 @@
 [2025-02-10 12:57:51] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-10 12:58:01] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-10 12:58:12] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 12:58:24] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
