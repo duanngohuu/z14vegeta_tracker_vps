@@ -2168,3 +2168,4 @@
 [2025-02-10 10:16:23] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 10:21:12] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
 [2025-02-10 10:21:25] : BOSS Bido vừa xuất hiện tại Đảo Kamê
+[2025-02-10 10:21:37] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
