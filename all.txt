@@ -1736,3 +1736,4 @@
 [2025-02-10 07:29:59] : hoaixniem: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
 [2025-02-10 07:30:35] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 07:30:47] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 07:31:59] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
