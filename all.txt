@@ -2436,3 +2436,4 @@
 [2025-02-10 12:22:28] : BOSS Zangya vừa xuất hiện tại Nam Kamê
 [2025-02-10 12:22:40] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-10 12:22:52] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-10 12:23:04] : BOSS Số 2 vừa xuất hiện tại Vực maima
