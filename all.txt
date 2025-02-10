@@ -5104,3 +5104,4 @@
 [2025-02-11 06:52:43] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:53:04] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:53:28] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 06:53:49] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
