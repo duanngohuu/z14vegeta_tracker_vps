@@ -2095,3 +2095,4 @@
 [2025-02-10 09:46:05] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 09:46:17] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 09:46:54] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 09:50:07] : nmsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
