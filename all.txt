@@ -2942,3 +2942,4 @@
 [2025-02-10 15:35:03] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 15:35:16] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 15:35:30] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 15:35:46] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
