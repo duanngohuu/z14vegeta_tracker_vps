@@ -1969,3 +1969,4 @@
 [2025-02-10 09:02:21] : BOSS Số 4 vừa xuất hiện tại Vách núi Moori
 [2025-02-10 09:02:33] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 09:02:45] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 09:02:57] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
