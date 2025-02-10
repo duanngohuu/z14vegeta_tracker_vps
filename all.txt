@@ -2000,3 +2000,4 @@
 [2025-02-10 09:11:21] : BOSS Bido vừa xuất hiện tại Đảo Kamê
 [2025-02-10 09:11:34] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
 [2025-02-10 09:11:46] : BOSS Kogu vừa xuất hiện tại Đảo Kamê
+[2025-02-10 09:11:58] : BOSS Bujin vừa xuất hiện tại Đảo Kamê
