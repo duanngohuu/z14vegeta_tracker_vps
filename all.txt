@@ -2223,3 +2223,4 @@
 [2025-02-10 10:40:04] : ongketrumsd: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
 [2025-02-10 10:41:04] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 10:41:17] : BOSS Bojack vừa xuất hiện tại Rừng xương
+[2025-02-10 10:41:28] : BOSS Bido vừa xuất hiện tại Rừng xương
