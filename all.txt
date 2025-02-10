@@ -3303,3 +3303,4 @@
 [2025-02-10 17:55:18] : top1sv14 vừa nhặt được Áo Thần Xayda tại Rừng băng khu 10
 [2025-02-10 17:55:42] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 17:56:15] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 17:56:55] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
