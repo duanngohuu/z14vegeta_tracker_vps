@@ -5021,3 +5021,4 @@
 [2025-02-11 06:12:34] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 06:12:53] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:14:13] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-11 06:14:35] : BOSS Số 1 vừa xuất hiện tại Vực maima
