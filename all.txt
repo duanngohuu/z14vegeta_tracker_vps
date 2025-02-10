@@ -2619,3 +2619,4 @@
 [2025-02-10 13:33:59] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 13:34:11] : ongketrumsd: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
 [2025-02-10 13:34:22] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 13:34:54] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
