@@ -4334,3 +4334,4 @@
 [2025-02-11 00:59:33] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 00:59:46] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 00:59:58] : kamenatsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-11 01:00:10] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
