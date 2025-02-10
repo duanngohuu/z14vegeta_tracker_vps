@@ -866,3 +866,4 @@
 [2025-02-11 03:27:45] : Hệ thống sẽ bảo trì sau 3 phút nữa hãy thoát game ngay để tránh mất mát vật phẩm.
 [2025-02-11 03:27:59] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
 [2025-02-11 03:28:34] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-11 03:28:45] : Hệ thống sẽ bảo trì sau 2 phút nữa hãy thoát game ngay để tránh mất mát vật phẩm.
