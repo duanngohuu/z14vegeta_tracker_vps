@@ -3743,3 +3743,4 @@
 [2025-02-10 20:54:12] : zvegitosv14: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-10 20:55:12] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 20:55:24] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 20:55:35] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
