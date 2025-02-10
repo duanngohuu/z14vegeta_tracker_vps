@@ -2742,3 +2742,4 @@
 [2025-02-10 14:38:14] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-10 14:38:39] : maousame vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-10 14:39:38] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 14:40:00] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
