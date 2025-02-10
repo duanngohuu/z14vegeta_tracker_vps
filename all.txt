@@ -2441,3 +2441,4 @@
 [2025-02-10 12:23:28] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-10 12:23:40] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 12:23:52] : BOSS Kogu vừa xuất hiện tại Nam Kamê
+[2025-02-10 12:24:05] : windsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
