@@ -2225,3 +2225,4 @@
 [2025-02-10 10:41:17] : BOSS Bojack vừa xuất hiện tại Rừng xương
 [2025-02-10 10:41:28] : BOSS Bido vừa xuất hiện tại Rừng xương
 [2025-02-10 10:41:40] : BOSS Zangya vừa xuất hiện tại Rừng xương
+[2025-02-10 10:41:52] : BOSS Kogu vừa xuất hiện tại Rừng xương
