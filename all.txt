@@ -3653,3 +3653,4 @@
 [2025-02-10 20:04:56] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 20:05:07] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-10 20:05:19] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-10 20:05:32] : BOSS Số 3 vừa xuất hiện tại Vực maima
