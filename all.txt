@@ -1965,3 +1965,4 @@
 [2025-02-10 09:01:33] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 09:01:44] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 09:01:56] : BOSS Số 3 vừa xuất hiện tại Vách núi Moori
+[2025-02-10 09:02:09] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
