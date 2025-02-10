@@ -2800,3 +2800,4 @@
 [2025-02-10 14:55:48] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:56:11] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:56:28] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 14:56:45] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
