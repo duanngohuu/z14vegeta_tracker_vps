@@ -3283,3 +3283,4 @@
 [2025-02-10 17:47:55] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 17:48:18] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 17:48:39] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 17:49:00] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
