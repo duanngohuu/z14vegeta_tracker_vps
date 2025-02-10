@@ -5044,3 +5044,4 @@
 [2025-02-11 06:25:15] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 06:25:40] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 06:26:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 06:27:03] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
