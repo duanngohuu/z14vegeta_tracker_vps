@@ -1892,3 +1892,4 @@
 [2025-02-10 08:31:21] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 08:31:33] : BOSS Bido vừa xuất hiện tại Nam Kamê
 [2025-02-10 08:31:45] : BOSS Zangya vừa xuất hiện tại Nam Kamê
+[2025-02-10 08:31:58] : BOSS Kogu vừa xuất hiện tại Nam Kamê
