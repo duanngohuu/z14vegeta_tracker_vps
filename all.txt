@@ -4681,3 +4681,4 @@
 [2025-02-11 03:29:37] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 03:29:48] : BOSS Super Broly 27 vừa xuất hiện tại Đảo Kamê
 [2025-02-11 03:30:00] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 03:30:13] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
