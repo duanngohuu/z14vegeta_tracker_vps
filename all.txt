@@ -3281,3 +3281,4 @@
 [2025-02-10 17:47:05] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 17:47:32] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 17:47:55] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 17:48:18] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
