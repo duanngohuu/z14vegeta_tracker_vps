@@ -3792,3 +3792,4 @@
 [2025-02-10 21:20:01] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-10 21:20:13] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-10 21:20:25] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-10 21:21:13] : BOSS Cooler vừa xuất hiện tại Hang băng
