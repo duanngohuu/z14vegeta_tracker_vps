@@ -3424,3 +3424,4 @@
 [2025-02-10 18:48:59] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-10 18:49:11] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 18:49:23] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 18:49:35] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
