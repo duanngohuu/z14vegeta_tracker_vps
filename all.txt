@@ -5065,3 +5065,4 @@
 [2025-02-11 06:33:27] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:33:44] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:34:02] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 06:34:18] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
