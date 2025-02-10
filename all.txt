@@ -2365,3 +2365,4 @@
 [2025-02-10 11:52:12] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 11:52:24] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 11:52:36] : BOSS Bido vừa xuất hiện tại Nam Kamê
+[2025-02-10 11:52:48] : BOSS Zangya vừa xuất hiện tại Nam Kamê
