@@ -1845,3 +1845,4 @@
 [2025-02-10 08:10:40] : BOSS Bojack vừa xuất hiện tại Rừng nấm
 [2025-02-10 08:10:52] : BOSS Bido vừa xuất hiện tại Rừng nấm
 [2025-02-10 08:11:04] : BOSS Zangya vừa xuất hiện tại Rừng nấm
+[2025-02-10 08:11:16] : BOSS Kogu vừa xuất hiện tại Rừng nấm
