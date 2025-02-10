@@ -3651,3 +3651,4 @@
 [2025-02-10 20:03:07] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 20:04:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-10 20:04:56] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 20:05:07] : BOSS Số 1 vừa xuất hiện tại Vực maima
