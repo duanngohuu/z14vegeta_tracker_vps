@@ -4863,3 +4863,4 @@
 [2025-02-11 05:00:11] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 05:00:27] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 05:03:33] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 05:03:56] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
