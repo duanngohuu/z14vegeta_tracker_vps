@@ -2536,3 +2536,4 @@
 [2025-02-10 13:03:14] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 13:03:27] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 13:03:37] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 13:03:49] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
