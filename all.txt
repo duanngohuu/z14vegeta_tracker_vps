@@ -3199,3 +3199,4 @@
 [2025-02-10 17:11:33] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 17:11:48] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 17:12:03] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 17:12:17] : [HT] tamkisieu vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Gohan
