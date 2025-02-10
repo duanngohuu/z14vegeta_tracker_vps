@@ -3318,3 +3318,4 @@
 [2025-02-10 18:02:23] : BOSS Super Broly 29 vừa xuất hiện tại Đảo Guru
 [2025-02-10 18:02:46] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 18:03:08] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 18:03:30] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
