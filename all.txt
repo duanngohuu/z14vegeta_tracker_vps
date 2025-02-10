@@ -2836,3 +2836,4 @@
 [2025-02-10 15:06:08] : sinhcool vừa lên Top 9 Giải Siêu Hạng
 [2025-02-10 15:06:25] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 15:06:41] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 15:06:56] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
