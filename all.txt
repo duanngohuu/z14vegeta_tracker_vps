@@ -4587,3 +4587,4 @@
 [2025-02-11 03:01:08] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 03:01:20] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 03:01:32] : BOSS Tiểu đội trưởng vừa xuất hiện tại Nam Guru
+[2025-02-11 03:01:44] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
