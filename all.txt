@@ -1909,3 +1909,4 @@
 [2025-02-10 08:34:46] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-10 08:34:59] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-10 08:35:11] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 08:35:23] : BOSS Số 3 vừa xuất hiện tại Vực maima
