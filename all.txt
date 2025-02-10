@@ -1875,3 +1875,4 @@
 [2025-02-10 08:22:41] : zmikerz: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-10 08:23:05] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 08:23:17] : binbintoc: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-10 08:23:29] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
