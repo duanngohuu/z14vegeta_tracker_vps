@@ -5035,3 +5035,4 @@
 [2025-02-11 06:20:37] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 06:20:57] : nrvps: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-11 06:21:18] : nrvps: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-11 06:21:38] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
