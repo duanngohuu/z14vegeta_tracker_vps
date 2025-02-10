@@ -5014,3 +5014,4 @@
 [2025-02-11 06:10:13] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:10:36] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:10:56] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 06:11:15] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
