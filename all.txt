@@ -3781,3 +3781,4 @@
 [2025-02-10 21:12:13] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 21:12:24] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 21:12:37] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 21:12:48] : 600kmh: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
