@@ -3839,3 +3839,4 @@
 [2025-02-10 21:39:02] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-10 21:39:14] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 21:39:26] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-10 21:39:39] : BOSS Số 3 vừa xuất hiện tại Vực maima
