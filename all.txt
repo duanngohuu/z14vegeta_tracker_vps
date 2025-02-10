@@ -2666,3 +2666,4 @@
 [2025-02-10 13:57:23] : beoj97: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
 [2025-02-10 13:57:41] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 13:57:59] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 13:58:15] : beoj97: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
