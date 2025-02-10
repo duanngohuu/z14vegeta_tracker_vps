@@ -2460,3 +2460,4 @@
 [2025-02-10 12:31:35] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 12:31:56] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 12:32:08] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 12:32:22] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
