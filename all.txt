@@ -2367,3 +2367,4 @@
 [2025-02-10 11:52:36] : BOSS Bido vừa xuất hiện tại Nam Kamê
 [2025-02-10 11:52:48] : BOSS Zangya vừa xuất hiện tại Nam Kamê
 [2025-02-10 11:53:00] : BOSS Kogu vừa xuất hiện tại Nam Kamê
+[2025-02-10 11:53:37] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
