@@ -3817,3 +3817,4 @@
 [2025-02-10 21:29:02] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 21:29:14] : BOSS Fide Vàng 3 vừa xuất hiện tại Đông Karin
 [2025-02-10 21:29:25] : BOSS Fide Vàng 4 vừa xuất hiện tại Đông Karin
+[2025-02-10 21:29:37] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
