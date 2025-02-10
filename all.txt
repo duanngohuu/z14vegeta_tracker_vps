@@ -4880,3 +4880,4 @@
 [2025-02-11 05:10:13] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
 [2025-02-11 05:10:33] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 05:11:37] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-11 05:11:57] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
