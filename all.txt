@@ -2433,3 +2433,4 @@
 [2025-02-10 12:21:40] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 12:22:03] : BOSS Bojack vừa xuất hiện tại Nam Kamê
 [2025-02-10 12:22:16] : BOSS Bido vừa xuất hiện tại Nam Kamê
+[2025-02-10 12:22:28] : BOSS Zangya vừa xuất hiện tại Nam Kamê
