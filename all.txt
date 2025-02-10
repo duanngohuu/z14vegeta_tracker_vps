@@ -2132,3 +2132,4 @@
 [2025-02-10 10:02:09] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 10:02:21] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 10:02:33] : siukamer: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-10 10:02:46] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
