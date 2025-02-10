@@ -3069,3 +3069,4 @@
 [2025-02-10 16:14:31] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 4
 [2025-02-10 16:14:58] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 4
 [2025-02-10 16:15:23] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 4
+[2025-02-10 16:15:54] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
