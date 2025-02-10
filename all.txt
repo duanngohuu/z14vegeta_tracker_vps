@@ -4460,3 +4460,4 @@
 [2025-02-11 02:01:09] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 02:01:21] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 02:01:33] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 02:01:45] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
