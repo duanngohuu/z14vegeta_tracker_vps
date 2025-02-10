@@ -4580,3 +4580,4 @@
 [2025-02-11 02:58:18] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 02:59:55] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 03:00:08] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 03:00:20] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
