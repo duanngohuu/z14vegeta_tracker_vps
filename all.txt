@@ -4698,3 +4698,4 @@
 [2025-02-11 03:53:38] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 03:53:49] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 03:54:02] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-11 03:54:11] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
