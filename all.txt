@@ -4309,3 +4309,4 @@
 [2025-02-11 00:46:07] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-11 00:48:58] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 00:49:09] : haijilao: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-11 00:49:24] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
