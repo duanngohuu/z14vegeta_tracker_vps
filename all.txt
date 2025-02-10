@@ -2788,3 +2788,4 @@
 [2025-02-10 14:52:11] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 14:52:32] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 14:52:52] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 14:53:12] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
