@@ -1955,3 +1955,4 @@
 [2025-02-10 08:58:44] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 08:59:32] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 08:59:44] : binbintoc: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-10 09:00:08] : binbintoc: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
