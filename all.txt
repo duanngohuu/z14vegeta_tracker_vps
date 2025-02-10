@@ -4940,3 +4940,4 @@
 [2025-02-11 05:38:36] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 05:38:51] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 05:39:08] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 05:39:22] : nrvps: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
