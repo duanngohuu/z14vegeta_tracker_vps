@@ -4673,3 +4673,4 @@
 [2025-02-11 03:28:00] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 03:28:12] : BOSS Super Broly 27 vừa xuất hiện tại Thung lũng Namếc
 [2025-02-11 03:28:25] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-11 03:28:36] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
