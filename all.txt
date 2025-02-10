@@ -3228,3 +3228,4 @@
 [2025-02-10 17:24:13] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 17:24:35] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 17:24:58] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 17:25:21] : sv14swat: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
