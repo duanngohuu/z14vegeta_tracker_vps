@@ -2476,3 +2476,4 @@
 [2025-02-10 12:40:02] : ongketrumsd: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
 [2025-02-10 12:40:14] : BOSS Tiểu đội trưởng vừa xuất hiện tại Đông Nam Guru
 [2025-02-10 12:40:26] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 12:40:35] : BOSS Số 1 vừa xuất hiện tại Đông Nam Guru
