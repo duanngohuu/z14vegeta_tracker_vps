@@ -4019,3 +4019,4 @@
 [2025-02-10 22:43:44] : king99xm: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-10 22:43:56] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 22:44:08] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 22:44:20] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
