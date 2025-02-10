@@ -3852,3 +3852,4 @@
 [2025-02-10 21:42:15] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 21:42:27] : bapcaix vừa lên Top 10 Giải Siêu Hạng
 [2025-02-10 21:42:39] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 21:42:51] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
