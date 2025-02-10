@@ -2722,3 +2722,4 @@
 [2025-02-10 14:18:36] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 14:18:51] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 14:19:05] : aphidepzai: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-10 14:21:00] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
