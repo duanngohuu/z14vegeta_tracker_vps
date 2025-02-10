@@ -4366,3 +4366,4 @@
 [2025-02-11 01:11:31] : ongketrumsd: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-11 01:12:32] : BOSS Super Broly 9 vừa xuất hiện tại Đảo Kamê
 [2025-02-11 01:13:20] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 01:13:32] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
