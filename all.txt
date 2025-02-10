@@ -3215,3 +3215,4 @@
 [2025-02-10 17:18:45] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 17:19:14] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 17:19:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 17:20:11] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
