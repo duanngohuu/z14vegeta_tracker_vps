@@ -3986,3 +3986,4 @@
 [2025-02-10 22:30:31] : BOSS Super Broly 29 vừa xuất hiện tại Thung lũng đen
 [2025-02-10 22:31:31] : BOSS Super Broly 29 vừa xuất hiện tại Thung lũng đen
 [2025-02-10 22:31:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-10 22:31:55] : BOSS Số 1 vừa xuất hiện tại Vực maima
