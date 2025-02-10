@@ -3186,3 +3186,4 @@
 [2025-02-10 17:08:07] : BOSS Super Broly 29 vừa xuất hiện tại Nam Kamê
 [2025-02-10 17:08:22] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 17:08:36] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 17:08:52] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
