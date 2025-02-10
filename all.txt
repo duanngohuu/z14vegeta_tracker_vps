@@ -4719,3 +4719,4 @@
 [2025-02-11 03:58:13] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-11 03:58:26] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 03:58:37] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 03:58:50] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
