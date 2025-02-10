@@ -1816,3 +1816,4 @@
 [2025-02-10 08:00:35] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-10 08:00:47] : BOSS Bido vừa xuất hiện tại Đông Karin
 [2025-02-10 08:00:59] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-10 08:01:11] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
