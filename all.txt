@@ -2760,3 +2760,4 @@
 [2025-02-10 14:44:02] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 14:44:16] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:44:31] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 14:44:46] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
