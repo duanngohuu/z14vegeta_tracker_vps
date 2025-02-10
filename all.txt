@@ -2019,3 +2019,4 @@
 [2025-02-10 09:21:22] : BOSS Bido vừa xuất hiện tại Nam Kamê
 [2025-02-10 09:21:34] : BOSS Zangya vừa xuất hiện tại Nam Kamê
 [2025-02-10 09:21:46] : BOSS Kogu vừa xuất hiện tại Nam Kamê
+[2025-02-10 09:21:58] : BOSS Bujin vừa xuất hiện tại Nam Kamê
