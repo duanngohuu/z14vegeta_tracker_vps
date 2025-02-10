@@ -3056,3 +3056,4 @@
 [2025-02-10 16:08:50] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 4
 [2025-02-10 16:09:12] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 4
 [2025-02-10 16:09:32] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 4
+[2025-02-10 16:09:51] : BOSS Super Broly 29 vừa xuất hiện tại Đảo Kamê
