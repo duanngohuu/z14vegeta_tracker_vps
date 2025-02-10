@@ -2679,3 +2679,4 @@
 [2025-02-10 14:04:11] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 14:04:26] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 14:05:34] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-10 14:05:54] : BOSS Super Broly 29 vừa xuất hiện tại Đảo Kamê
