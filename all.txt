@@ -1824,3 +1824,4 @@
 [2025-02-10 08:02:11] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 08:02:23] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 08:02:35] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 08:02:48] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
