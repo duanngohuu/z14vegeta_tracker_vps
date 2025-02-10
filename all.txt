@@ -5022,3 +5022,4 @@
 [2025-02-11 06:12:53] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 06:14:13] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-11 06:14:35] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-11 06:14:56] : BOSS Số 2 vừa xuất hiện tại Vực maima
