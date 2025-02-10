@@ -2352,3 +2352,4 @@
 [2025-02-10 11:42:05] : BOSS Bido vừa xuất hiện tại Rừng Bamboo
 [2025-02-10 11:42:18] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 11:42:30] : BOSS Zangya vừa xuất hiện tại Rừng Bamboo
+[2025-02-10 11:42:42] : BOSS Kogu vừa xuất hiện tại Rừng Bamboo
