@@ -3532,3 +3532,4 @@
 [2025-02-10 19:23:26] : nielru vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 2 sao
 [2025-02-10 19:23:38] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 19:23:50] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 19:24:04] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
