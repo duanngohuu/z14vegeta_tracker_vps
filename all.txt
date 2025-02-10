@@ -4507,3 +4507,4 @@
 [2025-02-11 02:23:08] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-11 02:23:21] : ongketrumsd: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-11 02:23:44] : ongketrumsd: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-11 02:26:24] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
