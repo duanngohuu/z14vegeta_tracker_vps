@@ -4106,3 +4106,4 @@
 [2025-02-10 23:12:51] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 23:13:03] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Bulông
 [2025-02-10 23:13:15] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 23:13:27] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
