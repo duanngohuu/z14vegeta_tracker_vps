@@ -1979,3 +1979,4 @@
 [2025-02-10 09:04:21] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 09:04:33] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 09:04:45] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 09:04:57] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
