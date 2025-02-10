@@ -3765,3 +3765,4 @@
 [2025-02-10 21:04:00] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 21:04:12] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 21:04:48] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 21:05:00] : clearbosss: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
