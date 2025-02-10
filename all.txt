@@ -2253,3 +2253,4 @@
 [2025-02-10 10:52:05] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-10 10:52:17] : BOSS Kogu vừa xuất hiện tại Đông Karin
 [2025-02-10 11:00:31] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 11:01:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
