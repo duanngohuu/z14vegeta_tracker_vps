@@ -4504,3 +4504,4 @@
 [2025-02-11 02:19:54] : ongketrumsd: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
 [2025-02-11 02:22:44] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 02:22:56] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-11 02:23:08] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
