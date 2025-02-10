@@ -3242,3 +3242,4 @@
 [2025-02-10 17:29:26] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 17:29:46] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 17:30:05] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 17:30:23] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
