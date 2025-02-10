@@ -4010,3 +4010,4 @@
 [2025-02-10 22:41:20] : kimtami: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-10 22:42:08] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 22:42:20] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 22:42:32] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
