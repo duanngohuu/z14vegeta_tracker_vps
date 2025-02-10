@@ -4597,3 +4597,4 @@
 [2025-02-11 03:03:08] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 03:03:20] : BOSS Số 4 vừa xuất hiện tại Nam Guru
 [2025-02-11 03:03:33] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 03:03:44] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
