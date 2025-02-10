@@ -2363,3 +2363,4 @@
 [2025-02-10 11:50:35] : weathzz vừa nhặt được Giầy Thần Linh tại Rừng băng khu 2
 [2025-02-10 11:52:00] : BOSS Bojack vừa xuất hiện tại Nam Kamê
 [2025-02-10 11:52:12] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-10 11:52:24] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
