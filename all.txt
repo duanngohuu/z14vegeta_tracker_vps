@@ -1822,3 +1822,4 @@
 [2025-02-10 08:01:47] : BOSS Kogu vừa xuất hiện tại Đông Karin
 [2025-02-10 08:01:59] : BOSS Bujin vừa xuất hiện tại Đông Karin
 [2025-02-10 08:02:11] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 08:02:23] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
