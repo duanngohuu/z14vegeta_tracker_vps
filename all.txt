@@ -3321,3 +3321,4 @@
 [2025-02-10 18:03:30] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 18:03:58] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 18:04:22] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 18:04:46] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
