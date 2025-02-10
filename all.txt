@@ -1946,3 +1946,4 @@
 [2025-02-10 08:45:50] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 08:46:02] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 08:50:40] : BOSS Bojack vừa xuất hiện tại Rừng xương
+[2025-02-10 08:50:52] : BOSS Bido vừa xuất hiện tại Rừng xương
