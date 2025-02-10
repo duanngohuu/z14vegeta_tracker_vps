@@ -1772,3 +1772,4 @@
 [2025-02-10 07:46:46] : ongketrumsd: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
 [2025-02-10 07:46:58] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 07:48:47] : ongketrumsd: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-10 07:48:59] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
