@@ -901,3 +901,8 @@
 [2025-02-11 03:30:46] : Hệ thống sẽ bảo trì sau 2 giây nữa
 [2025-02-11 03:30:46] : Hệ thống sẽ bảo trì sau 1 giây nữa
 [2025-02-11 03:30:57] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-11 03:51:43] : Heo da xanh tại Núi hoa tím
+[2025-02-11 03:51:43] : Nhiệm vụ của bạn là Tiêu diệt Heo da xanh
+[2025-02-11 03:51:43] : Hôm nay bạn sẽ nhận được từ 1 tới 2 viên ngọc khi tiêu diệt 1 con quái
+[2025-02-11 03:51:43] : Bạn muốn nạp ngọc hoặc nhận ngọc miễn phí, hãy đến tìm Bò Mộng tại rừng Karin
+[2025-02-11 03:51:43] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Namếc
