@@ -4510,3 +4510,4 @@
 [2025-02-11 02:26:24] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 02:26:35] : s14taan vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 02:27:12] : s2kyangk2s vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 3 sao
+[2025-02-11 02:27:24] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
