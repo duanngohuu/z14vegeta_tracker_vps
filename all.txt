@@ -3558,3 +3558,4 @@
 [2025-02-10 19:32:54] : BOSS Super Broly 29 vừa xuất hiện tại Rừng cọ
 [2025-02-10 19:33:05] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 19:33:18] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 19:33:30] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
