@@ -3263,3 +3263,4 @@
 [2025-02-10 17:35:41] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 17:36:05] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 17:36:34] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-10 17:37:02] : BOSS Super Broly 29 vừa xuất hiện tại Núi hoa vàng
