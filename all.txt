@@ -3280,3 +3280,4 @@
 [2025-02-10 17:46:16] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 17:47:05] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 17:47:32] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 17:47:55] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
