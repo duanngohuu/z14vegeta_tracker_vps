@@ -2728,3 +2728,4 @@
 [2025-02-10 14:25:36] : ductrolaiqz vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Thần Vũ Trụ Kaio
 [2025-02-10 14:28:12] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-10 14:28:36] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-10 14:28:57] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
