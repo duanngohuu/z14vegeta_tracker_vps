@@ -5033,3 +5033,4 @@
 [2025-02-11 06:19:56] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 06:20:18] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 06:20:37] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 06:20:57] : nrvps: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
