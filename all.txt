@@ -2206,3 +2206,4 @@
 [2025-02-10 10:32:27] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 10:32:40] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 10:32:52] : gomahsama: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-10 10:33:04] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
