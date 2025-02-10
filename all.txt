@@ -4675,3 +4675,4 @@
 [2025-02-11 03:28:25] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-11 03:28:36] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 03:28:47] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-11 03:29:01] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
