@@ -2466,3 +2466,4 @@
 [2025-02-10 12:32:56] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 12:33:09] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 12:33:21] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 12:33:33] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
