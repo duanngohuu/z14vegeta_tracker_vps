@@ -2784,3 +2784,4 @@
 [2025-02-10 14:50:44] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:51:06] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 14:51:28] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 14:51:48] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
