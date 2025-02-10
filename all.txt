@@ -2639,3 +2639,4 @@
 [2025-02-10 13:42:11] : onlylisa: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-10 13:42:25] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-10 13:42:39] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 13:42:53] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
