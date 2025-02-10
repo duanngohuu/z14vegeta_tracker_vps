@@ -3645,3 +3645,4 @@
 [2025-02-10 19:59:43] : 600kmh: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-10 19:59:55] : kingtft vừa lên Top 1 Giải Siêu Hạng
 [2025-02-10 20:00:07] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 20:00:19] : 600kmh: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
