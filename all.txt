@@ -2472,3 +2472,4 @@
 [2025-02-10 12:37:45] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 12:39:21] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 12:39:42] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-10 12:39:50] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
