@@ -3348,3 +3348,4 @@
 [2025-02-10 18:14:19] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 18:14:44] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-10 18:15:08] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 18:15:30] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
