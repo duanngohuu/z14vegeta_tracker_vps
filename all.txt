@@ -3901,3 +3901,4 @@
 [2025-02-10 22:00:05] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 22:00:17] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 22:00:29] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-10 22:00:53] : kingtft vừa lên Top 1 Giải Siêu Hạng
