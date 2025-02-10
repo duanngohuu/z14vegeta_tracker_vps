@@ -3914,3 +3914,4 @@
 [2025-02-10 22:05:53] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 22:09:18] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 22:10:18] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 22:10:30] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
