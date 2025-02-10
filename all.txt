@@ -3325,3 +3325,4 @@
 [2025-02-10 18:05:08] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 18:05:29] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-10 18:05:50] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-10 18:06:13] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
