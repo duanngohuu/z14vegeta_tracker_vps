@@ -4394,3 +4394,4 @@
 [2025-02-11 01:30:16] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 01:30:28] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 01:30:40] : BOSS Super Broly 27 vừa xuất hiện tại Đảo Bulông
+[2025-02-11 01:30:52] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
