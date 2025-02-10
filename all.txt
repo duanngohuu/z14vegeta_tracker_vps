@@ -2663,3 +2663,4 @@
 [2025-02-10 13:55:44] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 13:56:45] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 13:57:04] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 13:57:23] : beoj97: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
