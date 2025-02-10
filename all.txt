@@ -1907,3 +1907,4 @@
 [2025-02-10 08:34:22] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 08:34:34] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-10 08:34:46] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-10 08:34:59] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
