@@ -4331,3 +4331,4 @@
 [2025-02-11 00:58:57] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 00:59:09] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 00:59:21] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 00:59:33] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
