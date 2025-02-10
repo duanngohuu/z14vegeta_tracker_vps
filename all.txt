@@ -1854,3 +1854,4 @@
 [2025-02-10 08:13:28] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 08:13:40] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 08:13:52] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-10 08:14:05] : nmsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Nail chiến binh Namếc
