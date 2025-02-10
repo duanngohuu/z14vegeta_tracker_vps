@@ -4463,3 +4463,4 @@
 [2025-02-11 02:01:45] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 02:01:57] : BOSS Super Broly 28 vừa xuất hiện tại Núi hoa tím
 [2025-02-11 02:02:09] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-11 02:02:21] : BOSS Super Broly 28 vừa xuất hiện tại Núi hoa tím
