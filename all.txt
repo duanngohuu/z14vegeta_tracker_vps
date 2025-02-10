@@ -3300,3 +3300,4 @@
 [2025-02-10 17:53:58] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 17:54:25] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 17:54:48] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-10 17:55:18] : top1sv14 vừa nhặt được Áo Thần Xayda tại Rừng băng khu 10
