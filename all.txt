@@ -2170,3 +2170,4 @@
 [2025-02-10 10:21:25] : BOSS Bido vừa xuất hiện tại Đảo Kamê
 [2025-02-10 10:21:37] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
 [2025-02-10 10:21:49] : BOSS Kogu vừa xuất hiện tại Đảo Kamê
+[2025-02-10 10:22:49] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
