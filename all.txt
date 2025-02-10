@@ -2773,3 +2773,4 @@
 [2025-02-10 14:47:37] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:47:54] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 14:48:11] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-10 14:48:29] : BOSS Số 1 vừa xuất hiện tại Vực maima
