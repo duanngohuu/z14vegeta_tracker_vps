@@ -1645,3 +1645,4 @@
 [2025-02-10 07:01:18] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-10 07:01:30] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-10 07:01:42] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-10 07:01:54] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
