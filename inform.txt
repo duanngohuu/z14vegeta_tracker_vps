@@ -359,3 +359,5 @@
 [2025-02-10 22:39:58] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
 [2025-02-10 22:40:27] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
 [2025-02-10 22:40:59] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-10 22:41:27] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
+[2025-02-10 22:41:57] : Tìm nước cho Xinbato ở đảo Kame hoặc đảo Guru
