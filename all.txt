@@ -2806,3 +2806,4 @@
 [2025-02-10 14:57:34] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-10 14:57:51] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:58:09] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 14:58:24] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
