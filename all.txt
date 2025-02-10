@@ -2017,3 +2017,4 @@
 [2025-02-10 09:20:46] : s14vegito vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-10 09:21:10] : BOSS Bojack vừa xuất hiện tại Nam Kamê
 [2025-02-10 09:21:22] : BOSS Bido vừa xuất hiện tại Nam Kamê
+[2025-02-10 09:21:34] : BOSS Zangya vừa xuất hiện tại Nam Kamê
