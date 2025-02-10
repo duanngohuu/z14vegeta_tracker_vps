@@ -2653,3 +2653,4 @@
 [2025-02-10 13:48:52] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 13:49:17] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 13:50:31] : taiwoan12 vừa nhặt được Áo Thần Linh tại Núi tuyết khu 8
+[2025-02-10 13:50:45] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
