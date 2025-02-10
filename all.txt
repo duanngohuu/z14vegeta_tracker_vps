@@ -4234,3 +4234,4 @@
 [2025-02-11 00:13:33] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 00:13:45] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 00:13:57] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 00:14:09] : drtomdz vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
