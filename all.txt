@@ -4909,3 +4909,4 @@
 [2025-02-11 05:28:24] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 05:28:42] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 05:29:00] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 05:29:17] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
