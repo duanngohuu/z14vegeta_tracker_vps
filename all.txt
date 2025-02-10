@@ -2201,3 +2201,4 @@
 [2025-02-10 10:31:27] : BOSS Bido vừa xuất hiện tại Đảo Kamê
 [2025-02-10 10:31:39] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 10:31:51] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
+[2025-02-10 10:32:04] : BOSS Kogu vừa xuất hiện tại Đảo Kamê
