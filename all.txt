@@ -2793,3 +2793,4 @@
 [2025-02-10 14:53:51] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-10 14:54:08] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 14:54:26] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 14:54:43] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
