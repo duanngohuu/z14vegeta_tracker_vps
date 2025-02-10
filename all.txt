@@ -3699,3 +3699,4 @@
 [2025-02-10 20:27:34] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-10 20:27:46] : 3b3ddon: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-10 20:31:10] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 20:45:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
