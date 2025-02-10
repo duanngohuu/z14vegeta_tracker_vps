@@ -1940,3 +1940,4 @@
 [2025-02-10 08:42:24] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 08:42:36] : dinemore: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-10 08:44:37] : daituongquan: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-10 08:45:13] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
