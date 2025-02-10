@@ -2327,3 +2327,4 @@
 [2025-02-10 11:32:38] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 11:32:50] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-10 11:33:02] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-10 11:33:14] : BOSS Zangya vừa xuất hiện tại Đông Karin
