@@ -4849,3 +4849,4 @@
 [2025-02-11 04:56:12] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 04:56:27] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 04:56:47] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 04:57:04] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
