@@ -1930,3 +1930,4 @@
 [2025-02-10 08:39:47] : s14vegito vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-10 08:39:59] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-10 08:40:12] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-10 08:40:24] : BOSS Số 1 vừa xuất hiện tại Vực maima
