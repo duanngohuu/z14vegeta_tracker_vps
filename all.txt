@@ -2880,3 +2880,4 @@
 [2025-02-10 15:17:28] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 15:17:42] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 15:17:57] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-10 15:18:12] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
