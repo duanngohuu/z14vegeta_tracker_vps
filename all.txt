@@ -1782,3 +1782,4 @@
 [2025-02-10 07:50:47] : BOSS Bido vừa xuất hiện tại Đông Karin
 [2025-02-10 07:50:59] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-10 07:51:11] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-10 07:51:23] : binbintoc: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
