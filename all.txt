@@ -3346,3 +3346,4 @@
 [2025-02-10 18:13:25] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 6
 [2025-02-10 18:13:50] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 6
 [2025-02-10 18:14:19] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-10 18:14:44] : BOSS Cooler vừa xuất hiện tại Hang băng
