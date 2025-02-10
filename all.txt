@@ -4433,3 +4433,4 @@
 [2025-02-11 01:44:30] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-11 01:44:42] : BOSS Super Broly 27 vừa xuất hiện tại Nam Kamê
 [2025-02-11 01:44:54] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-11 01:45:06] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
