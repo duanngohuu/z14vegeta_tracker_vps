@@ -2744,3 +2744,4 @@
 [2025-02-10 14:39:38] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-10 14:40:00] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-10 14:40:18] : BOSS Super Broly 29 vừa xuất hiện tại Đảo Kamê
+[2025-02-10 14:40:36] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
