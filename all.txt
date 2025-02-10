@@ -4845,3 +4845,4 @@
 [2025-02-11 04:49:40] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 04:50:01] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 04:55:29] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-11 04:55:52] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
