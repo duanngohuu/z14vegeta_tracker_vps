@@ -3720,3 +3720,4 @@
 [2025-02-10 20:50:31] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 20:50:33] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
 [2025-02-10 20:50:36] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-10 20:50:39] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
