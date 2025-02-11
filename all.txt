@@ -5837,3 +5837,4 @@
 [2025-02-11 12:45:49] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 12:46:23] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 12:46:53] : taodavid: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-11 12:47:25] : taodavid: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
