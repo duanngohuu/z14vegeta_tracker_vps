@@ -5634,3 +5634,4 @@
 [2025-02-11 11:01:30] : bapcaix: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-11 11:01:58] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 11:02:25] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-11 11:02:53] : BOSS Zangya vừa xuất hiện tại Rừng nấm
