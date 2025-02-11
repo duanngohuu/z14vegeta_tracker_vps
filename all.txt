@@ -6397,3 +6397,4 @@
 [2025-02-11 22:09:41] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 22:09:52] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 22:10:04] : BOSS Super Broly 8 vừa xuất hiện tại Thung lũng đen
+[2025-02-11 22:10:17] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
