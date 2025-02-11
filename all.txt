@@ -5864,3 +5864,4 @@
 [2025-02-11 13:00:35] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-11 13:01:05] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-11 13:01:37] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-11 13:02:10] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
