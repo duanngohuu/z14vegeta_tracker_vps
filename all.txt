@@ -5814,3 +5814,4 @@
 [2025-02-11 12:33:43] : BOSS Bojack vừa xuất hiện tại Rừng nấm
 [2025-02-11 12:34:11] : BOSS Bido vừa xuất hiện tại Rừng nấm
 [2025-02-11 12:34:41] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-11 12:35:13] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
