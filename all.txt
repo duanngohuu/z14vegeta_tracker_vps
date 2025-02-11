@@ -5298,3 +5298,4 @@
 [2025-02-11 08:15:17] : sangkirin: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-11 08:15:37] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-11 08:15:57] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-11 08:16:17] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
