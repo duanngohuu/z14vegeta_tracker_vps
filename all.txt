@@ -6158,3 +6158,4 @@
 [2025-02-11 15:36:20] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 15:36:49] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 15:37:15] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 15:37:41] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
