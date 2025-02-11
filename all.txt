@@ -5468,3 +5468,4 @@
 [2025-02-11 09:41:48] : bapcaix: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-11 09:42:15] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 09:42:43] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 09:43:10] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
