@@ -6209,3 +6209,4 @@
 [2025-02-11 16:00:18] : ditnyad vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 16:01:12] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-11 16:01:39] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-11 16:02:07] : BOSS Số 2 vừa xuất hiện tại Vực maima
