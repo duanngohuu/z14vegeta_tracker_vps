@@ -5642,3 +5642,4 @@
 [2025-02-11 11:05:18] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-11 11:05:44] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 11:06:10] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-11 11:06:37] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
