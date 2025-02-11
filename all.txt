@@ -5200,3 +5200,4 @@
 [2025-02-11 07:33:11] : BOSS Bido vừa xuất hiện tại Rừng dương xỉ
 [2025-02-11 07:33:39] : BOSS Zangya vừa xuất hiện tại Rừng dương xỉ
 [2025-02-11 07:34:09] : BOSS Kogu vừa xuất hiện tại Rừng dương xỉ
+[2025-02-11 07:34:42] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
