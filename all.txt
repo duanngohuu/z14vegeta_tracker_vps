@@ -5822,3 +5822,4 @@
 [2025-02-11 12:37:56] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 12:38:28] : BOSS Số 1 vừa xuất hiện tại Vách núi Moori
 [2025-02-11 12:38:58] : BOSS Số 2 vừa xuất hiện tại Vách núi Moori
+[2025-02-11 12:39:30] : BOSS Số 3 vừa xuất hiện tại Vách núi Moori
