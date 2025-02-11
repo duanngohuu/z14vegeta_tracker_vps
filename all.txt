@@ -5448,3 +5448,4 @@
 [2025-02-11 09:32:26] : BOSS Zangya vừa xuất hiện tại Rừng nấm
 [2025-02-11 09:32:51] : BOSS Kogu vừa xuất hiện tại Rừng nấm
 [2025-02-11 09:33:16] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-11 09:33:40] : BOSS Bujin vừa xuất hiện tại Rừng nấm
