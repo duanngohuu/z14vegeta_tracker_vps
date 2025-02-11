@@ -6054,3 +6054,4 @@
 [2025-02-11 14:42:34] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 14:43:01] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 14:43:31] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 14:43:59] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
