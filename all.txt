@@ -5261,3 +5261,4 @@
 [2025-02-11 08:01:51] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
 [2025-02-11 08:02:18] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 08:02:44] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-11 08:03:06] : BOSS Số 1 vừa xuất hiện tại Vực maima
