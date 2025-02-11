@@ -5694,3 +5694,4 @@
 [2025-02-11 11:30:51] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
 [2025-02-11 11:31:21] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-11 11:31:50] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-11 11:32:18] : BOSS Số 2 vừa xuất hiện tại Vực maima
