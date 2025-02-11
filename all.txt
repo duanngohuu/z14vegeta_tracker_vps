@@ -5825,3 +5825,4 @@
 [2025-02-11 12:39:30] : BOSS Số 3 vừa xuất hiện tại Vách núi Moori
 [2025-02-11 12:40:01] : BOSS Số 4 vừa xuất hiện tại Vách núi Moori
 [2025-02-11 12:40:33] : BOSS Zangya vừa xuất hiện tại Rừng nấm
+[2025-02-11 12:41:05] : BOSS Kogu vừa xuất hiện tại Rừng nấm
