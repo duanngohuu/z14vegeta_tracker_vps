@@ -6400,3 +6400,4 @@
 [2025-02-11 22:10:17] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 22:10:29] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 22:10:41] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-11 22:10:53] : uyt16 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
