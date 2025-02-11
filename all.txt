@@ -6146,3 +6146,4 @@
 [2025-02-11 15:30:07] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vách núi Moori
 [2025-02-11 15:30:38] : BOSS Số 1 vừa xuất hiện tại Vách núi Moori
 [2025-02-11 15:31:08] : BOSS Số 2 vừa xuất hiện tại Vách núi Moori
+[2025-02-11 15:31:44] : BOSS Số 3 vừa xuất hiện tại Vách núi Moori
