@@ -6050,3 +6050,4 @@
 [2025-02-11 14:40:53] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 14:41:20] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 14:41:44] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 14:42:09] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
