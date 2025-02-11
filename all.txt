@@ -6105,3 +6105,4 @@
 [2025-02-11 15:08:05] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 15:08:33] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 15:09:03] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 15:09:32] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
