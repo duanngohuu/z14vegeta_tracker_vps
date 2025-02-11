@@ -5818,3 +5818,4 @@
 [2025-02-11 12:35:45] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 12:36:15] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 12:36:49] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-11 12:37:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vách núi Moori
