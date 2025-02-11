@@ -5928,3 +5928,4 @@
 [2025-02-11 13:35:58] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-11 13:36:28] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-11 13:36:59] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 13:37:28] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
