@@ -5924,3 +5924,4 @@
 [2025-02-11 13:33:59] : BOSS Bujin vừa xuất hiện tại Rừng xương
 [2025-02-11 13:34:32] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-11 13:34:59] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-11 13:35:29] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
