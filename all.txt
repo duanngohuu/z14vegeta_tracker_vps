@@ -6356,3 +6356,4 @@
 [2025-02-11 17:12:24] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 17:12:52] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 17:13:20] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-11 17:13:47] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
