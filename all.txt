@@ -6165,3 +6165,4 @@
 [2025-02-11 15:39:22] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 15:39:53] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 15:40:19] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-11 15:40:43] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
