@@ -5712,3 +5712,4 @@
 [2025-02-11 11:40:26] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 11:40:54] : BOSS Siêu Bojack vừa xuất hiện tại Nam Kamê
 [2025-02-11 11:41:24] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 11:41:53] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
