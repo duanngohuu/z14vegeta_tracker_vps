@@ -5507,3 +5507,4 @@
 [2025-02-11 09:59:35] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 10:00:02] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 10:00:30] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-11 10:00:58] : BOSS Bojack vừa xuất hiện tại Đông Karin
