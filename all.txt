@@ -5377,3 +5377,4 @@
 [2025-02-11 08:54:05] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
 [2025-02-11 08:54:31] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-11 08:55:00] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-11 08:55:28] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
