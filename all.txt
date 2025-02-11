@@ -5352,3 +5352,4 @@
 [2025-02-11 08:40:19] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
 [2025-02-11 08:41:18] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 08:41:44] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-11 08:43:18] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
