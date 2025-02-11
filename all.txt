@@ -5762,3 +5762,4 @@
 [2025-02-11 12:07:12] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-11 12:07:42] : ongketrumsd: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-11 12:08:14] : 600kmh: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-11 12:08:45] : BOSS Siêu Bojack vừa xuất hiện tại Trạm tàu vũ trụ
