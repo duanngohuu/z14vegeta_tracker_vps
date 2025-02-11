@@ -5935,3 +5935,4 @@
 [2025-02-11 13:39:36] : suzaizuu vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 13:40:36] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 13:41:08] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-11 13:41:39] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
