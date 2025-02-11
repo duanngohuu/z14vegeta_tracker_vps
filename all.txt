@@ -6039,3 +6039,4 @@
 [2025-02-11 14:35:44] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 14:36:09] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 14:36:33] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 14:37:01] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
