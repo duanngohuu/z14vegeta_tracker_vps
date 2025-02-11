@@ -5344,3 +5344,4 @@
 [2025-02-11 08:36:51] : chaomynuu: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-11 08:37:17] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 08:37:41] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 08:38:05] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
