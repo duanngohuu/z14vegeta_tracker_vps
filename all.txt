@@ -6152,3 +6152,4 @@
 [2025-02-11 15:33:37] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 15:34:05] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 15:34:33] : xdxtrumxdx: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-11 15:35:00] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
