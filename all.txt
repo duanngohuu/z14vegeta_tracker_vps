@@ -5560,3 +5560,4 @@
 [2025-02-11 10:22:58] : jirenb0omnek vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 10:23:50] : BOSS Bojack vừa xuất hiện tại Rừng xương
 [2025-02-11 10:24:15] : BOSS Bido vừa xuất hiện tại Rừng xương
+[2025-02-11 10:24:45] : BOSS Zangya vừa xuất hiện tại Rừng xương
