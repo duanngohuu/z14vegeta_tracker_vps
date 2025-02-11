@@ -5134,3 +5134,4 @@
 [2025-02-11 07:07:24] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 07:07:50] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 07:08:14] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 07:08:37] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
