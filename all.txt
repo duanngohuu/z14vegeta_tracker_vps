@@ -5883,3 +5883,4 @@
 [2025-02-11 13:10:41] : tancaed: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-11 13:11:12] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 13:11:50] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 13:12:26] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
