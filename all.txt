@@ -6032,3 +6032,4 @@
 [2025-02-11 14:32:27] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 14:32:56] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 14:33:24] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-11 14:33:51] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
