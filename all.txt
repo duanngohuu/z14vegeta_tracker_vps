@@ -5228,3 +5228,4 @@
 [2025-02-11 07:44:42] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 07:45:04] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 07:45:29] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 07:45:51] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
