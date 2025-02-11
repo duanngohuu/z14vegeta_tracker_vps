@@ -5224,3 +5224,4 @@
 [2025-02-11 07:43:06] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 07:43:30] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 07:43:54] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 07:44:18] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
