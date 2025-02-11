@@ -5699,3 +5699,4 @@
 [2025-02-11 11:33:14] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-11 11:33:43] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 11:34:22] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 11:34:51] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
