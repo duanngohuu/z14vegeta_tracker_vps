@@ -6360,3 +6360,4 @@
 [2025-02-11 17:14:16] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 17:14:48] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 17:15:36] : nofed: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-11 17:16:20] : 14daystop1: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
