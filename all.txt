@@ -5675,3 +5675,4 @@
 [2025-02-11 11:21:40] : BOSS Zangya vừa xuất hiện tại Rừng nấm
 [2025-02-11 11:22:09] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-11 11:22:38] : BOSS Kogu vừa xuất hiện tại Rừng nấm
+[2025-02-11 11:23:04] : BOSS Bujin vừa xuất hiện tại Rừng nấm
