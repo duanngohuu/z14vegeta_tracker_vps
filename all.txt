@@ -5151,3 +5151,4 @@
 [2025-02-11 07:13:27] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 07:13:46] : hokage0e7: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-11 07:14:05] : BOSS Bojack vừa xuất hiện tại Đông Karin
+[2025-02-11 07:14:24] : BOSS Bido vừa xuất hiện tại Đông Karin
