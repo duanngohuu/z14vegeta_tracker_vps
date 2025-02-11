@@ -5770,3 +5770,4 @@
 [2025-02-11 12:12:04] : BOSS Bido vừa xuất hiện tại Nam Kamê
 [2025-02-11 12:12:32] : BOSS Zangya vừa xuất hiện tại Nam Kamê
 [2025-02-11 12:13:00] : BOSS Kogu vừa xuất hiện tại Nam Kamê
+[2025-02-11 12:13:28] : BOSS Bujin vừa xuất hiện tại Nam Kamê
