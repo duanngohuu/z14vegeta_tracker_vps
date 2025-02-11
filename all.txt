@@ -5131,3 +5131,4 @@
 [2025-02-11 07:06:09] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 07:06:32] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 07:06:57] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-11 07:07:24] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
