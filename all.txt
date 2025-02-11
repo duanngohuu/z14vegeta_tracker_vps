@@ -6145,3 +6145,4 @@
 [2025-02-11 15:29:06] : charlotters vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 15:30:07] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vách núi Moori
 [2025-02-11 15:30:38] : BOSS Số 1 vừa xuất hiện tại Vách núi Moori
+[2025-02-11 15:31:08] : BOSS Số 2 vừa xuất hiện tại Vách núi Moori
