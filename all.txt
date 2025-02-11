@@ -5643,3 +5643,4 @@
 [2025-02-11 11:05:44] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 11:06:10] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 11:06:37] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-11 11:07:04] : BOSS Số 1 vừa xuất hiện tại Vực maima
