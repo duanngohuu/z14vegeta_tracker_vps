@@ -5719,3 +5719,4 @@
 [2025-02-11 11:44:51] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 11:45:33] : top1sv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 11:46:38] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-11 11:47:07] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
