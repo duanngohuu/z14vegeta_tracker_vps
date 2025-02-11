@@ -6337,3 +6337,4 @@
 [2025-02-11 17:03:29] : ongketrumsd: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
 [2025-02-11 17:03:54] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 17:04:21] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-11 17:04:47] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
