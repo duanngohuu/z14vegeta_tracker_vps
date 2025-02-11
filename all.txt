@@ -5245,3 +5245,4 @@
 [2025-02-11 07:51:05] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 07:51:26] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 07:51:47] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 07:52:09] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
