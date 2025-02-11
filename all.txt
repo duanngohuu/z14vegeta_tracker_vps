@@ -5371,3 +5371,4 @@
 [2025-02-11 08:50:42] : BOSS Siêu Bojack vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 08:51:42] : lucky7mau: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-11 08:52:19] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-11 08:52:47] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
