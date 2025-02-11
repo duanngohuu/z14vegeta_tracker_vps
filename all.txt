@@ -5617,3 +5617,4 @@
 [2025-02-11 10:53:37] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 10:54:07] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 10:54:36] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 10:55:04] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
