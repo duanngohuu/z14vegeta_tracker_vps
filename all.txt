@@ -5767,3 +5767,4 @@
 [2025-02-11 12:10:18] : jennaruto vừa nhặt được Áo Thần Linh tại Dòng sông băng khu 4
 [2025-02-11 12:10:44] : nguoinhuank vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 12:11:38] : BOSS Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-11 12:12:04] : BOSS Bido vừa xuất hiện tại Nam Kamê
