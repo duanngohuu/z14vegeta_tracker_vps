@@ -5820,3 +5820,4 @@
 [2025-02-11 12:36:49] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-11 12:37:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vách núi Moori
 [2025-02-11 12:37:56] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 12:38:28] : BOSS Số 1 vừa xuất hiện tại Vách núi Moori
