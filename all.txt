@@ -5738,3 +5738,4 @@
 [2025-02-11 11:55:16] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 11:55:47] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 11:56:15] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 11:56:43] : xcasv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
