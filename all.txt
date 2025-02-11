@@ -5666,3 +5666,4 @@
 [2025-02-11 11:16:37] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 11:17:05] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 11:17:33] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 11:17:59] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
