@@ -5920,3 +5920,4 @@
 [2025-02-11 13:31:49] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 13:32:24] : BOSS Bido vừa xuất hiện tại Rừng xương
 [2025-02-11 13:32:57] : BOSS Zangya vừa xuất hiện tại Rừng xương
+[2025-02-11 13:33:29] : BOSS Kogu vừa xuất hiện tại Rừng xương
