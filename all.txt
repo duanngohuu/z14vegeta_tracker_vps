@@ -5793,3 +5793,4 @@
 [2025-02-11 12:23:31] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-11 12:23:59] : BOSS Kogu vừa xuất hiện tại Đông Karin
 [2025-02-11 12:24:26] : BOSS Bujin vừa xuất hiện tại Đông Karin
+[2025-02-11 12:24:55] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
