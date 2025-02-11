@@ -6385,3 +6385,4 @@
 [2025-02-11 17:29:27] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 17:30:16] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-11 17:31:03] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 17:31:40] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
