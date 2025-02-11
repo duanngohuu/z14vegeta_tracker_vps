@@ -5809,3 +5809,4 @@
 [2025-02-11 12:31:11] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-11 12:31:42] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-11 12:32:12] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-11 12:32:44] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
