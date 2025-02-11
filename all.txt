@@ -5197,3 +5197,4 @@
 [2025-02-11 07:31:42] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 07:32:11] : BOSS Bojack vừa xuất hiện tại Rừng dương xỉ
 [2025-02-11 07:32:41] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-11 07:33:11] : BOSS Bido vừa xuất hiện tại Rừng dương xỉ
