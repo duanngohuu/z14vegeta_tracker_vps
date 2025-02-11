@@ -5750,3 +5750,4 @@
 [2025-02-11 12:01:29] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 12:01:57] : 600kmh: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-11 12:02:25] : 600kmh: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-11 12:02:53] : 600kmh: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
