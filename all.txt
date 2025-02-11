@@ -5852,3 +5852,4 @@
 [2025-02-11 12:53:49] : BOSS Bido vừa xuất hiện tại Rừng nấm
 [2025-02-11 12:54:20] : BOSS Zangya vừa xuất hiện tại Rừng nấm
 [2025-02-11 12:54:55] : BOSS Kogu vừa xuất hiện tại Rừng nấm
+[2025-02-11 12:55:25] : BOSS Bujin vừa xuất hiện tại Rừng nấm
