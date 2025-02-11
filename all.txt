@@ -5440,3 +5440,4 @@
 [2025-02-11 09:28:54] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 09:29:19] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 09:29:46] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-11 09:30:14] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
