@@ -6178,3 +6178,4 @@
 [2025-02-11 15:44:50] : vuabomsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-11 15:45:14] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-11 15:45:38] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-11 15:46:03] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
