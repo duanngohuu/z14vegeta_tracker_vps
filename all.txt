@@ -5827,3 +5827,4 @@
 [2025-02-11 12:40:33] : BOSS Zangya vừa xuất hiện tại Rừng nấm
 [2025-02-11 12:41:05] : BOSS Kogu vừa xuất hiện tại Rừng nấm
 [2025-02-11 12:41:36] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 12:42:08] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
