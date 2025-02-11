@@ -5355,3 +5355,4 @@
 [2025-02-11 08:43:18] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 08:43:45] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 08:44:13] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 08:44:39] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
