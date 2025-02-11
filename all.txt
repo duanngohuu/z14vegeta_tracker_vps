@@ -5759,3 +5759,4 @@
 [2025-02-11 12:05:48] : 600kmh: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
 [2025-02-11 12:06:16] : 600kmh: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-11 12:06:42] : 600kmh: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-11 12:07:12] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
