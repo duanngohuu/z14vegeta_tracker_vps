@@ -6243,3 +6243,4 @@
 [2025-02-11 16:17:23] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 16:17:52] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-11 16:18:20] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-11 16:18:49] : BOSS Số 4 vừa xuất hiện tại Vực maima
