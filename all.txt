@@ -6223,3 +6223,4 @@
 [2025-02-11 16:07:23] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-11 16:07:51] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 16:08:24] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 16:08:56] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
