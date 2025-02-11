@@ -6162,3 +6162,4 @@
 [2025-02-11 15:38:07] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 15:38:31] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 15:38:55] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 15:39:22] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
