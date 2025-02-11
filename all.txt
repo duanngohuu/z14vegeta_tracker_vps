@@ -5594,3 +5594,4 @@
 [2025-02-11 10:41:08] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 10:41:39] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-11 10:42:10] : BOSS Siêu Bojack vừa xuất hiện tại Rừng Bamboo
+[2025-02-11 10:42:44] : BOSS Zangya vừa xuất hiện tại Rừng Bamboo
