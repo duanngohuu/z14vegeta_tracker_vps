@@ -6116,3 +6116,4 @@
 [2025-02-11 15:13:49] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 15:14:19] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 15:14:51] : tancaed: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-11 15:15:25] : tancaed: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
