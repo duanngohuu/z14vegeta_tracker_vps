@@ -5631,3 +5631,4 @@
 [2025-02-11 11:00:10] : flofrozen: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
 [2025-02-11 11:00:38] : bapcaix: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-11 11:01:06] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 11:01:30] : bapcaix: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
