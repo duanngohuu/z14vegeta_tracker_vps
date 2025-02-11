@@ -5782,3 +5782,4 @@
 [2025-02-11 12:17:52] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 12:18:17] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 12:18:45] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 12:19:13] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
