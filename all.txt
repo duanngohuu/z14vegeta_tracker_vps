@@ -6101,3 +6101,4 @@
 [2025-02-11 15:06:07] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 15:06:36] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-11 15:07:04] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 15:07:35] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
