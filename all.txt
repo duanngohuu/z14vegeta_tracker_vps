@@ -5563,3 +5563,4 @@
 [2025-02-11 10:24:45] : BOSS Zangya vừa xuất hiện tại Rừng xương
 [2025-02-11 10:25:11] : BOSS Kogu vừa xuất hiện tại Rừng xương
 [2025-02-11 10:25:36] : BOSS Bujin vừa xuất hiện tại Rừng xương
+[2025-02-11 10:27:53] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
