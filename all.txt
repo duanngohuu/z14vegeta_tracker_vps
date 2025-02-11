@@ -6192,3 +6192,4 @@
 [2025-02-11 15:51:52] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-11 15:52:22] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 15:52:52] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 15:53:22] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
