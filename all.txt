@@ -5504,3 +5504,4 @@
 [2025-02-11 09:58:12] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-11 09:58:39] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 09:59:08] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-11 09:59:35] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
