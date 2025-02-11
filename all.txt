@@ -6402,3 +6402,4 @@
 [2025-02-11 22:10:41] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-11 22:10:53] : uyt16 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 22:11:05] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-11 22:11:17] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
