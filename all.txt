@@ -5613,3 +5613,4 @@
 [2025-02-11 10:51:37] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 10:52:09] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 10:52:40] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 10:53:08] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
