@@ -5717,3 +5717,4 @@
 [2025-02-11 11:43:20] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 11:44:08] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 11:44:51] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 11:45:33] : top1sv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
