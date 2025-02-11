@@ -5974,3 +5974,4 @@
 [2025-02-11 13:59:41] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 14:00:08] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 14:00:37] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-11 14:01:03] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
