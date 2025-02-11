@@ -5476,3 +5476,4 @@
 [2025-02-11 09:45:34] : BOSS Bido vừa xuất hiện tại Rừng nấm
 [2025-02-11 09:46:05] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 09:46:35] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 09:47:04] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
