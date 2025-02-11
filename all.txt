@@ -6150,3 +6150,4 @@
 [2025-02-11 15:32:13] : BOSS Số 4 vừa xuất hiện tại Vách núi Moori
 [2025-02-11 15:32:40] : lucky7mau vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-11 15:33:37] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 15:34:05] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
