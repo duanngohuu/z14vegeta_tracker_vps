@@ -6382,3 +6382,4 @@
 [2025-02-11 17:28:06] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-11 17:28:33] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 17:29:00] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-11 17:29:27] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
