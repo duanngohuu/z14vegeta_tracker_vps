@@ -5275,3 +5275,4 @@
 [2025-02-11 08:07:01] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-11 08:07:25] : BOSS Bido vừa xuất hiện tại Đảo Kamê
 [2025-02-11 08:07:48] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
+[2025-02-11 08:08:12] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
