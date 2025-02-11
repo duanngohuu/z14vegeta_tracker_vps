@@ -5835,3 +5835,4 @@
 [2025-02-11 12:44:50] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 12:45:18] : BOSS Bujin vừa xuất hiện tại Rừng nấm
 [2025-02-11 12:45:49] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 12:46:23] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
