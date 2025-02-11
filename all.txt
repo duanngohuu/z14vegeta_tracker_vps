@@ -5611,3 +5611,4 @@
 [2025-02-11 10:50:37] : dr4gowear: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-11 10:51:07] : dr4gowear: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-11 10:51:37] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 10:52:09] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
