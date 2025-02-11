@@ -5627,3 +5627,4 @@
 [2025-02-11 10:58:24] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
 [2025-02-11 10:58:51] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 10:59:18] : BOSS Zangya vừa xuất hiện tại Đông Karin
+[2025-02-11 10:59:44] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
