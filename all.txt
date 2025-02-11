@@ -5656,3 +5656,4 @@
 [2025-02-11 11:12:01] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 11:12:27] : theloaidb: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-11 11:12:53] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-11 11:13:23] : theloaidb: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
