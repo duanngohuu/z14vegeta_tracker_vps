@@ -5967,3 +5967,4 @@
 [2025-02-11 13:56:11] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 13:56:42] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 13:57:10] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-11 13:57:39] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
