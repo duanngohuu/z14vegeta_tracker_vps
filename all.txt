@@ -5195,3 +5195,4 @@
 [2025-02-11 07:30:12] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-11 07:31:12] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-11 07:31:42] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-11 07:32:11] : BOSS Bojack vừa xuất hiện tại Rừng dương xỉ
