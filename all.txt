@@ -5291,3 +5291,4 @@
 [2025-02-11 08:12:43] : piclodaim8: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
 [2025-02-11 08:13:07] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-11 08:13:30] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-11 08:13:51] : BOSS Zangya vừa xuất hiện tại Đông Karin
