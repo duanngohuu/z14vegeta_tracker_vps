@@ -5724,3 +5724,4 @@
 [2025-02-11 11:48:08] : 600kmh: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
 [2025-02-11 11:48:40] : BOSS Siêu Bojack vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-11 11:49:08] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-11 11:49:40] : BOSS Số 1 vừa xuất hiện tại Vực maima
