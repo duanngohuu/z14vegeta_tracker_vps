@@ -5687,3 +5687,4 @@
 [2025-02-11 11:27:18] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-11 11:27:46] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-11 11:28:17] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-11 11:28:49] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
