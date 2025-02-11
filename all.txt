@@ -5744,3 +5744,4 @@
 [2025-02-11 11:58:42] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 11:59:10] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 11:59:40] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-11 12:00:09] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
