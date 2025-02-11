@@ -6274,3 +6274,4 @@
 [2025-02-11 16:33:28] : thangmaychem: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-11 16:33:55] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 16:34:23] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-11 16:34:48] : BOSS Số 1 vừa xuất hiện tại Vực maima
