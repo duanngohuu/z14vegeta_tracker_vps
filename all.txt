@@ -6210,3 +6210,4 @@
 [2025-02-11 16:01:12] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-11 16:01:39] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-11 16:02:07] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-11 16:02:36] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
