@@ -5274,3 +5274,4 @@
 [2025-02-11 08:06:39] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-11 08:07:01] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-11 08:07:25] : BOSS Bido vừa xuất hiện tại Đảo Kamê
+[2025-02-11 08:07:48] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
