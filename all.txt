@@ -5175,3 +5175,4 @@
 [2025-02-11 07:23:20] : BOSS Kogu vừa xuất hiện tại Đông Karin
 [2025-02-11 07:23:40] : BOSS Bujin vừa xuất hiện tại Đông Karin
 [2025-02-11 07:24:01] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-11 07:24:22] : BOSS Số 1 vừa xuất hiện tại Vực maima
