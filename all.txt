@@ -5144,3 +5144,4 @@
 [2025-02-11 07:11:11] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-11 07:11:30] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-11 07:11:49] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-11 07:12:08] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
