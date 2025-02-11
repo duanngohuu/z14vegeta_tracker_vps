@@ -5979,3 +5979,4 @@
 [2025-02-11 14:02:00] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 14:02:29] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 14:03:01] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-11 14:03:32] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
