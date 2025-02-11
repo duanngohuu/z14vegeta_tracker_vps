@@ -5619,3 +5619,4 @@
 [2025-02-11 10:54:36] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-11 10:55:04] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-11 10:55:34] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-11 10:56:05] : BOSS Số 2 vừa xuất hiện tại Vực maima
