@@ -912,3 +912,16 @@
 [2025-02-11 11:41:53] : Chúc mừng captainboyi vừa vô địch giải Siêu cấp 3
 [2025-02-11 13:03:13] : Chúc mừng kjngcrit vừa vô địch giải Ngoại hạng
 [2025-02-11 13:19:38] : s14s0ngoku vừa gọi rồng thần tại Làng Mori khu vực 7
+[2025-02-11 22:01:04] : Mau đến hành tinh tiếp theo nào. Nhanh lên, mọi người đang cần sự giúp đỡ của bạn đấy
+[2025-02-11 22:01:04] : Nhiệm vụ của bạn là Đánh 3 con quỷ đất mẹ
+[2025-02-11 22:01:04] : Hôm nay bạn sẽ nhận được từ 1 tới 2 viên ngọc khi tiêu diệt 1 con quái
+[2025-02-11 22:01:04] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Xay da
+[2025-02-11 22:01:09] : Thời gian tìm set kích hoạt đến 2025/02/23 16:17:36
+[2025-02-11 22:02:42] : Fake TDLT: Off
+[2025-02-11 22:06:12] : Mau đến hành tinh tiếp theo nào. Nhanh lên, mọi người đang cần sự giúp đỡ của bạn đấy
+[2025-02-11 22:06:12] : Nhiệm vụ của bạn là Đánh 3 con quỷ đất mẹ
+[2025-02-11 22:06:12] : Hôm nay bạn sẽ nhận được từ 1 tới 2 viên ngọc khi tiêu diệt 1 con quái
+[2025-02-11 22:06:12] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Xay da
+[2025-02-11 22:06:17] : Thời gian tìm set kích hoạt đến 2025/02/23 16:17:36
+[2025-02-11 22:07:48] : Bạn chưa thể đến khu vực này
+[2025-02-11 22:07:51] : Bạn chưa thể đến khu vực này
