@@ -5314,3 +5314,4 @@
 [2025-02-11 08:23:43] : BOSS Kogu vừa xuất hiện tại Rừng xương
 [2025-02-11 08:24:08] : BOSS Bujin vừa xuất hiện tại Rừng xương
 [2025-02-11 08:24:33] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-11 08:24:57] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
