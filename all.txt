@@ -5636,3 +5636,4 @@
 [2025-02-11 11:02:25] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
 [2025-02-11 11:02:53] : BOSS Zangya vừa xuất hiện tại Rừng nấm
 [2025-02-11 11:03:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-11 11:03:55] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
