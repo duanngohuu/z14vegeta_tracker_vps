@@ -6470,3 +6470,4 @@
 [2025-02-13 06:23:14] : BOSS Bojack vừa xuất hiện tại Rừng nấm
 [2025-02-13 06:23:26] : BOSS Bido vừa xuất hiện tại Rừng nấm
 [2025-02-13 06:23:38] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-13 06:26:02] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
