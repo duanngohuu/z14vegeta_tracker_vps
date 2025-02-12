@@ -6530,3 +6530,4 @@
 [2025-02-13 06:59:19] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 06:59:30] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 06:59:42] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 06:59:54] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
