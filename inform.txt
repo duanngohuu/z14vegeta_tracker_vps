@@ -1591,3 +1591,5 @@
 [2025-02-13 06:32:13] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
 [2025-02-13 06:32:13] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
 [2025-02-13 06:32:13] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:43:11] : Mau đến hành tinh tiếp theo nào. Nhanh lên, mọi người đang cần sự giúp đỡ của bạn đấy
+[2025-02-13 06:43:11] : Nhiệm vụ của bạn là Đánh 3 con quỷ đất mẹ
