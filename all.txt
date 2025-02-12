@@ -6523,3 +6523,4 @@
 [2025-02-13 06:56:42] : BOSS Siêu Bojack vừa xuất hiện tại Rừng xương
 [2025-02-13 06:56:54] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 06:57:06] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-13 06:57:18] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
