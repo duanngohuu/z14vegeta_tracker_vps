@@ -6496,3 +6496,4 @@
 [2025-02-13 06:36:29] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 06:36:40] : BOSS Siêu Bojack vừa xuất hiện tại Rừng xương
 [2025-02-13 06:36:52] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-13 06:37:05] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
