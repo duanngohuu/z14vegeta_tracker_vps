@@ -6514,3 +6514,4 @@
 [2025-02-13 06:46:42] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
 [2025-02-13 06:48:17] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-13 06:54:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-13 06:54:54] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
