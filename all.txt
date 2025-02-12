@@ -6409,3 +6409,6 @@
 [2025-02-11 22:12:28] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-11 22:12:40] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-11 22:12:52] : conggiagia0: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-13 05:54:56] : dapnatsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-13 05:56:09] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-13 05:56:21] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
