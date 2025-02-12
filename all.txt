@@ -6492,3 +6492,4 @@
 [2025-02-13 06:35:40] : banhkochoi: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-13 06:35:52] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-13 06:36:05] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-13 06:36:17] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
