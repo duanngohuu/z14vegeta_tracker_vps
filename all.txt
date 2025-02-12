@@ -6453,3 +6453,4 @@
 [2025-02-13 06:12:26] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-13 06:12:38] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-13 06:12:50] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-13 06:13:02] : BOSS Zangya vừa xuất hiện tại Đông Karin
