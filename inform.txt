@@ -948,3 +948,15 @@
 [2025-02-13 06:10:39] : Bạn nhận được Chữ giải
 [2025-02-13 06:11:37] : Bạn nhận được Chữ ấn
 [2025-02-13 06:23:06] : Bạn nhận được Chữ giải
+[2025-02-13 06:28:35] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:36] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:36] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:36] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:36] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:37] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:37] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:37] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:38] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:38] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:38] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
+[2025-02-13 06:28:39] : Đã hết đậu thần. Cậu hãy về thu hoạch thêm
