@@ -6505,3 +6505,4 @@
 [2025-02-13 06:41:17] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-13 06:41:29] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-13 06:41:41] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-13 06:41:53] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
