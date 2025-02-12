@@ -6488,3 +6488,4 @@
 [2025-02-13 06:34:40] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-13 06:34:52] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-13 06:35:04] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-13 06:35:28] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
