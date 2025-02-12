@@ -926,3 +926,17 @@
 [2025-02-11 22:07:48] : Bạn chưa thể đến khu vực này
 [2025-02-11 22:07:51] : Bạn chưa thể đến khu vực này
 [2025-02-13 05:54:19] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Xay da
+[2025-02-13 05:57:49] : Mau đến hành tinh tiếp theo nào. Nhanh lên, mọi người đang cần sự giúp đỡ của bạn đấy
+[2025-02-13 05:57:49] : Nhiệm vụ của bạn là Đánh 3 con quỷ đất mẹ
+[2025-02-13 05:57:49] : Hôm nay bạn sẽ nhận được từ 1 tới 2 viên ngọc khi tiêu diệt 1 con quái
+[2025-02-13 05:57:49] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Xay da
+[2025-02-13 05:57:55] : Thời gian tìm set kích hoạt đến 2025/02/23 16:17:36
+[2025-02-13 06:07:53] : Mau đến hành tinh tiếp theo nào. Nhanh lên, mọi người đang cần sự giúp đỡ của bạn đấy
+[2025-02-13 06:07:53] : Nhiệm vụ của bạn là Đánh 3 con quỷ đất mẹ
+[2025-02-13 06:07:53] : Hôm nay bạn sẽ nhận được từ 1 tới 2 viên ngọc khi tiêu diệt 1 con quái
+[2025-02-13 06:07:53] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Xay da
+[2025-02-13 06:07:58] : Thời gian tìm set kích hoạt đến 2025/02/23 16:17:36
+[2025-02-13 06:08:10] : Hãy ra trạm tàu vũ trụ và đi đến hành tinh Xay da
+[2025-02-13 06:08:14] : Tự động Đánh: BẬT
+[2025-02-13 06:08:16] : Tự động Đánh: TẮT
+[2025-02-13 06:08:18] : Tự động Đánh: BẬT

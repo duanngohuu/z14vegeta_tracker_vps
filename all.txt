@@ -6412,3 +6412,31 @@
 [2025-02-13 05:54:56] : dapnatsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-13 05:56:09] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-13 05:56:21] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-13 05:56:33] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-13 05:56:45] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-13 05:56:57] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-13 05:57:58] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 05:58:10] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-13 05:58:21] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-13 05:58:34] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-13 05:58:46] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-13 05:58:58] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-13 05:59:11] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-13 05:59:22] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-13 05:59:35] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 05:59:47] : deinin: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-13 05:59:57] : banhkochoi: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-13 06:00:11] : BOSS Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-13 06:00:22] : BOSS Bido vừa xuất hiện tại Rừng nấm
+[2025-02-13 06:00:34] : BOSS Zangya vừa xuất hiện tại Rừng nấm
+[2025-02-13 06:00:47] : BOSS Kogu vừa xuất hiện tại Rừng nấm
+[2025-02-13 06:00:58] : BOSS Bujin vừa xuất hiện tại Rừng nấm
+[2025-02-13 06:01:11] : banhkochoi: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-13 06:01:23] : leonmaskr: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-13 06:01:46] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-13 06:07:05] : deinin: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-13 06:07:05] : deinin: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-13 06:07:05] : leonmaskr: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-13 06:07:05] : vidpham3 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-13 06:07:05] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-13 06:08:25] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
