@@ -6972,3 +6972,4 @@
 [2025-02-13 09:30:50] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-13 09:31:03] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-13 09:31:14] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-13 09:31:27] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
