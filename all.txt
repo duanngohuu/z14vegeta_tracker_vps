@@ -7673,3 +7673,4 @@
 [2025-02-14 02:25:28] : mikitaa11 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 02:26:17] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 02:26:28] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 02:26:41] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
