@@ -7559,3 +7559,4 @@
 [2025-02-13 14:13:04] : kingtft: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-13 14:13:21] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 14:13:30] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-13 14:13:40] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
