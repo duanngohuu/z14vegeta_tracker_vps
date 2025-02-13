@@ -6907,3 +6907,4 @@
 [2025-02-13 09:17:48] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:17:59] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 09:18:11] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-13 09:18:23] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
