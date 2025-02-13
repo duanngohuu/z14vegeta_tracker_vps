@@ -7387,3 +7387,4 @@
 [2025-02-13 12:43:36] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 12:43:48] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 12:43:59] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 12:44:13] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
