@@ -6727,3 +6727,4 @@
 [2025-02-13 08:41:44] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-13 08:41:56] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 08:42:10] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-13 08:42:20] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
