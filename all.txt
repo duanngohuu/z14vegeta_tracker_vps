@@ -6819,3 +6819,4 @@
 [2025-02-13 09:00:10] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:00:22] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:00:34] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-13 09:00:46] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
