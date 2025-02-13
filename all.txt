@@ -7979,3 +7979,4 @@
 [2025-02-14 06:07:29] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-14 06:07:32] : BOSS Bido vừa xuất hiện tại Đông Karin
 [2025-02-14 06:07:35] : BOSS Zangya vừa xuất hiện tại Đông Karin
+[2025-02-14 06:07:39] : BOSS Kogu vừa xuất hiện tại Đông Karin
