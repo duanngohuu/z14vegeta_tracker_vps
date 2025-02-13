@@ -7711,3 +7711,4 @@
 [2025-02-14 02:44:54] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 03:03:05] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 03:04:06] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 03:04:18] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
