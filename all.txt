@@ -7211,3 +7211,4 @@
 [2025-02-13 11:03:08] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-13 11:03:20] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-13 11:03:33] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-13 11:03:45] : linhpinmax1 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
