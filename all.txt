@@ -7098,3 +7098,4 @@
 [2025-02-13 10:10:16] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-13 10:10:30] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-13 10:11:04] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-13 10:12:53] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
