@@ -7101,3 +7101,4 @@
 [2025-02-13 10:12:53] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-13 10:13:04] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-13 10:13:17] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-13 10:13:30] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
