@@ -6577,3 +6577,4 @@
 [2025-02-13 07:31:14] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 07:31:26] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 07:31:38] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 07:31:50] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
