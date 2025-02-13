@@ -7966,3 +7966,4 @@
 [2025-02-14 05:56:42] : hantindtq: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
 [2025-02-14 05:56:53] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 05:57:19] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 05:57:32] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
