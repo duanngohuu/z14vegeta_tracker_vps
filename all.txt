@@ -7184,3 +7184,4 @@
 [2025-02-13 10:50:21] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-13 10:51:21] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 10:51:32] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-13 10:51:45] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
