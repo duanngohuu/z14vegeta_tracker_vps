@@ -6601,3 +6601,4 @@
 [2025-02-13 07:50:16] : omomastic vừa nhặt được Áo Thần Linh tại Rừng tuyết khu 7
 [2025-02-13 07:51:17] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 07:51:29] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-13 07:51:41] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
