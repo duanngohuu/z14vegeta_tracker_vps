@@ -6741,3 +6741,4 @@
 [2025-02-13 08:44:33] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 08:44:46] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 08:44:57] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-13 08:45:09] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
