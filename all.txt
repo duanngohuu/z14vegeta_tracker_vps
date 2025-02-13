@@ -7423,3 +7423,4 @@
 [2025-02-13 12:58:49] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 12:59:02] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 13:02:37] : tkongunerr1 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-13 13:02:53] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
