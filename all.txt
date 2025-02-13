@@ -7107,3 +7107,4 @@
 [2025-02-13 10:14:06] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 10:14:17] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 10:14:28] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-13 10:14:41] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
