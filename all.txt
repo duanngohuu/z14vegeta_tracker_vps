@@ -7502,3 +7502,4 @@
 [2025-02-13 13:46:15] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 13:46:28] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 13:46:39] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 13:46:51] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
