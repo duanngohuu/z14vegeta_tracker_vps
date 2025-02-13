@@ -7280,3 +7280,4 @@
 [2025-02-13 11:43:52] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 11:46:30] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
 [2025-02-13 11:50:05] : z14rollroyce vừa nhặt được Giầy Thần Xayda tại Rừng băng khu 6
+[2025-02-13 11:50:18] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
