@@ -6593,3 +6593,4 @@
 [2025-02-13 07:42:46] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-13 07:45:48] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-13 07:46:47] : BOSS Siêu Bojack vừa xuất hiện tại Đảo Kamê
+[2025-02-13 07:47:38] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
