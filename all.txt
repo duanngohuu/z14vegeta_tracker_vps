@@ -7138,3 +7138,4 @@
 [2025-02-13 10:26:55] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-13 10:27:07] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 10:28:06] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-13 10:28:17] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
