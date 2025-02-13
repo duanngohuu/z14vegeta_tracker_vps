@@ -7086,3 +7086,4 @@
 [2025-02-13 10:02:28] : BOSS Siêu Bojack vừa xuất hiện tại Đảo Kamê
 [2025-02-13 10:05:28] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 10:05:41] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 10:05:53] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
