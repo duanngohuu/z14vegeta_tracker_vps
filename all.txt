@@ -7740,3 +7740,4 @@
 [2025-02-14 03:09:31] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Namếc
 [2025-02-14 03:09:43] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 03:09:55] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-14 03:10:07] : BOSS Số 1 vừa xuất hiện tại Thung lũng Namếc
