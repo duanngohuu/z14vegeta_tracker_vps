@@ -6747,3 +6747,4 @@
 [2025-02-13 08:45:45] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 08:45:57] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-13 08:46:09] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-13 08:46:22] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
