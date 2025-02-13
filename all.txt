@@ -7187,3 +7187,4 @@
 [2025-02-13 10:51:45] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-13 10:51:57] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 10:52:09] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-13 10:52:21] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
