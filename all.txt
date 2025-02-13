@@ -7499,3 +7499,4 @@
 [2025-02-13 13:45:39] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 13:45:51] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-13 13:46:03] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-13 13:46:15] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
