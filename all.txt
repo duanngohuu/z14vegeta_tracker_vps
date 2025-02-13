@@ -6623,3 +6623,4 @@
 [2025-02-13 07:58:55] : decade14st vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-13 07:59:20] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-13 07:59:32] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-13 07:59:44] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
