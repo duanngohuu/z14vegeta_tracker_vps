@@ -7303,3 +7303,4 @@
 [2025-02-13 11:58:18] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 11:58:32] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 11:58:42] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-13 11:58:56] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
