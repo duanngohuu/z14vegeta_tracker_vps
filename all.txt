@@ -7282,3 +7282,4 @@
 [2025-02-13 11:50:05] : z14rollroyce vừa nhặt được Giầy Thần Xayda tại Rừng băng khu 6
 [2025-02-13 11:50:18] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 11:50:53] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-13 11:51:05] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
