@@ -7746,3 +7746,4 @@
 [2025-02-14 03:10:43] : BOSS Số 4 vừa xuất hiện tại Thung lũng Namếc
 [2025-02-14 03:10:54] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 03:11:07] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 03:11:18] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
