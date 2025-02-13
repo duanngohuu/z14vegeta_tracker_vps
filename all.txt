@@ -6845,3 +6845,4 @@
 [2025-02-13 09:05:22] : BOSS Bojack vừa xuất hiện tại Nam Kamê
 [2025-02-13 09:05:35] : BOSS Bido vừa xuất hiện tại Nam Kamê
 [2025-02-13 09:05:46] : BOSS Zangya vừa xuất hiện tại Nam Kamê
+[2025-02-13 09:05:58] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
