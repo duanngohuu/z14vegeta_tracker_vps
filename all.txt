@@ -6698,3 +6698,4 @@
 [2025-02-13 08:32:20] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 08:32:31] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 08:32:45] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 08:32:56] : walledo: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
