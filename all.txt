@@ -6695,3 +6695,4 @@
 [2025-02-13 08:27:44] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 08:27:55] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 08:30:07] : ditmead2110 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Cađic M
+[2025-02-13 08:32:20] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
