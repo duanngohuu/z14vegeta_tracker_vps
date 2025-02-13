@@ -7992,3 +7992,4 @@
 [2025-02-14 06:08:17] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 06:08:21] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 06:08:24] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 06:08:27] : edatcuto vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
