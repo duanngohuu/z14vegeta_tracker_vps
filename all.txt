@@ -6552,3 +6552,4 @@
 [2025-02-13 07:11:58] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 07:12:12] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 07:12:23] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-13 07:12:35] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
