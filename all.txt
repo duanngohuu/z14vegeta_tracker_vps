@@ -7773,3 +7773,4 @@
 [2025-02-14 03:27:32] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 03:27:45] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 03:27:57] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-14 03:28:10] : BOSS Số 2 vừa xuất hiện tại Vực maima
