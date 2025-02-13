@@ -7949,3 +7949,4 @@
 [2025-02-14 05:44:40] : lucastass: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-14 05:44:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-14 05:45:04] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-14 05:45:16] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
