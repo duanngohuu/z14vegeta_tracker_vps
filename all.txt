@@ -8026,3 +8026,4 @@
 [2025-02-14 06:25:57] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 06:27:21] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 06:27:33] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-14 06:27:44] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
