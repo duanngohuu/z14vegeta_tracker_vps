@@ -6791,3 +6791,4 @@
 [2025-02-13 08:54:34] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 08:54:45] : BOSS Bojack vừa xuất hiện tại Rừng dương xỉ
 [2025-02-13 08:54:58] : BOSS Bido vừa xuất hiện tại Rừng dương xỉ
+[2025-02-13 08:55:10] : BOSS Zangya vừa xuất hiện tại Rừng dương xỉ
