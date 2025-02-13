@@ -6908,3 +6908,4 @@
 [2025-02-13 09:17:59] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 09:18:11] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 09:18:23] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-13 09:18:36] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
