@@ -6570,3 +6570,4 @@
 [2025-02-13 07:27:11] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 07:27:22] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 07:30:13] : vuongpham3r vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-13 07:30:26] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
