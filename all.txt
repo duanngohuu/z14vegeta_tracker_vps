@@ -7664,3 +7664,4 @@
 [2025-02-14 02:17:39] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 02:18:04] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 02:18:15] : bom15m5z: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-14 02:18:53] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
