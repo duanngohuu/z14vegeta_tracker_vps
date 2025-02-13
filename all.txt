@@ -7210,3 +7210,4 @@
 [2025-02-13 11:02:57] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-13 11:03:08] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-13 11:03:20] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-13 11:03:33] : BOSS Số 4 vừa xuất hiện tại Vực maima
