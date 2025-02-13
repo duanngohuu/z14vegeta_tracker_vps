@@ -8014,3 +8014,4 @@
 [2025-02-14 06:17:30] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-14 06:17:33] : mayboom: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
 [2025-02-14 06:17:37] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-14 06:17:40] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
