@@ -7700,3 +7700,4 @@
 [2025-02-14 02:33:41] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-14 02:33:53] : aphidepzai: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-14 02:35:40] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-14 02:35:53] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
