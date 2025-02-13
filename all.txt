@@ -7939,3 +7939,4 @@
 [2025-02-14 05:35:02] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-14 05:36:17] : nghiencansa vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 05:42:29] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 05:42:41] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
