@@ -6988,3 +6988,4 @@
 [2025-02-13 09:34:02] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:34:14] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 09:34:26] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-13 09:34:38] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
