@@ -6915,3 +6915,4 @@
 [2025-02-13 09:19:23] : BOSS Siêu Bojack vừa xuất hiện tại Đảo Kamê
 [2025-02-13 09:19:36] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-13 09:19:47] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-13 09:20:02] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
