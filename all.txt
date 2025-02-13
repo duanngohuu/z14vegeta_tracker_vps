@@ -6675,3 +6675,4 @@
 [2025-02-13 08:12:30] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 08:12:41] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 08:17:18] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-13 08:18:31] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
