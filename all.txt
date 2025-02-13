@@ -6809,3 +6809,4 @@
 [2025-02-13 08:58:10] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 08:58:21] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-13 08:58:34] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-13 08:58:46] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
