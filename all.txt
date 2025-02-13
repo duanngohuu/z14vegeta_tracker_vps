@@ -6795,3 +6795,4 @@
 [2025-02-13 08:55:21] : BOSS Kogu vừa xuất hiện tại Rừng dương xỉ
 [2025-02-13 08:55:34] : BOSS Bujin vừa xuất hiện tại Rừng dương xỉ
 [2025-02-13 08:55:46] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-13 08:55:59] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
