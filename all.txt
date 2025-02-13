@@ -7728,3 +7728,4 @@
 [2025-02-14 03:07:05] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 03:07:18] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 03:07:31] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 03:07:41] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
