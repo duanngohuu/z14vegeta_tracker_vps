@@ -8005,3 +8005,4 @@
 [2025-02-14 06:17:04] : BOSS Zangya vừa xuất hiện tại Rừng Bamboo
 [2025-02-14 06:17:08] : BOSS Kogu vừa xuất hiện tại Rừng Bamboo
 [2025-02-14 06:17:11] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 06:17:13] : BOSS Super Broly 20 vừa xuất hiện tại Vách núi đen
