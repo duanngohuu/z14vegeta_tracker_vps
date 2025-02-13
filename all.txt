@@ -6704,3 +6704,4 @@
 [2025-02-13 08:36:21] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 08:37:20] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
 [2025-02-13 08:37:32] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-13 08:37:44] : BOSS Cooler vừa xuất hiện tại Hang băng
