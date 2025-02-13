@@ -7278,3 +7278,4 @@
 [2025-02-13 11:43:30] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 11:43:41] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 11:43:52] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-13 11:46:30] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
