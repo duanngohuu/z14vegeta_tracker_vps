@@ -7419,3 +7419,4 @@
 [2025-02-13 12:58:00] : uhpgnort: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
 [2025-02-13 12:58:12] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 12:58:26] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-13 12:58:37] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
