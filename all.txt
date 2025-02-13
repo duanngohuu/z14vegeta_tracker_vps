@@ -7203,3 +7203,4 @@
 [2025-02-13 10:58:32] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 10:58:45] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-13 10:58:56] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-13 11:00:09] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
