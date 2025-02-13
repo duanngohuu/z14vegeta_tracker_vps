@@ -7497,3 +7497,4 @@
 [2025-02-13 13:44:15] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 13:45:27] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-13 13:45:39] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 13:45:51] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
