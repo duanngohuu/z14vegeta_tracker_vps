@@ -7400,3 +7400,4 @@
 [2025-02-13 12:48:36] : siukamer vừa lên Top 1 Giải Siêu Hạng
 [2025-02-13 12:50:12] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 12:50:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-13 12:50:36] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
