@@ -6643,3 +6643,4 @@
 [2025-02-13 08:03:11] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 08:03:23] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 08:03:34] : walledo: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-13 08:03:47] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
