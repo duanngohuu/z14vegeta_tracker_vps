@@ -7733,3 +7733,4 @@
 [2025-02-14 03:08:07] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 03:08:19] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 03:08:31] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-14 03:08:42] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
