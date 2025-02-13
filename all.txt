@@ -7694,3 +7694,4 @@
 [2025-02-14 02:31:41] : BOSS Super Broly 30 vừa xuất hiện tại Đảo Kamê
 [2025-02-14 02:31:53] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-14 02:32:04] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-14 02:32:16] : BOSS Số 3 vừa xuất hiện tại Vực maima
