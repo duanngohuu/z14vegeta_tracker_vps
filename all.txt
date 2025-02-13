@@ -6965,3 +6965,4 @@
 [2025-02-13 09:29:27] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:29:39] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:29:50] : BOSS Siêu Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-13 09:30:03] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
