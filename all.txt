@@ -7389,3 +7389,4 @@
 [2025-02-13 12:43:59] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 12:44:13] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 12:44:24] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 12:44:36] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
