@@ -6967,3 +6967,4 @@
 [2025-02-13 09:29:50] : BOSS Siêu Bojack vừa xuất hiện tại Nam Kamê
 [2025-02-13 09:30:03] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:30:14] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-13 09:30:26] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
