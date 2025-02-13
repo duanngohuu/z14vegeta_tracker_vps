@@ -7830,3 +7830,4 @@
 [2025-02-14 04:34:14] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-14 04:34:25] : bom15m5z: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-14 04:36:14] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 04:39:25] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
