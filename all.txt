@@ -7333,3 +7333,4 @@
 [2025-02-13 12:13:45] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-13 12:13:57] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-13 12:14:08] : mihnday: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-13 12:14:21] : mihnday: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
