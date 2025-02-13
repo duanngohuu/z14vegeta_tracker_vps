@@ -7157,3 +7157,4 @@
 [2025-02-13 10:34:42] : luxubum1b: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-13 10:35:54] : BOSS Siêu Bojack vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-13 10:36:56] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 10:37:09] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
