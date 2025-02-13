@@ -7230,3 +7230,4 @@
 [2025-02-13 11:13:27] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 11:13:38] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 11:13:51] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-13 11:15:50] : BOSS Siêu Bojack vừa xuất hiện tại Đảo Kamê
