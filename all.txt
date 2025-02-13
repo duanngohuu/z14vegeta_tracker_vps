@@ -6977,3 +6977,4 @@
 [2025-02-13 09:31:50] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:32:03] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:32:14] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-13 09:32:27] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
