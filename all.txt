@@ -6846,3 +6846,4 @@
 [2025-02-13 09:05:35] : BOSS Bido vừa xuất hiện tại Nam Kamê
 [2025-02-13 09:05:46] : BOSS Zangya vừa xuất hiện tại Nam Kamê
 [2025-02-13 09:05:58] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-13 09:06:10] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
