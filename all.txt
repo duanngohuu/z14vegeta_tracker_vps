@@ -6635,3 +6635,4 @@
 [2025-02-13 08:01:35] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 08:01:47] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 08:01:58] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-13 08:02:11] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
