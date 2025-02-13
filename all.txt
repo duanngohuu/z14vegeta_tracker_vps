@@ -7634,3 +7634,4 @@
 [2025-02-13 14:54:24] : s14taan: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-13 14:54:39] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-13 14:55:31] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-13 14:59:19] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
