@@ -6633,3 +6633,4 @@
 [2025-02-13 08:01:10] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 08:01:22] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 08:01:35] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 08:01:47] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
