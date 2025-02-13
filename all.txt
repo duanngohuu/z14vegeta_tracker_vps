@@ -7167,3 +7167,4 @@
 [2025-02-13 10:42:57] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-13 10:43:08] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 10:43:20] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-13 10:43:33] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
