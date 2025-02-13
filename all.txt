@@ -6566,3 +6566,4 @@
 [2025-02-13 07:26:22] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 07:26:34] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 07:26:46] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-13 07:26:58] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
