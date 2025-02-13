@@ -7140,3 +7140,4 @@
 [2025-02-13 10:28:06] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-13 10:28:17] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-13 10:28:29] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-13 10:28:43] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
