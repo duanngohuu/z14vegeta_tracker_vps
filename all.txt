@@ -7659,3 +7659,4 @@
 [2025-02-14 02:15:14] : BOSS Số 3 vừa xuất hiện tại Thung lũng Namếc
 [2025-02-14 02:15:27] : BOSS Số 4 vừa xuất hiện tại Thung lũng Namếc
 [2025-02-14 02:15:39] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-14 02:15:51] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
