@@ -6812,3 +6812,4 @@
 [2025-02-13 08:58:46] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-13 08:58:57] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-13 08:59:10] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-13 08:59:22] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
