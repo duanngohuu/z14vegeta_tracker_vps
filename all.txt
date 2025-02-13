@@ -7964,3 +7964,4 @@
 [2025-02-14 05:55:42] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 05:56:30] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 05:56:42] : hantindtq: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-14 05:56:53] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
