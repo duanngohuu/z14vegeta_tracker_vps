@@ -7927,3 +7927,4 @@
 [2025-02-14 05:30:01] : shayphucs: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-14 05:31:25] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 05:31:37] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 05:31:50] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
