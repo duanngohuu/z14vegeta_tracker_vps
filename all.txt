@@ -7802,3 +7802,4 @@
 [2025-02-14 04:26:13] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 04:26:25] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 04:27:03] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 04:27:15] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
