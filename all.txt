@@ -7795,3 +7795,4 @@
 [2025-02-14 04:14:12] : trolais14: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-14 04:14:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-14 04:14:37] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-14 04:14:49] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
