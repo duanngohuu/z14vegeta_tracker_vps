@@ -6793,3 +6793,4 @@
 [2025-02-13 08:54:58] : BOSS Bido vừa xuất hiện tại Rừng dương xỉ
 [2025-02-13 08:55:10] : BOSS Zangya vừa xuất hiện tại Rừng dương xỉ
 [2025-02-13 08:55:21] : BOSS Kogu vừa xuất hiện tại Rừng dương xỉ
+[2025-02-13 08:55:34] : BOSS Bujin vừa xuất hiện tại Rừng dương xỉ
