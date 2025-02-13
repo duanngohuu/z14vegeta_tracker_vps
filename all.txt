@@ -6798,3 +6798,4 @@
 [2025-02-13 08:55:59] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 08:56:09] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 08:56:23] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-13 08:56:34] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
