@@ -7133,3 +7133,4 @@
 [2025-02-13 10:23:05] : BOSS Bujin vừa xuất hiện tại Đông Karin
 [2025-02-13 10:26:05] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 10:26:19] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-13 10:26:30] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
