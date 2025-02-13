@@ -6843,3 +6843,4 @@
 [2025-02-13 09:04:58] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:05:10] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-13 09:05:22] : BOSS Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-13 09:05:35] : BOSS Bido vừa xuất hiện tại Nam Kamê
