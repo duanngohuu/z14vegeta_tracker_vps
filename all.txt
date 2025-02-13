@@ -7737,3 +7737,4 @@
 [2025-02-14 03:08:55] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 03:09:07] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 03:09:18] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 03:09:31] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Namếc
