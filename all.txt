@@ -7612,3 +7612,4 @@
 [2025-02-13 14:46:22] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 14:46:44] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 14:47:12] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-13 14:47:32] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
