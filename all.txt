@@ -6605,3 +6605,4 @@
 [2025-02-13 07:51:53] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 07:52:04] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-13 07:52:17] : lucky7mau: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-13 07:54:17] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
