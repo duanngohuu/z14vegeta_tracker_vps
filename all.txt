@@ -7087,3 +7087,4 @@
 [2025-02-13 10:05:28] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 10:05:41] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-13 10:05:53] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-13 10:06:04] : top1sv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
