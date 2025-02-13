@@ -7060,3 +7060,4 @@
 [2025-02-13 09:52:16] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 09:52:28] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-13 09:52:41] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-13 09:52:52] : BOSS Cooler vừa xuất hiện tại Hang băng
