@@ -6691,3 +6691,4 @@
 [2025-02-13 08:26:56] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 08:27:08] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-13 08:27:20] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-13 08:27:33] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
