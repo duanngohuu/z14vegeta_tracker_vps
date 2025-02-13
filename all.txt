@@ -7839,3 +7839,4 @@
 [2025-02-14 04:42:02] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 04:42:14] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 04:42:26] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 04:42:37] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
