@@ -8063,3 +8063,4 @@
 [2025-02-14 06:36:20] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 06:36:32] : BOSS Super Broly 30 vừa xuất hiện tại Thung lũng Namếc
 [2025-02-14 06:36:45] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 06:36:56] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
