@@ -7299,3 +7299,4 @@
 [2025-02-13 11:57:31] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-13 11:57:42] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-13 11:57:55] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-13 11:58:08] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
