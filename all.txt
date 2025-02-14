@@ -9400,3 +9400,4 @@
 [2025-02-14 21:41:26] : BOSS Fide Vàng 3 vừa xuất hiện tại Đông Karin
 [2025-02-14 21:41:39] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-14 21:41:50] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-14 21:42:03] : BOSS Số 4 vừa xuất hiện tại Vực maima
