@@ -8955,3 +8955,4 @@
 [2025-02-14 16:44:09] : tuansv14: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-14 16:44:32] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 16:44:44] : 09fs726j: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-14 16:45:59] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
