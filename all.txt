@@ -8684,3 +8684,4 @@
 [2025-02-14 10:54:15] : betnat6 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 10:58:27] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 10:59:51] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 11:00:11] : BOSS Cooler vừa xuất hiện tại Hang băng
