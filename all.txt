@@ -10116,3 +10116,4 @@
 [2025-02-15 02:41:03] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 02:41:15] : 00012012: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-15 02:41:27] : sakura0m: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 02:41:39] : BOSS Super Broly 27 vừa xuất hiện tại Nam Guru
