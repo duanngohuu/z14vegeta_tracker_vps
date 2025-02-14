@@ -10205,3 +10205,4 @@
 [2025-02-15 03:18:40] : BOSS Super Broly 26 vừa xuất hiện tại Rừng dương xỉ
 [2025-02-15 03:18:52] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 03:19:28] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 03:19:40] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
