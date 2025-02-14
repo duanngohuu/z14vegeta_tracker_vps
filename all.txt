@@ -9882,3 +9882,4 @@
 [2025-02-15 01:00:21] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 01:00:34] : hoangtusv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-15 01:00:45] : hoangtusv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 01:04:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
