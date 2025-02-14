@@ -9605,3 +9605,4 @@
 [2025-02-14 23:15:00] : s14kakarot: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-14 23:17:49] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 23:18:00] : 14smafiad: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-14 23:18:12] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
