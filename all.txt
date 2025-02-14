@@ -8215,3 +8215,4 @@
 [2025-02-14 07:42:52] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 07:43:04] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 07:43:16] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-14 07:47:05] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
