@@ -9100,3 +9100,4 @@
 [2025-02-14 18:34:24] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-14 18:34:34] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-14 18:34:47] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 18:35:00] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
