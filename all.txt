@@ -8747,3 +8747,4 @@
 [2025-02-14 11:31:54] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 11:32:13] : l7gohan17: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
 [2025-02-14 11:32:28] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-14 11:32:44] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
