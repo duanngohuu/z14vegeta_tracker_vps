@@ -9169,3 +9169,4 @@
 [2025-02-14 19:11:59] : BOSS Số 1 vừa xuất hiện tại Nam Guru
 [2025-02-14 19:12:02] : BOSS Số 2 vừa xuất hiện tại Nam Guru
 [2025-02-14 19:12:05] : BOSS Số 3 vừa xuất hiện tại Nam Guru
+[2025-02-14 19:12:07] : BOSS Số 4 vừa xuất hiện tại Nam Guru
