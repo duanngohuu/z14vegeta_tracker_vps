@@ -9974,3 +9974,4 @@
 [2025-02-15 01:39:36] : bong14sao vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 01:40:24] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-15 01:40:36] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 01:40:48] : BOSS Số 2 vừa xuất hiện tại Vực maima
