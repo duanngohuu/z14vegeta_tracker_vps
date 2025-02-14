@@ -10113,3 +10113,4 @@
 [2025-02-15 02:40:27] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-15 02:40:39] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-15 02:40:51] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 02:41:03] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
