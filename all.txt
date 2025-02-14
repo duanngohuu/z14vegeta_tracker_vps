@@ -8968,3 +8968,4 @@
 [2025-02-14 16:51:00] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-14 16:51:10] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-14 16:51:47] : BOSS Super Broly 27 vừa xuất hiện tại Rừng Bamboo
+[2025-02-14 16:51:59] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
