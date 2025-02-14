@@ -8790,3 +8790,4 @@
 [2025-02-14 11:53:48] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 11:54:11] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 11:54:24] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 11:54:35] : breakskips: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
