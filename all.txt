@@ -9560,3 +9560,4 @@
 [2025-02-14 23:04:11] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 23:04:23] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 23:04:35] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 23:04:47] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
