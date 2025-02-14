@@ -8384,3 +8384,4 @@
 [2025-02-14 09:02:22] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 09:02:58] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-14 09:03:11] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-14 09:03:23] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
