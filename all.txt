@@ -8336,3 +8336,4 @@
 [2025-02-14 08:42:44] : embelolir: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
 [2025-02-14 08:43:08] : BOSS Bojack vừa xuất hiện tại Nam Kamê
 [2025-02-14 08:43:20] : BOSS Bido vừa xuất hiện tại Nam Kamê
+[2025-02-14 08:43:32] : BOSS Zangya vừa xuất hiện tại Nam Kamê
