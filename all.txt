@@ -10219,3 +10219,4 @@
 [2025-02-15 03:22:05] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 03:22:17] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 03:22:28] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 03:22:41] : BOSS Super Broly 26 vừa xuất hiện tại Rừng dương xỉ
