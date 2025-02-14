@@ -8991,3 +8991,4 @@
 [2025-02-14 17:00:24] : BOSS Super Broly 4 vừa xuất hiện tại Nam Kamê
 [2025-02-14 17:00:36] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 17:00:48] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-14 17:01:00] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
