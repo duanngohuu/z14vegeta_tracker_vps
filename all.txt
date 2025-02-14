@@ -8459,3 +8459,4 @@
 [2025-02-14 09:33:15] : BOSS Bido vừa xuất hiện tại Rừng dương xỉ
 [2025-02-14 09:33:26] : BOSS Zangya vừa xuất hiện tại Rừng dương xỉ
 [2025-02-14 09:33:38] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 09:33:50] : BOSS Kogu vừa xuất hiện tại Rừng dương xỉ
