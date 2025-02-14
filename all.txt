@@ -9413,3 +9413,4 @@
 [2025-02-14 21:44:04] : BOSS Super Broly 30 vừa xuất hiện tại Đảo Guru
 [2025-02-14 21:48:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-14 21:49:05] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-14 21:49:16] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
