@@ -9345,3 +9345,4 @@
 [2025-02-14 21:11:16] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 21:11:18] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-14 21:11:21] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-14 21:11:24] : BOSS Cooler vừa xuất hiện tại Hang băng
