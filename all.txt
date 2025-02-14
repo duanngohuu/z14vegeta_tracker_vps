@@ -8284,3 +8284,4 @@
 [2025-02-14 08:13:18] : BOSS Bujin vừa xuất hiện tại Nam Kamê
 [2025-02-14 08:13:54] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 08:14:32] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-14 08:14:44] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
