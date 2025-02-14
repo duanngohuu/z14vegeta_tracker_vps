@@ -10341,3 +10341,4 @@
 [2025-02-15 06:45:43] : ditnyad vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 06:45:45] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 06:45:48] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 06:45:51] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
