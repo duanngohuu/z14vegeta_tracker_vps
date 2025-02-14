@@ -8543,3 +8543,4 @@
 [2025-02-14 10:02:19] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 10:03:07] : BOSS Bojack vừa xuất hiện tại Nam Kamê
 [2025-02-14 10:03:19] : BOSS Bido vừa xuất hiện tại Nam Kamê
+[2025-02-14 10:03:31] : BOSS Zangya vừa xuất hiện tại Nam Kamê
