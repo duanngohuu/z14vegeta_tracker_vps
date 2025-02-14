@@ -8654,3 +8654,4 @@
 [2025-02-14 10:45:15] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 10:45:25] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 10:45:37] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 10:45:49] : uitramenn vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
