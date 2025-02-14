@@ -9763,3 +9763,4 @@
 [2025-02-15 00:11:22] : o0binhyoyo0o vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 00:12:58] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 00:13:10] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 00:13:22] : BOSS Cooler vừa xuất hiện tại Hang băng
