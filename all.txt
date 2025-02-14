@@ -8698,3 +8698,4 @@
 [2025-02-14 11:06:27] : l7piezerl7 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 11:06:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-14 11:07:11] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-14 11:07:27] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
