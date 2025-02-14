@@ -10236,3 +10236,4 @@
 [2025-02-15 03:25:28] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 03:25:40] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 03:25:57] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 03:26:05] : BOSS Super Broly 26 vừa xuất hiện tại Bờ vực đen
