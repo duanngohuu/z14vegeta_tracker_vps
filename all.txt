@@ -9990,3 +9990,4 @@
 [2025-02-15 01:50:13] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 01:50:25] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 01:50:37] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 01:50:49] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
