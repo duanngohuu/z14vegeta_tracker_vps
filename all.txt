@@ -10364,3 +10364,4 @@
 [2025-02-15 06:56:47] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 06:56:59] : xmaixjnh: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-15 06:57:23] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 06:57:36] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
