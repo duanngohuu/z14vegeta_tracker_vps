@@ -10128,3 +10128,4 @@
 [2025-02-15 02:44:03] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 02:44:15] : 00012012: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-15 02:44:27] : 00012012: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 02:45:03] : BOSS Super Broly 25 vừa xuất hiện tại Vách núi đen
