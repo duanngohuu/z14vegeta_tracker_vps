@@ -8913,3 +8913,4 @@
 [2025-02-14 16:30:31] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 16:30:43] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 16:30:55] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-14 16:31:06] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
