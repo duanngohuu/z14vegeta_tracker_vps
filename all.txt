@@ -8326,3 +8326,4 @@
 [2025-02-14 08:34:43] : s14hero vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 08:34:55] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-14 08:36:20] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 08:40:44] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
