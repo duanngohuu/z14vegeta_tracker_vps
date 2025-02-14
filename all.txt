@@ -8994,3 +8994,4 @@
 [2025-02-14 17:01:00] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 17:01:12] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 17:01:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 17:01:37] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
