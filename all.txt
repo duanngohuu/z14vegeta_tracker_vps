@@ -8668,3 +8668,4 @@
 [2025-02-14 10:49:20] : s1plus2s: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-14 10:49:28] : jirenb0omnek vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 10:51:02] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-14 10:51:38] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
