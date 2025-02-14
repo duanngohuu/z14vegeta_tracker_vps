@@ -8762,3 +8762,4 @@
 [2025-02-14 11:41:28] : lucky7mau: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-14 11:42:05] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 11:42:29] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 11:42:53] : BOSS Bojack vừa xuất hiện tại Rừng Bamboo
