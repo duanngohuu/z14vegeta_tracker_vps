@@ -10024,3 +10024,4 @@
 [2025-02-15 02:05:14] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 02:05:26] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 02:05:38] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 02:05:50] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
