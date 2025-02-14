@@ -9071,3 +9071,4 @@
 [2025-02-14 18:19:21] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 18:19:33] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 18:19:45] : faketaxiii vừa lên Top 10 Giải Siêu Hạng
+[2025-02-14 18:19:58] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
