@@ -9347,3 +9347,4 @@
 [2025-02-14 21:11:21] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 21:11:24] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-14 21:11:27] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-14 21:11:30] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
