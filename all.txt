@@ -8288,3 +8288,4 @@
 [2025-02-14 08:14:55] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 08:15:07] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 08:15:20] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-14 08:17:42] : minhakamaru vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
