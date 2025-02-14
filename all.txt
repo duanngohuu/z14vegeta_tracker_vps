@@ -10026,3 +10026,4 @@
 [2025-02-15 02:05:38] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 02:05:50] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 02:06:02] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 02:06:14] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
