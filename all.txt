@@ -9710,3 +9710,4 @@
 [2025-02-14 23:57:04] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-14 23:57:16] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-14 23:57:28] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 23:57:40] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
