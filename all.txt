@@ -9032,3 +9032,4 @@
 [2025-02-14 17:16:27] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 17:16:38] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 17:16:50] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 17:19:49] : BOSS Super Broly 28 vừa xuất hiện tại Rừng Bamboo
