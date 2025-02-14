@@ -8581,3 +8581,4 @@
 [2025-02-14 10:12:08] : tuansv14: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
 [2025-02-14 10:13:08] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-14 10:13:20] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-14 10:13:32] : BOSS Zangya vừa xuất hiện tại Đông Karin
