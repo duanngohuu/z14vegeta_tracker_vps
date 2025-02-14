@@ -8420,3 +8420,4 @@
 [2025-02-14 09:15:00] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-14 09:15:12] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-14 09:15:24] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-14 09:15:36] : BOSS Cooler vừa xuất hiện tại Hang băng
