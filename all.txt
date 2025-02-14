@@ -8386,3 +8386,4 @@
 [2025-02-14 09:03:11] : BOSS Bido vừa xuất hiện tại Đông Karin
 [2025-02-14 09:03:23] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 09:03:34] : BOSS Zangya vừa xuất hiện tại Đông Karin
+[2025-02-14 09:03:47] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
