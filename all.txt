@@ -9195,3 +9195,4 @@
 [2025-02-14 19:24:51] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 19:24:54] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 19:24:56] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 19:24:59] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
