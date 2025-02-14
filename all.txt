@@ -8415,3 +8415,4 @@
 [2025-02-14 09:14:00] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-14 09:14:12] : BOSS Kogu vừa xuất hiện tại Đông Karin
 [2025-02-14 09:14:24] : BOSS Bujin vừa xuất hiện tại Đông Karin
+[2025-02-14 09:14:36] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
