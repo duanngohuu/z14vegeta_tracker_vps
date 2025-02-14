@@ -10014,3 +10014,4 @@
 [2025-02-15 02:02:50] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 02:03:02] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-15 02:03:14] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 02:03:26] : BOSS Cooler vừa xuất hiện tại Hang băng
