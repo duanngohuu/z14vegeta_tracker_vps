@@ -8627,3 +8627,4 @@
 [2025-02-14 10:30:23] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 10:30:35] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 10:32:23] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 10:32:35] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
