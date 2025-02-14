@@ -8527,3 +8527,4 @@
 [2025-02-14 09:57:06] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-14 09:57:19] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-14 09:58:31] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-14 09:58:55] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
