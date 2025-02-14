@@ -10286,3 +10286,4 @@
 [2025-02-15 06:20:23] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-15 06:20:35] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 06:20:47] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 06:21:11] : BOSS Super Broly 29 vừa xuất hiện tại Đảo Guru
