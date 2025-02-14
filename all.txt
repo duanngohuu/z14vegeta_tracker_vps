@@ -8302,3 +8302,4 @@
 [2025-02-14 08:27:31] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 08:27:43] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 08:27:54] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-14 08:28:07] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
