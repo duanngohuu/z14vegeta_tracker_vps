@@ -9445,3 +9445,4 @@
 [2025-02-14 22:08:18] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-14 22:10:54] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 22:11:06] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 22:11:18] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
