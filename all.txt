@@ -8470,3 +8470,4 @@
 [2025-02-14 09:37:15] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 09:37:27] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-14 09:37:40] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-14 09:37:52] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
