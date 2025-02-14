@@ -9869,3 +9869,4 @@
 [2025-02-15 00:55:57] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 00:56:33] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-15 00:56:46] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 00:56:57] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
