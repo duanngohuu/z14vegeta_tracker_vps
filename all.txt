@@ -9096,3 +9096,4 @@
 [2025-02-14 18:33:35] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 18:33:47] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 18:33:59] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 18:34:11] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
