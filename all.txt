@@ -9895,3 +9895,4 @@
 [2025-02-15 01:06:46] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 01:07:58] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 01:08:09] : bong14sao vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Nail chiến binh Namếc
+[2025-02-15 01:08:34] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
