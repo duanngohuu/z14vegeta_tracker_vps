@@ -8362,3 +8362,4 @@
 [2025-02-14 08:53:10] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
 [2025-02-14 08:53:22] : BOSS Bido vừa xuất hiện tại Đảo Kamê
 [2025-02-14 08:53:33] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
+[2025-02-14 08:53:46] : BOSS Kogu vừa xuất hiện tại Đảo Kamê
