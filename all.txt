@@ -8860,3 +8860,4 @@
 [2025-02-14 12:14:32] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 12:14:46] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 12:15:08] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-14 12:15:31] : BOSS Super Broly 29 vừa xuất hiện tại Vách núi đen
