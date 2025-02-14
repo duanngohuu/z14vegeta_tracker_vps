@@ -8771,3 +8771,4 @@
 [2025-02-14 11:45:37] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-14 11:46:15] : BOSS Zangya vừa xuất hiện tại Rừng Bamboo
 [2025-02-14 11:46:42] : BOSS Kogu vừa xuất hiện tại Rừng Bamboo
+[2025-02-14 11:47:06] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
