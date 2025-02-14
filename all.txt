@@ -8141,3 +8141,4 @@
 [2025-02-14 07:11:35] : BOSS Bojack vừa xuất hiện tại Rừng dương xỉ
 [2025-02-14 07:11:59] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 07:12:11] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-14 07:12:23] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
