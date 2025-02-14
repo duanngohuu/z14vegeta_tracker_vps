@@ -10281,3 +10281,4 @@
 [2025-02-15 06:18:47] : trumnrsd6789: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-15 06:18:59] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 06:19:47] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 06:19:59] : BOSS Số 1 vừa xuất hiện tại Vực maima
