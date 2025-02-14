@@ -10346,3 +10346,4 @@
 [2025-02-15 06:45:56] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-15 06:45:58] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 06:46:01] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 06:47:47] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
