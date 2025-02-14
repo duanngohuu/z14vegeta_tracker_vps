@@ -10060,3 +10060,4 @@
 [2025-02-15 02:16:51] : bong14sao vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 02:17:02] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Guru
 [2025-02-15 02:19:38] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 02:19:50] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
