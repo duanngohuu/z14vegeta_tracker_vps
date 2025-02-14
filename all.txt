@@ -8463,3 +8463,4 @@
 [2025-02-14 09:34:02] : BOSS Super Broly 30 vừa xuất hiện tại Vách núi đen
 [2025-02-14 09:34:15] : BOSS Bujin vừa xuất hiện tại Rừng dương xỉ
 [2025-02-14 09:35:03] : tamkisieu vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-14 09:36:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
