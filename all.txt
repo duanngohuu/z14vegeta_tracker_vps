@@ -10178,3 +10178,4 @@
 [2025-02-15 03:05:40] : BOSS Số 4 vừa xuất hiện tại Nam Guru
 [2025-02-15 03:05:52] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 03:06:04] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 03:06:16] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
