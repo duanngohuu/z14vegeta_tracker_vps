@@ -9925,3 +9925,4 @@
 [2025-02-15 01:22:34] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-15 01:22:46] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-15 01:22:58] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 01:23:10] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
