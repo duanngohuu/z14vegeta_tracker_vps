@@ -8885,3 +8885,4 @@
 [2025-02-14 16:23:54] : kingtft: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-14 16:24:30] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 16:25:06] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-14 16:25:19] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
