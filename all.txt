@@ -8687,3 +8687,4 @@
 [2025-02-14 11:00:11] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-14 11:00:27] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 11:00:37] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 11:00:46] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
