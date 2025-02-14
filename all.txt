@@ -8588,3 +8588,4 @@
 [2025-02-14 10:14:33] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-14 10:14:44] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-14 10:14:57] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-14 10:15:44] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
