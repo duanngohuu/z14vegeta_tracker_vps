@@ -9669,3 +9669,4 @@
 [2025-02-14 23:42:37] : hoangtusv14: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-14 23:45:03] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 23:45:15] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 23:45:27] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
