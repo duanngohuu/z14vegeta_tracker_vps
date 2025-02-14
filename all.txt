@@ -9687,3 +9687,4 @@
 [2025-02-14 23:51:52] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 23:52:28] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 23:52:40] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-14 23:52:52] : pipobeo2025 vừa lên Top 2 Giải Siêu Hạng
