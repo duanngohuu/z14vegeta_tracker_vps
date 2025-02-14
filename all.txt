@@ -10262,3 +10262,4 @@
 [2025-02-15 06:12:32] : j3rosv14: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-15 06:12:34] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 06:12:36] : BOSS Bojack vừa xuất hiện tại Rừng xương
+[2025-02-15 06:12:39] : BOSS Bido vừa xuất hiện tại Rừng xương
