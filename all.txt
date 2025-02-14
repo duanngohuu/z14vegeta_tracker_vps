@@ -8783,3 +8783,4 @@
 [2025-02-14 11:50:38] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 11:51:14] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 11:51:39] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 11:52:09] : BOSS Bujin vừa xuất hiện tại Rừng Bamboo
