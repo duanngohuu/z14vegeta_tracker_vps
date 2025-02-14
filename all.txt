@@ -8517,3 +8517,4 @@
 [2025-02-14 09:52:42] : peepipopo vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 09:53:06] : BOSS Bojack vừa xuất hiện tại Đảo Bulông
 [2025-02-14 09:53:18] : BOSS Bido vừa xuất hiện tại Đảo Bulông
+[2025-02-14 09:53:30] : BOSS Zangya vừa xuất hiện tại Đảo Bulông
