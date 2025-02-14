@@ -8989,3 +8989,4 @@
 [2025-02-14 16:59:59] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 17:00:13] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-14 17:00:24] : BOSS Super Broly 4 vừa xuất hiện tại Nam Kamê
+[2025-02-14 17:00:36] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
