@@ -10190,3 +10190,4 @@
 [2025-02-15 03:11:17] : ongketrumsd: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
 [2025-02-15 03:12:28] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-15 03:12:41] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 03:12:52] : BOSS Cooler vừa xuất hiện tại Hang băng
