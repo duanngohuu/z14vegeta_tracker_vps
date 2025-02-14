@@ -8729,3 +8729,4 @@
 [2025-02-14 11:25:05] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
 [2025-02-14 11:25:26] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-14 11:25:44] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-14 11:26:04] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
