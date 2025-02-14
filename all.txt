@@ -9983,3 +9983,4 @@
 [2025-02-15 01:48:49] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 01:49:01] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
 [2025-02-15 01:49:13] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 01:49:25] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
