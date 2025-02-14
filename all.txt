@@ -8447,3 +8447,4 @@
 [2025-02-14 09:24:13] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 09:24:25] : queen14s: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
 [2025-02-14 09:24:37] : queen14s: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-14 09:24:49] : queen14s: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
