@@ -8651,3 +8651,4 @@
 [2025-02-14 10:44:37] : BOSS Super Broly 30 vừa xuất hiện tại Thung lũng đen
 [2025-02-14 10:44:54] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 10:45:08] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 10:45:15] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
