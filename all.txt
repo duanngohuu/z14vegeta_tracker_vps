@@ -8299,3 +8299,4 @@
 [2025-02-14 08:26:55] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-14 08:27:07] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
 [2025-02-14 08:27:19] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-14 08:27:31] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
