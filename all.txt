@@ -9447,3 +9447,4 @@
 [2025-02-14 22:11:06] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 22:11:18] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 22:11:30] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-14 22:11:43] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
