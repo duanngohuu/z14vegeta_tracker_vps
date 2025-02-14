@@ -8623,3 +8623,4 @@
 [2025-02-14 10:29:34] : lucky7mau: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
 [2025-02-14 10:29:46] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 10:29:59] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 10:30:11] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
