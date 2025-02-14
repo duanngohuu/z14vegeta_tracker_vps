@@ -9845,3 +9845,4 @@
 [2025-02-15 00:49:10] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-15 00:49:22] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 00:49:33] : BOSS Super Broly 28 vừa xuất hiện tại Rừng Bamboo
+[2025-02-15 00:49:46] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
