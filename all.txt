@@ -8410,3 +8410,4 @@
 [2025-02-14 09:13:00] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-14 09:13:12] : BOSS Bido vừa xuất hiện tại Đông Karin
 [2025-02-14 09:13:24] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 09:13:36] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
