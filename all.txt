@@ -8583,3 +8583,4 @@
 [2025-02-14 10:13:20] : BOSS Bido vừa xuất hiện tại Đông Karin
 [2025-02-14 10:13:32] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-14 10:13:57] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-14 10:14:08] : BOSS Số 1 vừa xuất hiện tại Vực maima
