@@ -9201,3 +9201,4 @@
 [2025-02-14 19:25:08] : darkids: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-14 19:25:11] : darkids: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-14 19:25:14] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-14 19:25:17] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
