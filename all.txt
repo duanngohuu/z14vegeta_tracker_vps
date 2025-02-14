@@ -9918,3 +9918,4 @@
 [2025-02-15 01:19:10] : bong14sao: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-15 01:19:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 01:19:46] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 01:19:58] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
