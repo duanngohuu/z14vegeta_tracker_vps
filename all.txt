@@ -8184,3 +8184,4 @@
 [2025-02-14 07:27:51] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-14 07:28:03] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-14 07:28:15] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-14 07:31:28] : BOSS Bojack vừa xuất hiện tại Đông Karin
