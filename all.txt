@@ -9225,3 +9225,4 @@
 [2025-02-14 19:33:11] : jennaruto vừa lên Top 1 Giải Siêu Hạng
 [2025-02-14 19:33:35] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 19:33:47] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-14 19:33:59] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
