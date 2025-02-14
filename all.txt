@@ -10339,3 +10339,4 @@
 [2025-02-15 06:45:39] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-15 06:45:41] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-15 06:45:43] : ditnyad vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 06:45:45] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
