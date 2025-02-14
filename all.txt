@@ -8317,3 +8317,4 @@
 [2025-02-14 08:32:55] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 08:33:07] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-14 08:33:19] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-14 08:33:31] : BOSS Zangya vừa xuất hiện tại Đông Karin
