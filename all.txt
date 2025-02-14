@@ -9570,3 +9570,4 @@
 [2025-02-14 23:06:48] : daituongquan vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 2 sao
 [2025-02-14 23:07:59] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-14 23:08:11] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-14 23:08:24] : BOSS Cooler vừa xuất hiện tại Hang băng
