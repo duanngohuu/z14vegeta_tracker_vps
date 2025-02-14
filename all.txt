@@ -8986,3 +8986,4 @@
 [2025-02-14 16:59:24] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 16:59:36] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 16:59:48] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-14 16:59:59] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
