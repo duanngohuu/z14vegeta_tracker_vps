@@ -8361,3 +8361,4 @@
 [2025-02-14 08:50:09] : tungems2: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-14 08:53:10] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
 [2025-02-14 08:53:22] : BOSS Bido vừa xuất hiện tại Đảo Kamê
+[2025-02-14 08:53:33] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
