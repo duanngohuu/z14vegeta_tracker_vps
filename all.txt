@@ -8591,3 +8591,4 @@
 [2025-02-14 10:15:44] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 10:15:56] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 10:16:08] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 10:16:21] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
