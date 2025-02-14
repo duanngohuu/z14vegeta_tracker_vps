@@ -8773,3 +8773,4 @@
 [2025-02-14 11:46:42] : BOSS Kogu vừa xuất hiện tại Rừng Bamboo
 [2025-02-14 11:47:06] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 11:47:29] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 11:47:53] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
