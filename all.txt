@@ -10374,3 +10374,4 @@
 [2025-02-15 06:58:59] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 06:59:12] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 06:59:23] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 06:59:36] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
