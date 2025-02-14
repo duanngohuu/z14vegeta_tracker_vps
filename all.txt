@@ -9616,3 +9616,4 @@
 [2025-02-14 23:19:48] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 23:20:00] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 23:20:12] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 23:20:24] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
