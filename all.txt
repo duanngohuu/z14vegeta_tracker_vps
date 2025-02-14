@@ -8338,3 +8338,4 @@
 [2025-02-14 08:43:20] : BOSS Bido vừa xuất hiện tại Nam Kamê
 [2025-02-14 08:43:32] : BOSS Zangya vừa xuất hiện tại Nam Kamê
 [2025-02-14 08:43:44] : BOSS Kogu vừa xuất hiện tại Nam Kamê
+[2025-02-14 08:43:56] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
