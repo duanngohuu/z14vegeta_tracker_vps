@@ -8970,3 +8970,4 @@
 [2025-02-14 16:51:47] : BOSS Super Broly 27 vừa xuất hiện tại Rừng Bamboo
 [2025-02-14 16:51:59] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 16:54:12] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 16:54:23] : BOSS Cooler vừa xuất hiện tại Hang băng
