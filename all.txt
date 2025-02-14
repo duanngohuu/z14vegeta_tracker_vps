@@ -9572,3 +9572,4 @@
 [2025-02-14 23:08:11] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-14 23:08:24] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-14 23:08:36] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-14 23:09:00] : BOSS Super Broly 30 vừa xuất hiện tại Đảo Kamê
