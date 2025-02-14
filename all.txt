@@ -8495,3 +8495,4 @@
 [2025-02-14 09:48:07] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 09:48:11] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 09:48:16] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-14 09:48:21] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
