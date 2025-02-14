@@ -9444,3 +9444,4 @@
 [2025-02-14 22:07:42] : 14smafia1: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-14 22:08:18] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-14 22:10:54] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 22:11:06] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
