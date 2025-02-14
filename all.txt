@@ -8484,3 +8484,4 @@
 [2025-02-14 09:43:05] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-14 09:43:17] : thsv14 vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 3 sao
 [2025-02-14 09:43:29] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-14 09:43:41] : BOSS Zangya vừa xuất hiện tại Đông Karin
