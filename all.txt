@@ -10066,3 +10066,4 @@
 [2025-02-15 02:20:26] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 02:20:39] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 02:20:50] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 02:21:02] : BOSS Super Broly 11 vừa xuất hiện tại Đảo Kamê
