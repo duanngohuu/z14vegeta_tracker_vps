@@ -8819,3 +8819,4 @@
 [2025-02-14 12:03:36] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-14 12:03:53] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-14 12:04:11] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-14 12:04:24] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
