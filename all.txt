@@ -8482,3 +8482,4 @@
 [2025-02-14 09:42:17] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 09:42:53] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-14 09:43:05] : BOSS Bojack vừa xuất hiện tại Đông Karin
+[2025-02-14 09:43:17] : thsv14 vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 3 sao
