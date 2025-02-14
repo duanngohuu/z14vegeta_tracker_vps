@@ -8340,3 +8340,4 @@
 [2025-02-14 08:43:44] : BOSS Kogu vừa xuất hiện tại Nam Kamê
 [2025-02-14 08:43:56] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-14 08:44:08] : BOSS Super Broly 30 vừa xuất hiện tại Vách núi đen
+[2025-02-14 08:44:20] : BOSS Số 1 vừa xuất hiện tại Vực maima
