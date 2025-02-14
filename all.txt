@@ -8692,3 +8692,4 @@
 [2025-02-14 11:01:39] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
 [2025-02-14 11:01:52] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-14 11:02:27] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 11:03:03] : BOSS Super Broly 30 vừa xuất hiện tại Thành phố Vegeta
