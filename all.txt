@@ -8320,3 +8320,4 @@
 [2025-02-14 08:33:31] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-14 08:33:44] : BOSS Kogu vừa xuất hiện tại Đông Karin
 [2025-02-14 08:33:55] : BOSS Bujin vừa xuất hiện tại Đông Karin
+[2025-02-14 08:34:07] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
