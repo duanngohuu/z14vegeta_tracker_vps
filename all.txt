@@ -9820,3 +9820,4 @@
 [2025-02-15 00:35:04] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 00:35:16] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 00:36:29] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 00:37:41] : BOSS Super Broly 28 vừa xuất hiện tại Rừng dương xỉ
