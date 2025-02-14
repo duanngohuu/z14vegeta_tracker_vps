@@ -8376,3 +8376,4 @@
 [2025-02-14 09:00:34] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 09:00:46] : minhakamaru vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 09:00:58] : BOSS Super Broly 30 vừa xuất hiện tại Nam Guru
+[2025-02-14 09:01:11] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
