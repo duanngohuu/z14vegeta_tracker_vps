@@ -8661,3 +8661,4 @@
 [2025-02-14 10:47:52] : s1plus2s: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
 [2025-02-14 10:48:03] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-14 10:48:14] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-14 10:48:26] : BOSS Số 2 vừa xuất hiện tại Vực maima
