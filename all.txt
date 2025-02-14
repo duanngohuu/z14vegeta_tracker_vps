@@ -8823,3 +8823,4 @@
 [2025-02-14 12:04:46] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-14 12:05:07] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 12:05:23] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 12:05:40] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
