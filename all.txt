@@ -10331,3 +10331,4 @@
 [2025-02-15 06:45:17] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 06:45:19] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 06:45:22] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 06:45:26] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
