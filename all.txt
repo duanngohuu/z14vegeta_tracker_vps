@@ -10135,3 +10135,4 @@
 [2025-02-15 02:48:28] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 02:48:39] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 02:48:51] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 02:49:03] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
