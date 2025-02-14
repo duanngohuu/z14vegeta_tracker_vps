@@ -10221,3 +10221,4 @@
 [2025-02-15 03:22:28] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 03:22:41] : BOSS Super Broly 26 vừa xuất hiện tại Rừng dương xỉ
 [2025-02-15 03:22:59] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 03:23:05] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
