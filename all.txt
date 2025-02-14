@@ -9339,3 +9339,4 @@
 [2025-02-14 21:10:56] : BOSS Fide Vàng 1 vừa xuất hiện tại Đông Karin
 [2025-02-14 21:11:00] : BOSS Fide Vàng 2 vừa xuất hiện tại Đông Karin
 [2025-02-14 21:11:02] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-14 21:11:06] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
