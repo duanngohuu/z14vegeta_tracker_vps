@@ -10329,3 +10329,4 @@
 [2025-02-15 06:45:08] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
 [2025-02-15 06:45:15] : BOSS Super Broly 29 vừa xuất hiện tại Vách núi đen
 [2025-02-15 06:45:17] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 06:45:19] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
