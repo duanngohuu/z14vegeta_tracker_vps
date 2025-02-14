@@ -8487,3 +8487,4 @@
 [2025-02-14 09:43:41] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-14 09:43:53] : BOSS Kogu vừa xuất hiện tại Đông Karin
 [2025-02-14 09:44:06] : BOSS Bujin vừa xuất hiện tại Đông Karin
+[2025-02-14 09:44:17] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
