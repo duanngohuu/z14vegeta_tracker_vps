@@ -8895,3 +8895,4 @@
 [2025-02-14 16:26:42] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 16:27:06] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 16:27:18] : BOSS Super Broly 28 vừa xuất hiện tại Thành phố Vegeta
+[2025-02-14 16:27:31] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
