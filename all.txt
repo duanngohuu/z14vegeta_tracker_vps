@@ -8811,3 +8811,4 @@
 [2025-02-14 12:00:49] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-14 12:01:16] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-14 12:01:38] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-14 12:02:05] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
