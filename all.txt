@@ -8498,3 +8498,4 @@
 [2025-02-14 09:48:21] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-14 09:48:26] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-14 09:48:30] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 09:48:35] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
