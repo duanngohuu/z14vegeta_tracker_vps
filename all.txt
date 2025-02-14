@@ -10022,3 +10022,4 @@
 [2025-02-15 02:04:50] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 02:05:02] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 02:05:14] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 02:05:26] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
