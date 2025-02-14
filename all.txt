@@ -9023,3 +9023,4 @@
 [2025-02-14 17:09:01] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Namếc
 [2025-02-14 17:09:12] : BOSS Super Broly 27 vừa xuất hiện tại Rừng đá
 [2025-02-14 17:09:25] : BOSS Số 1 vừa xuất hiện tại Thung lũng Namếc
+[2025-02-14 17:09:38] : BOSS Số 2 vừa xuất hiện tại Thung lũng Namếc
