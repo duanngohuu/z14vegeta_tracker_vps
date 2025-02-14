@@ -8765,3 +8765,4 @@
 [2025-02-14 11:42:53] : BOSS Bojack vừa xuất hiện tại Rừng Bamboo
 [2025-02-14 11:43:20] : BOSS Bido vừa xuất hiện tại Rừng Bamboo
 [2025-02-14 11:43:40] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-14 11:44:10] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
