@@ -8610,3 +8610,4 @@
 [2025-02-14 10:23:09] : BOSS Bojack vừa xuất hiện tại Rừng nấm
 [2025-02-14 10:23:23] : BOSS Bido vừa xuất hiện tại Rừng nấm
 [2025-02-14 10:23:33] : BOSS Zangya vừa xuất hiện tại Rừng nấm
+[2025-02-14 10:23:57] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
