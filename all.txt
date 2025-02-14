@@ -10291,3 +10291,4 @@
 [2025-02-15 06:21:35] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-15 06:21:47] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-15 06:21:59] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 06:22:12] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
