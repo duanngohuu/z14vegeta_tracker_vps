@@ -9449,3 +9449,4 @@
 [2025-02-14 22:11:30] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 22:11:43] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 22:11:54] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 22:12:06] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
