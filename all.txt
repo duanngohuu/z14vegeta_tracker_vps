@@ -8291,3 +8291,4 @@
 [2025-02-14 08:17:42] : minhakamaru vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 08:23:07] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-14 08:23:18] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-14 08:23:30] : BOSS Zangya vừa xuất hiện tại Đông Karin
