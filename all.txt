@@ -8700,3 +8700,4 @@
 [2025-02-14 11:07:11] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 11:07:27] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 11:07:37] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-14 11:07:54] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
