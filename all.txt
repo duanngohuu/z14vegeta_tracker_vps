@@ -9397,3 +9397,4 @@
 [2025-02-14 21:40:50] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 21:41:02] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-14 21:41:14] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-14 21:41:26] : BOSS Fide Vàng 3 vừa xuất hiện tại Đông Karin
