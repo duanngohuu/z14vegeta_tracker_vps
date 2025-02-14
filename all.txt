@@ -8383,3 +8383,4 @@
 [2025-02-14 09:01:58] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-14 09:02:22] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 09:02:58] : BOSS Bojack vừa xuất hiện tại Đông Karin
+[2025-02-14 09:03:11] : BOSS Bido vừa xuất hiện tại Đông Karin
