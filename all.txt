@@ -9950,3 +9950,4 @@
 [2025-02-15 01:32:10] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 01:32:22] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 01:32:34] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 01:32:47] : tamkisieu2 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
