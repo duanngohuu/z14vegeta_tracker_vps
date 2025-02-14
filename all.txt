@@ -10080,3 +10080,4 @@
 [2025-02-15 02:26:15] : 00012012: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-15 02:27:39] : BOSS Super Broly 27 vừa xuất hiện tại Đảo Kamê
 [2025-02-15 02:28:27] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 02:30:51] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
