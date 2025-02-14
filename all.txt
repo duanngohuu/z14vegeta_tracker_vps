@@ -8863,3 +8863,4 @@
 [2025-02-14 12:15:31] : BOSS Super Broly 29 vừa xuất hiện tại Vách núi đen
 [2025-02-14 16:15:53] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vách núi Moori
 [2025-02-14 16:16:05] : BOSS Số 1 vừa xuất hiện tại Vách núi Moori
+[2025-02-14 16:16:16] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
