@@ -8595,3 +8595,4 @@
 [2025-02-14 10:16:33] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 10:16:45] : embelolir: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-14 10:16:57] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-14 10:17:09] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
