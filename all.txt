@@ -8229,3 +8229,4 @@
 [2025-02-14 07:52:53] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-14 07:53:05] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-14 07:53:17] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-14 07:53:29] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
