@@ -8816,3 +8816,4 @@
 [2025-02-14 12:02:43] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 12:03:01] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 12:03:18] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-14 12:03:36] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
