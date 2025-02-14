@@ -10211,3 +10211,4 @@
 [2025-02-15 03:20:17] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 03:20:29] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 03:20:40] : henwukong: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 03:20:52] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
