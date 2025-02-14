@@ -8849,3 +8849,4 @@
 [2025-02-14 12:12:09] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-14 12:12:26] : BOSS Super Broly 14 vừa xuất hiện tại Vách núi đen
 [2025-02-14 12:12:40] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 12:12:55] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
