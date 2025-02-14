@@ -8967,3 +8967,4 @@
 [2025-02-14 16:50:47] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-14 16:51:00] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-14 16:51:10] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-14 16:51:47] : BOSS Super Broly 27 vừa xuất hiện tại Rừng Bamboo
