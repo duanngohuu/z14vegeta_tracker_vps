@@ -8996,3 +8996,4 @@
 [2025-02-14 17:01:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 17:01:37] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 17:01:49] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 2
+[2025-02-14 17:02:01] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 2
