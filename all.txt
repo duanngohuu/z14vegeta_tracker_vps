@@ -10333,3 +10333,4 @@
 [2025-02-15 06:45:22] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 06:45:26] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 06:45:28] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 06:45:30] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
