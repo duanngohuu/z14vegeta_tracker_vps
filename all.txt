@@ -8957,3 +8957,4 @@
 [2025-02-14 16:44:44] : 09fs726j: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-14 16:45:59] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-14 16:46:11] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-14 16:46:24] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
