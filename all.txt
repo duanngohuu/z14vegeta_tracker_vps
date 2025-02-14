@@ -8370,3 +8370,4 @@
 [2025-02-14 08:56:10] : qthiensda vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-14 08:59:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 08:59:46] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 08:59:58] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
