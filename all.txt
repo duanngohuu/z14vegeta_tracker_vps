@@ -8809,3 +8809,4 @@
 [2025-02-14 11:59:19] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 11:59:31] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-14 12:00:49] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-14 12:01:16] : BOSS Số 3 vừa xuất hiện tại Vực maima
