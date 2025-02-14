@@ -9829,3 +9829,4 @@
 [2025-02-15 00:41:06] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-15 00:41:18] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-15 00:43:10] : BOSS Super Broly 28 vừa xuất hiện tại Nam Guru
+[2025-02-15 00:44:33] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
