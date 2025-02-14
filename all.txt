@@ -8736,3 +8736,4 @@
 [2025-02-14 11:28:06] : bhn30m22: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-14 11:28:31] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 11:28:52] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-14 11:29:18] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
