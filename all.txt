@@ -9139,3 +9139,4 @@
 [2025-02-14 18:49:37] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-14 18:49:47] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-14 18:50:00] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-14 18:50:12] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
