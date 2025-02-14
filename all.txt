@@ -8919,3 +8919,4 @@
 [2025-02-14 16:31:42] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 16:31:55] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-14 16:32:07] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-14 16:32:19] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
