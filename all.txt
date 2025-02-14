@@ -10144,3 +10144,4 @@
 [2025-02-15 02:50:15] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 02:50:27] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 02:51:03] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 02:51:15] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
