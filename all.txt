@@ -9993,3 +9993,4 @@
 [2025-02-15 01:50:49] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 01:51:01] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 01:51:13] : 00012012: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 01:51:25] : ongketrumsd: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
