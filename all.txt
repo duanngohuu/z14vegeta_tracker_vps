@@ -9609,3 +9609,4 @@
 [2025-02-14 23:18:24] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-14 23:18:36] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 23:18:48] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-14 23:19:00] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
