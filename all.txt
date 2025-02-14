@@ -9491,3 +9491,4 @@
 [2025-02-14 22:32:33] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-14 22:32:44] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-14 22:33:08] : beucanhsat vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-14 22:33:56] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
