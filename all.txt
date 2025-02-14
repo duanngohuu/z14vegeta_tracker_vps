@@ -8330,3 +8330,4 @@
 [2025-02-14 08:40:56] : purplenamec: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-14 08:41:44] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 08:41:56] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-14 08:42:08] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
