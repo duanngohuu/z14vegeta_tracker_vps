@@ -10174,3 +10174,4 @@
 [2025-02-15 03:04:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Nam Guru
 [2025-02-15 03:05:04] : BOSS Số 1 vừa xuất hiện tại Nam Guru
 [2025-02-15 03:05:16] : BOSS Số 2 vừa xuất hiện tại Nam Guru
+[2025-02-15 03:05:28] : BOSS Số 3 vừa xuất hiện tại Nam Guru
