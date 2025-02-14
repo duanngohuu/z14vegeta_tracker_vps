@@ -8984,3 +8984,4 @@
 [2025-02-14 16:58:59] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-14 16:59:12] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-14 16:59:24] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-14 16:59:36] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
