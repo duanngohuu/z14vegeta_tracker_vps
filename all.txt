@@ -1735,3 +1735,4 @@
 [2025-02-15 19:55:46] : s14diablo vừa lên Top 2 Giải Siêu Hạng
 [2025-02-15 19:55:58] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-15 19:56:10] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 19:56:22] : BOSS Số 2 vừa xuất hiện tại Vực maima
