@@ -995,3 +995,4 @@
 [2025-02-15 13:48:59] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 13:49:09] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 13:51:35] : lausun vừa nhặt được Quần Thần Xayda tại Núi tuyết khu 13
+[2025-02-15 13:52:10] : majinkidbuu vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
