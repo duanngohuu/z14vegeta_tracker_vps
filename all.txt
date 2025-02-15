@@ -1341,3 +1341,4 @@
 [2025-02-15 17:20:04] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-15 17:21:17] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 17:21:29] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 17:21:41] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
