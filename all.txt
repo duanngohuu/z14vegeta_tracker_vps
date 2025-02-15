@@ -10430,3 +10430,4 @@
 [2025-02-15 07:27:00] : BOSS Bujin vừa xuất hiện tại Rừng Bamboo
 [2025-02-15 07:27:13] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-15 07:27:24] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 07:27:36] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
