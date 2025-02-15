@@ -1387,3 +1387,4 @@
 [2025-02-15 17:35:54] : ongtrumsv14: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-15 17:36:05] : ongtrumsv14: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-15 17:37:42] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:37:54] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
