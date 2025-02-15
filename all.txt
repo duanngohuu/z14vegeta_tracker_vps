@@ -1417,3 +1417,4 @@
 [2025-02-15 17:43:42] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 17:44:06] : windsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 17:51:31] : hpsv14 vừa nhặt được Quần Thần Linh tại Cánh đồng tuyết khu 5
+[2025-02-15 17:52:43] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
