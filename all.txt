@@ -1141,3 +1141,4 @@
 [2025-02-15 14:58:07] : daxanhprm: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-15 14:58:18] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 14:58:30] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:58:38] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
