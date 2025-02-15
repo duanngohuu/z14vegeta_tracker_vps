@@ -1017,3 +1017,4 @@
 [2025-02-15 13:58:10] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-15 13:58:22] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 13:58:34] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 13:58:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
