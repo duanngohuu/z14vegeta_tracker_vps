@@ -274,3 +274,4 @@
 [2025-02-15 09:44:15] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 09:44:27] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 09:44:51] : s14sieucap: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 09:45:03] : s14sieucap: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
