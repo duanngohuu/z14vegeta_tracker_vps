@@ -1749,3 +1749,4 @@
 [2025-02-15 19:59:22] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 20:00:35] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 20:00:46] : kingtft vừa lên Top 3 Giải Siêu Hạng
+[2025-02-15 20:01:10] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
