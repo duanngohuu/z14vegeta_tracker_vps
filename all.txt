@@ -394,3 +394,4 @@
 [2025-02-15 10:27:15] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 11
 [2025-02-15 10:27:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 10:27:39] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
+[2025-02-15 10:27:51] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
