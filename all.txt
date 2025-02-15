@@ -1322,3 +1322,4 @@
 [2025-02-15 17:05:16] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 17:05:28] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 17:06:40] : huaminhdzai vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 17:07:16] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
