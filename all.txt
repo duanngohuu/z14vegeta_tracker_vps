@@ -853,3 +853,4 @@
 [2025-02-15 12:56:43] : BOSS Zangya vừa xuất hiện tại Nam Kamê
 [2025-02-15 12:56:54] : BOSS Kogu vừa xuất hiện tại Nam Kamê
 [2025-02-15 12:57:07] : BOSS Bujin vừa xuất hiện tại Nam Kamê
+[2025-02-15 12:57:18] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
