@@ -442,3 +442,4 @@
 [2025-02-15 10:43:51] : BOSS Super Broly 29 vừa xuất hiện tại Rừng đá
 [2025-02-15 10:44:03] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 10:44:15] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 10:44:27] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
