@@ -770,3 +770,4 @@
 [2025-02-15 12:39:06] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 12:39:18] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Guru
 [2025-02-15 12:39:30] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 12:39:42] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
