@@ -1664,3 +1664,4 @@
 [2025-02-15 19:39:10] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 19:39:22] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 19:39:34] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 19:39:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
