@@ -1324,3 +1324,4 @@
 [2025-02-15 17:06:40] : huaminhdzai vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 17:07:16] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 17:09:52] : BOSS Super Broly 30 vừa xuất hiện tại Đảo Guru
+[2025-02-15 17:12:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
