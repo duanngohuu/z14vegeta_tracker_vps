@@ -317,3 +317,4 @@
 [2025-02-15 10:04:03] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 10:04:15] : siukamer vừa lên Top 8 Giải Siêu Hạng
 [2025-02-15 10:04:27] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:04:39] : siukamer vừa lên Top 6 Giải Siêu Hạng
