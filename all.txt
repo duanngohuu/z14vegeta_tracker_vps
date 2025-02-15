@@ -679,3 +679,4 @@
 [2025-02-15 11:58:05] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 11:58:17] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 11:58:30] : BOSS Kogu vừa xuất hiện tại Rừng nấm
+[2025-02-15 11:58:42] : BOSS Bujin vừa xuất hiện tại Rừng nấm
