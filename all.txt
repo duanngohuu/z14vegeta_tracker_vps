@@ -1805,3 +1805,4 @@
 [2025-02-15 23:57:16] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-15 23:57:39] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 23:57:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 23:58:03] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
