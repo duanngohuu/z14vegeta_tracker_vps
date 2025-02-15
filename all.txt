@@ -99,3 +99,4 @@
 [2025-02-15 08:43:14] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 08:43:26] : 26thmay vừa lên Top 3 Giải Siêu Hạng
 [2025-02-15 08:43:38] : 26thmay vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 08:43:50] : 26thmay vừa lên Top 1 Giải Siêu Hạng
