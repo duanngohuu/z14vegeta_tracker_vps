@@ -719,3 +719,4 @@
 [2025-02-15 12:19:29] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 12:19:42] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 12:19:54] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 12:20:06] : BOSS Cooler vừa xuất hiện tại Hang băng
