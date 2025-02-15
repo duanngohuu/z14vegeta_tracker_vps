@@ -2023,3 +2023,4 @@
 [2025-02-16 01:28:13] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-16 01:28:24] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-16 01:28:37] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 01:28:48] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
