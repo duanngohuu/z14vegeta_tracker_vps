@@ -1160,3 +1160,4 @@
 [2025-02-15 15:02:37] : karosv14: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
 [2025-02-15 15:04:23] : BOSS Super Broly 28 vừa xuất hiện tại Vách núi đen
 [2025-02-15 15:05:12] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 15:05:59] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
