@@ -10428,3 +10428,4 @@
 [2025-02-15 07:26:36] : BOSS Zangya vừa xuất hiện tại Rừng Bamboo
 [2025-02-15 07:26:48] : BOSS Kogu vừa xuất hiện tại Rừng Bamboo
 [2025-02-15 07:27:00] : BOSS Bujin vừa xuất hiện tại Rừng Bamboo
+[2025-02-15 07:27:13] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
