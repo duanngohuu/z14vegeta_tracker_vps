@@ -1210,3 +1210,4 @@
 [2025-02-15 15:29:26] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 15:29:42] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 15:29:58] : BOSS Super Broly 28 vừa xuất hiện tại Rừng Bamboo
+[2025-02-15 15:30:11] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
