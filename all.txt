@@ -10468,3 +10468,4 @@
 [2025-02-15 07:43:03] : uhpgnort: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-15 07:43:06] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 07:43:09] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 07:43:12] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
