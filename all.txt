@@ -1755,3 +1755,4 @@
 [2025-02-15 20:01:46] : kingtft: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
 [2025-02-15 20:01:58] : kingtft: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-15 20:05:10] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 20:05:22] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
