@@ -445,3 +445,4 @@
 [2025-02-15 10:44:27] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 10:44:39] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 10:44:51] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:45:03] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
