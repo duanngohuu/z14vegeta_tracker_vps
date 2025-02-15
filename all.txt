@@ -545,3 +545,4 @@
 [2025-02-15 11:21:04] : 14smafiad: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-15 11:22:04] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 11:22:16] : BOSS Super Broly 29 vừa xuất hiện tại Thành phố Vegeta
+[2025-02-15 11:22:28] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
