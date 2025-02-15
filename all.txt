@@ -1280,3 +1280,4 @@
 [2025-02-15 16:47:51] : ss4brights: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-15 16:48:03] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-15 16:48:16] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 16:48:28] : BOSS Số 1 vừa xuất hiện tại Vực maima
