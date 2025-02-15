@@ -158,3 +158,4 @@
 [2025-02-15 09:00:03] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-15 09:00:39] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-15 09:00:51] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 09:01:03] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
