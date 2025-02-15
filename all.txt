@@ -326,3 +326,4 @@
 [2025-02-15 10:05:51] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 10:06:03] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 10:06:15] : siukamer vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 10:06:27] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
