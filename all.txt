@@ -178,3 +178,4 @@
 [2025-02-15 09:05:15] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-15 09:05:50] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-15 09:06:03] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-15 09:06:14] : BOSS Zangya vừa xuất hiện tại Đông Karin
