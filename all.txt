@@ -827,3 +827,4 @@
 [2025-02-15 12:51:06] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 12:51:18] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 12:51:30] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 12:51:43] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
