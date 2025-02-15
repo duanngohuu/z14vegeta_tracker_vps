@@ -855,3 +855,4 @@
 [2025-02-15 12:57:07] : BOSS Bujin vừa xuất hiện tại Nam Kamê
 [2025-02-15 12:57:18] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 12:57:32] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 12:57:44] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
