@@ -10427,3 +10427,4 @@
 [2025-02-15 07:26:24] : BOSS Bido vừa xuất hiện tại Rừng Bamboo
 [2025-02-15 07:26:36] : BOSS Zangya vừa xuất hiện tại Rừng Bamboo
 [2025-02-15 07:26:48] : BOSS Kogu vừa xuất hiện tại Rừng Bamboo
+[2025-02-15 07:27:00] : BOSS Bujin vừa xuất hiện tại Rừng Bamboo
