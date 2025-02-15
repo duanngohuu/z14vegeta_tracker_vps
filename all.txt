@@ -1636,3 +1636,4 @@
 [2025-02-15 19:28:22] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 19:28:34] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 19:28:46] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:28:58] : [HT] bapcaix vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Gohan
