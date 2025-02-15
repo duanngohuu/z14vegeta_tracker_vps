@@ -1230,3 +1230,4 @@
 [2025-02-15 15:39:23] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-15 15:39:47] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-15 15:40:13] : ss4brights: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 15:40:31] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
