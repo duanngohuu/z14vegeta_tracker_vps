@@ -110,3 +110,4 @@
 [2025-02-15 08:45:26] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 08:45:38] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 08:45:50] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 08:46:02] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
