@@ -1122,3 +1122,4 @@
 [2025-02-15 14:43:31] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 14:43:59] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 14:44:17] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 14:44:34] : BOSS Số 4 vừa xuất hiện tại Vực maima
