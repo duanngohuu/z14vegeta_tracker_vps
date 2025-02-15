@@ -1060,3 +1060,4 @@
 [2025-02-15 14:18:58] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 14:19:10] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 14:20:23] : BOSS Super Broly 28 vừa xuất hiện tại Nam Kamê
+[2025-02-15 14:22:11] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
