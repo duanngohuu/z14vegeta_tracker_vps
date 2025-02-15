@@ -380,3 +380,4 @@
 [2025-02-15 10:23:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 10:23:51] : BOSS Super Broly 29 vừa xuất hiện tại Rừng đá
 [2025-02-15 10:24:03] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 10:24:15] : BOSS Số 3 vừa xuất hiện tại Vực maima
