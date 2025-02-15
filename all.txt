@@ -1467,3 +1467,4 @@
 [2025-02-15 18:06:55] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 18:09:44] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 18:10:08] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:10:20] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
