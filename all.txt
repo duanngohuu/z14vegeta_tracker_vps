@@ -1435,3 +1435,4 @@
 [2025-02-15 17:56:55] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-15 17:57:07] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-15 17:57:19] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 17:57:31] : BOSS Số 4 vừa xuất hiện tại Vực maima
