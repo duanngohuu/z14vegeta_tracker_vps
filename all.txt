@@ -1330,3 +1330,4 @@
 [2025-02-15 17:13:28] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 17:13:40] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 17:13:53] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:14:16] : s14kjng vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
