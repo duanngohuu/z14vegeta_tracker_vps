@@ -1633,3 +1633,4 @@
 [2025-02-15 19:24:22] : z14occtiu14z: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-15 19:27:58] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 19:28:10] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:28:22] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
