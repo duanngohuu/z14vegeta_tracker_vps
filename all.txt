@@ -1147,3 +1147,4 @@
 [2025-02-15 14:59:06] : thaptuquynh vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Nail chiến binh Namếc
 [2025-02-15 14:59:16] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 14:59:27] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:59:38] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
