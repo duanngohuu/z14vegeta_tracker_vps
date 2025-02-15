@@ -581,3 +581,4 @@
 [2025-02-15 11:29:04] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 11:29:16] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 11:29:28] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:29:41] : BOSS Bujin vừa xuất hiện tại Đảo Kamê
