@@ -335,3 +335,4 @@
 [2025-02-15 10:07:39] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 10:07:51] : siukamer vừa lên Top 1 Giải Siêu Hạng
 [2025-02-15 10:08:03] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:08:15] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
