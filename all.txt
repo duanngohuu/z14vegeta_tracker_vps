@@ -1035,3 +1035,4 @@
 [2025-02-15 14:04:22] : BOSS Super Broly 28 vừa xuất hiện tại Nam Kamê
 [2025-02-15 14:04:46] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 14:05:17] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:05:47] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
