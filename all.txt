@@ -1762,3 +1762,4 @@
 [2025-02-15 20:08:22] : sakura0m: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
 [2025-02-15 20:08:34] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 20:08:46] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 20:08:58] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
