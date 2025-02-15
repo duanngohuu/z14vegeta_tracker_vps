@@ -1945,3 +1945,4 @@
 [2025-02-16 00:56:59] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
 [2025-02-16 00:58:00] : BOSS Super Broly 28 vừa xuất hiện tại Rừng dương xỉ
 [2025-02-16 00:58:12] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-16 00:58:24] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
