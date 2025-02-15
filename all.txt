@@ -1605,3 +1605,4 @@
 [2025-02-15 19:10:46] : ongketrumsd: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
 [2025-02-15 19:12:58] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 19:13:10] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 19:13:22] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
