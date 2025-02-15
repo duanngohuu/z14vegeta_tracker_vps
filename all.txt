@@ -491,3 +491,4 @@
 [2025-02-15 11:02:03] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 11:02:15] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 11:02:28] : BOSS Siêu Bojack vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 11:02:40] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
