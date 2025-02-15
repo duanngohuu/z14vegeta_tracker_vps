@@ -1508,3 +1508,4 @@
 [2025-02-15 18:30:45] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-15 18:30:57] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-15 18:31:09] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 18:31:20] : BOSS Số 3 vừa xuất hiện tại Vực maima
