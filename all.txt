@@ -1849,3 +1849,4 @@
 [2025-02-16 00:16:40] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-16 00:16:52] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-16 00:17:04] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 00:17:16] : 17kamekame vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
