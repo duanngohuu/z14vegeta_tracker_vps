@@ -547,3 +547,4 @@
 [2025-02-15 11:22:16] : BOSS Super Broly 29 vừa xuất hiện tại Thành phố Vegeta
 [2025-02-15 11:22:28] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 11:22:40] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:22:52] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
