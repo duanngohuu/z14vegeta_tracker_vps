@@ -873,3 +873,4 @@
 [2025-02-15 13:07:44] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-15 13:07:56] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-15 13:08:45] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:08:56] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
