@@ -1747,3 +1747,4 @@
 [2025-02-15 19:58:58] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 19:59:10] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 19:59:22] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 20:00:35] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
