@@ -1499,3 +1499,4 @@
 [2025-02-15 18:28:56] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 18:29:09] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-15 18:29:20] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 18:29:32] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
