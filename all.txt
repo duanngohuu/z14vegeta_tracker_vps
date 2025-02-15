@@ -125,3 +125,4 @@
 [2025-02-15 08:48:38] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-15 08:48:50] : BOSS Kogu vừa xuất hiện tại Đông Karin
 [2025-02-15 08:49:02] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 08:49:14] : BOSS Bujin vừa xuất hiện tại Đông Karin
