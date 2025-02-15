@@ -10414,3 +10414,4 @@
 [2025-02-15 07:16:12] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 07:16:24] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 07:16:36] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 07:16:48] : BOSS Super Broly 28 vừa xuất hiện tại Vách núi đen
