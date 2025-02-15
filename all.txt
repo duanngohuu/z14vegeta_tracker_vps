@@ -29,3 +29,4 @@
 [2025-02-15 08:13:01] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 08:13:13] : BOSS Super Broly 28 vừa xuất hiện tại Thung lũng Namếc
 [2025-02-15 08:13:24] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 08:13:37] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
