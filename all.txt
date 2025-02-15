@@ -1797,3 +1797,4 @@
 [2025-02-15 23:55:35] : lamthankaioi vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 23:55:39] : BOSS Super Broly 30 vừa xuất hiện tại Rừng cọ
 [2025-02-15 23:55:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 23:55:46] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
