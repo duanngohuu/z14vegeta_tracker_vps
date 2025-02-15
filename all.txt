@@ -1478,3 +1478,4 @@
 [2025-02-15 18:13:08] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 18:13:19] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 18:13:31] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:13:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
