@@ -1066,3 +1066,4 @@
 [2025-02-15 14:23:54] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 14:24:31] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-15 14:25:02] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 14:25:23] : BOSS Số 3 vừa xuất hiện tại Vực maima
