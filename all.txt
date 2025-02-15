@@ -772,3 +772,4 @@
 [2025-02-15 12:39:30] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 12:39:42] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
 [2025-02-15 12:39:54] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 12:40:05] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
