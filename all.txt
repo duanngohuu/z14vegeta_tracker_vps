@@ -1781,3 +1781,4 @@
 [2025-02-15 20:13:46] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 20:13:58] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 20:14:11] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 20:14:23] : BOSS Số 1 vừa xuất hiện tại Vực maima
