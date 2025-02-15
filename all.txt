@@ -351,3 +351,4 @@
 [2025-02-15 10:10:51] : ethientd vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 10:11:03] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-15 10:12:15] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 10:12:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
