@@ -10402,3 +10402,4 @@
 [2025-02-15 07:12:36] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 07:12:48] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 07:13:00] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 07:13:13] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Guru
