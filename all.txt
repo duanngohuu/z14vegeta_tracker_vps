@@ -934,3 +934,4 @@
 [2025-02-15 13:22:34] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 13:22:46] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 13:22:56] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 13:23:08] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
