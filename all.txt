@@ -180,3 +180,4 @@
 [2025-02-15 09:06:03] : BOSS Bido vừa xuất hiện tại Đông Karin
 [2025-02-15 09:06:14] : BOSS Zangya vừa xuất hiện tại Đông Karin
 [2025-02-15 09:06:27] : BOSS Kogu vừa xuất hiện tại Đông Karin
+[2025-02-15 09:06:38] : BOSS Bujin vừa xuất hiện tại Đông Karin
