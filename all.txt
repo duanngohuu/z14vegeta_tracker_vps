@@ -1917,3 +1917,4 @@
 [2025-02-16 00:43:44] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-16 00:43:56] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-16 00:44:08] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:44:20] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
