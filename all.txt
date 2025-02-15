@@ -1639,3 +1639,4 @@
 [2025-02-15 19:28:58] : [HT] bapcaix vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Gohan
 [2025-02-15 19:30:34] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 19:31:58] : BOSS Super Broly 30 vừa xuất hiện tại Rừng Bamboo
+[2025-02-15 19:32:10] : BOSS Cooler vừa xuất hiện tại Hang băng
