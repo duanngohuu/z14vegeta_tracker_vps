@@ -1283,3 +1283,4 @@
 [2025-02-15 16:48:28] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-15 16:48:39] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-15 16:48:51] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 16:49:04] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
