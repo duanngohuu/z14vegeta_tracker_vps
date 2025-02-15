@@ -1299,3 +1299,4 @@
 [2025-02-15 16:54:40] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-15 16:55:40] : s14carot vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 16:57:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 16:58:04] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
