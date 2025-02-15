@@ -287,3 +287,4 @@
 [2025-02-15 09:50:27] : BOSS Số 3 vừa xuất hiện tại Núi hoa vàng
 [2025-02-15 09:50:39] : BOSS Số 4 vừa xuất hiện tại Núi hoa vàng
 [2025-02-15 09:51:39] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 09:51:51] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
