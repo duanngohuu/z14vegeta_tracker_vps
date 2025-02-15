@@ -1535,3 +1535,4 @@
 [2025-02-15 18:42:57] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 18:43:09] : ok01doithu vừa lên Top 6 Giải Siêu Hạng
 [2025-02-15 18:43:21] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 18:43:33] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
