@@ -559,3 +559,4 @@
 [2025-02-15 11:24:40] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 11:24:52] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 11:25:05] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 11:25:16] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
