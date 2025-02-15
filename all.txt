@@ -1181,3 +1181,4 @@
 [2025-02-15 15:12:02] : keyferx: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-15 15:12:47] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 15:13:07] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 15:13:22] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
