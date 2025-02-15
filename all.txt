@@ -1876,3 +1876,4 @@
 [2025-02-16 00:28:54] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-16 00:29:07] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-16 00:29:18] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:29:32] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
