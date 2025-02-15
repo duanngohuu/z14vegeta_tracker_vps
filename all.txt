@@ -1420,3 +1420,4 @@
 [2025-02-15 17:52:43] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-15 17:53:07] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-15 17:53:19] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:53:31] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
