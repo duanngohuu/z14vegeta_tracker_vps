@@ -242,3 +242,4 @@
 [2025-02-15 09:32:27] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 09:32:39] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 09:32:51] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 09:33:03] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 11
