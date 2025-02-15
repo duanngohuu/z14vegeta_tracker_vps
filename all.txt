@@ -1135,3 +1135,4 @@
 [2025-02-15 14:53:51] : dong0motai: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-15 14:56:24] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 14:56:36] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 14:57:05] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
