@@ -537,3 +537,4 @@
 [2025-02-15 11:18:28] : tapchoidaz: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
 [2025-02-15 11:19:40] : BOSS Siêu Bojack vừa xuất hiện tại Rừng xương
 [2025-02-15 11:19:52] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:20:05] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
