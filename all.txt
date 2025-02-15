@@ -1255,3 +1255,4 @@
 [2025-02-15 15:52:57] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 15:53:11] : thanhkha18a vừa nhặt được Áo Thần Linh tại Núi tuyết khu 10
 [2025-02-15 15:53:53] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 15:54:20] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
