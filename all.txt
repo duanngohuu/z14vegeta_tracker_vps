@@ -10400,3 +10400,4 @@
 [2025-02-15 07:12:12] : BOSS Siêu Bojack vừa xuất hiện tại Đảo Kamê
 [2025-02-15 07:12:24] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 07:12:36] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 07:12:48] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
