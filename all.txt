@@ -1941,3 +1941,4 @@
 [2025-02-16 00:52:35] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-16 00:52:47] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-16 00:52:59] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-16 00:54:23] : BOSS Super Broly 14 vừa xuất hiện tại Rừng dương xỉ
