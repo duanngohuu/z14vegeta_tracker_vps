@@ -1439,3 +1439,4 @@
 [2025-02-15 17:57:43] : keyferx: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
 [2025-02-15 17:57:55] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 17:58:07] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:58:19] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
