@@ -1281,3 +1281,4 @@
 [2025-02-15 16:48:03] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
 [2025-02-15 16:48:16] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-15 16:48:28] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 16:48:39] : BOSS Số 2 vừa xuất hiện tại Vực maima
