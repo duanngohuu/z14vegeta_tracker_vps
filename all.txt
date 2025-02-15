@@ -86,3 +86,4 @@
 [2025-02-15 08:37:02] : gaunemecc vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 08:40:02] : BOSS Cooler vừa xuất hiện tại Hang băng
 [2025-02-15 08:41:02] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 08:41:13] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
