@@ -298,3 +298,4 @@
 [2025-02-15 09:57:03] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 09:57:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 09:57:39] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:57:51] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
