@@ -1437,3 +1437,4 @@
 [2025-02-15 17:57:19] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-15 17:57:31] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-15 17:57:43] : keyferx: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 17:57:55] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
