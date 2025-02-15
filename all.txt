@@ -1415,3 +1415,4 @@
 [2025-02-15 17:43:18] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 17:43:30] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 17:43:42] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:44:06] : windsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
