@@ -1313,3 +1313,4 @@
 [2025-02-15 17:01:40] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 17:01:52] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-15 17:02:04] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 17:02:16] : ongtrumsv14: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
