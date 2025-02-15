@@ -1807,3 +1807,4 @@
 [2025-02-15 23:57:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
 [2025-02-15 23:58:03] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
 [2025-02-15 23:58:15] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 23:58:28] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
