@@ -1241,3 +1241,4 @@
 [2025-02-15 15:45:34] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-15 15:46:02] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-15 15:46:30] : tapchoidaz: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 15:47:04] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
