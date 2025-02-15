@@ -10380,3 +10380,4 @@
 [2025-02-15 07:00:12] : ongketrumsd: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
 [2025-02-15 07:00:23] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 07:00:47] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 07:00:59] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
