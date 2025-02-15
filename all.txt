@@ -1351,3 +1351,4 @@
 [2025-02-15 17:25:17] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-15 17:25:29] : ongtrumsv14: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
 [2025-02-15 17:25:41] : ongtrumsv14: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 17:26:05] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
