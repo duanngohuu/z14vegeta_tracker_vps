@@ -433,3 +433,4 @@
 [2025-02-15 10:42:03] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 10:42:15] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 10:42:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:42:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
