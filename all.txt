@@ -329,3 +329,4 @@
 [2025-02-15 10:06:27] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-15 10:06:39] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-15 10:06:51] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:07:03] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
