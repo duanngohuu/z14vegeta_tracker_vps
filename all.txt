@@ -1263,3 +1263,4 @@
 [2025-02-15 16:38:39] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-15 16:41:27] : sanbuusp vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-15 16:41:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 16:41:51] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
