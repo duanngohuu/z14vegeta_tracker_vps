@@ -1971,3 +1971,4 @@
 [2025-02-16 01:09:24] : BOSS Số 2 vừa xuất hiện tại Vực maima
 [2025-02-16 01:09:38] : BOSS Số 3 vừa xuất hiện tại Vực maima
 [2025-02-16 01:09:50] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-16 01:10:00] : BOSS Super Broly 27 vừa xuất hiện tại Đảo Guru
