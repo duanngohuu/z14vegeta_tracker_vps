@@ -10404,3 +10404,4 @@
 [2025-02-15 07:13:00] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
 [2025-02-15 07:13:13] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Guru
 [2025-02-15 07:13:24] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 07:14:36] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
