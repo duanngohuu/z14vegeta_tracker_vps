@@ -412,3 +412,4 @@
 [2025-02-17 02:03:11] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-17 02:03:33] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-17 02:03:46] : vtnmsv14: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-17 02:05:10] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
