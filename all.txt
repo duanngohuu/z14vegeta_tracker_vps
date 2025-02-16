@@ -511,3 +511,4 @@
 [2025-02-17 02:41:29] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
 [2025-02-17 02:41:41] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-17 02:41:52] : BOSS Số 1 vừa xuất hiện tại Nam Guru
+[2025-02-17 02:42:05] : BOSS Số 2 vừa xuất hiện tại Nam Guru
