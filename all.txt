@@ -407,3 +407,4 @@
 [2025-02-17 02:01:45] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
 [2025-02-17 02:01:57] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-17 02:02:08] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-17 02:02:21] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
