@@ -419,3 +419,4 @@
 [2025-02-17 02:06:10] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-17 02:06:22] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-17 02:06:34] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-17 02:06:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
