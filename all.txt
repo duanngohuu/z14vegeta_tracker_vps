@@ -130,3 +130,4 @@
 [2025-02-17 00:22:08] : mihnday: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
 [2025-02-17 00:22:32] : BOSS Super Broly 29 vừa xuất hiện tại Nam Kamê
 [2025-02-17 00:22:44] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-17 00:22:56] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
