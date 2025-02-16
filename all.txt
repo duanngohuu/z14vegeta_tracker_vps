@@ -144,3 +144,4 @@
 [2025-02-17 00:25:32] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-17 00:25:44] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-17 00:25:56] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-17 00:26:08] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
