@@ -333,3 +333,4 @@
 [2025-02-17 01:32:09] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
 [2025-02-17 01:32:20] : BOSS Số 1 vừa xuất hiện tại Vực maima
 [2025-02-17 01:32:32] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-17 01:32:43] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
