@@ -321,3 +321,4 @@
 [2025-02-17 01:22:41] : BOSS Super Broly 27 vừa xuất hiện tại Đảo Kamê
 [2025-02-17 01:26:41] : BOSS Super Broly 27 vừa xuất hiện tại Nam Kamê
 [2025-02-17 01:28:43] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-17 01:29:44] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
