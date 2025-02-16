@@ -125,3 +125,4 @@
 [2025-02-17 00:20:08] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
 [2025-02-17 00:20:19] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-17 00:20:43] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-17 00:21:07] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
