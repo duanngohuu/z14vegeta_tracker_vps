@@ -15,3 +15,4 @@
 [2025-02-16 23:31:40] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-16 23:31:52] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-16 23:32:28] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 23:32:40] : BOSS Super Broly 30 vừa xuất hiện tại Vách núi đen
