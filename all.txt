@@ -409,3 +409,4 @@
 [2025-02-17 02:02:08] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
 [2025-02-17 02:02:21] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-17 02:02:33] : iilovegoku vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Thần Vũ Trụ Kaio
+[2025-02-17 02:03:11] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
