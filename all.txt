@@ -156,3 +156,4 @@
 [2025-02-17 00:27:57] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-17 00:28:09] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-17 00:28:21] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-17 00:28:32] : BOSS Super Broly 1 vừa xuất hiện tại Đảo Bulông
