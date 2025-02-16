@@ -292,3 +292,4 @@
 [2025-02-17 01:09:14] : BOSS Super Broly 27 vừa xuất hiện tại Vách núi đen
 [2025-02-17 01:10:38] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-17 01:11:15] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-17 01:11:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
