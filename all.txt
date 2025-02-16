@@ -423,3 +423,4 @@
 [2025-02-17 02:06:58] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
 [2025-02-17 02:07:10] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
 [2025-02-17 02:07:22] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-17 02:07:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
