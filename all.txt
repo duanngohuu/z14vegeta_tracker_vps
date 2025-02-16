@@ -492,3 +492,4 @@
 [2025-02-17 02:36:40] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-17 02:36:53] : z0wiker0z vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-17 02:37:29] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-17 02:37:41] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
