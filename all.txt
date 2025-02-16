@@ -501,3 +501,4 @@
 [2025-02-17 02:39:16] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-17 02:39:29] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
 [2025-02-17 02:39:41] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-17 02:39:52] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
