@@ -273,3 +273,4 @@
 [2025-02-17 01:02:47] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-17 01:02:59] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-17 01:03:11] : BOSS Super Broly 27 vừa xuất hiện tại Vách núi đen
+[2025-02-17 01:03:23] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
