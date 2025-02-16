@@ -433,3 +433,4 @@
 [2025-02-17 02:08:59] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-17 02:09:10] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-17 02:09:23] : BOSS Super Broly 27 vừa xuất hiện tại Vách núi đen
+[2025-02-17 02:09:35] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
