@@ -340,3 +340,4 @@
 [2025-02-17 01:33:32] : BOSS Số 4 vừa xuất hiện tại Vực maima
 [2025-02-17 01:33:44] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
 [2025-02-17 01:33:56] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-17 01:34:07] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
