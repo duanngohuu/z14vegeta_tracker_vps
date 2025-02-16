@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿[2025-02-09 18:15:57] : hoangtusv14: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
 [2025-02-09 18:16:21] : duxlyh vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-09 16:22:13] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
@@ -6413,3 +6414,2052 @@
 [2025-02-16 23:23:16] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-16 23:23:28] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
 [2025-02-16 23:23:39] : nmsv14 vừa lên Top 2 Giải Siêu Hạng
+=======
+﻿[2025-02-15 07:50:12] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-15 07:50:36] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 07:51:01] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 07:51:12] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 07:51:25] : rick4yu5c: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 07:51:36] : phucovoroi: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 07:51:48] : BOSS Super Broly 30 vừa xuất hiện tại Thung lũng đen
+[2025-02-15 07:52:00] : sangkirin vừa nhặt được Nhẫn Thần Linh tại Núi tuyết khu 11
+[2025-02-15 07:52:12] : phucovoroi: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 07:52:48] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 07:53:00] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 07:53:12] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 07:53:24] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 07:53:36] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 07:57:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 07:57:36] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 07:57:48] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 07:58:00] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 07:58:12] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 08:11:13] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 08:11:24] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 08:11:37] : 21luciifer vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 08:11:48] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 08:12:00] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 08:12:12] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 08:12:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 08:12:36] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 08:12:48] : BOSS Super Broly 28 vừa xuất hiện tại Rừng đá
+[2025-02-15 08:13:01] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 08:13:13] : BOSS Super Broly 28 vừa xuất hiện tại Thung lũng Namếc
+[2025-02-15 08:13:24] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 08:13:37] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 08:13:49] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 08:14:02] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 08:14:14] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 08:14:25] : 14smafiad: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 08:14:37] : rick4yu5c: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 08:14:49] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 08:15:02] : captaingoku: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 08:15:13] : rick4yu5c: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 08:15:26] : hoaixniem: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 08:15:38] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 08:15:49] : hoaixniem: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 08:16:01] : hoaixniem: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 08:16:14] : ongketrumsd: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 08:16:25] : blackzbuscu: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 08:16:37] : mafiab4uj: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-15 08:16:49] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 08:17:01] : mafiab4uj: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-15 08:17:14] : mafiab4uj: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-15 08:17:26] : s14gogeta vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 08:17:37] : ongketrumsd: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 08:17:49] : dieptrumsv14: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 08:18:02] : hoangtusv14: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 08:18:14] : hantindtq: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 08:18:26] : blackzbuscu: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 08:18:37] : haileedtq: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 08:19:49] : [HT] daitokoro vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Gohan
+[2025-02-15 08:21:01] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 08:21:13] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 08:21:37] : 14smafia1: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 08:21:49] : BOSS Siêu Bojack vừa xuất hiện tại Rừng xương
+[2025-02-15 08:22:02] : 14smafiab: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 08:26:37] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 08:26:50] : rick8mkso: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 08:27:01] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 08:27:13] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 08:27:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:27:37] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 08:27:49] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 08:28:01] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 08:28:13] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 08:28:26] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 08:28:37] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:28:49] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:29:01] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:29:13] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:29:26] : 14smafiad: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 08:29:37] : aphidepzai: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 08:29:49] : BOSS Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-15 08:30:01] : BOSS Bido vừa xuất hiện tại Rừng nấm
+[2025-02-15 08:30:13] : BOSS Zangya vừa xuất hiện tại Rừng nấm
+[2025-02-15 08:30:25] : BOSS Kogu vừa xuất hiện tại Rừng nấm
+[2025-02-15 08:30:37] : BOSS Bujin vừa xuất hiện tại Rừng nấm
+[2025-02-15 08:32:14] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-15 08:37:02] : gaunemecc vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 08:40:02] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 08:41:02] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 08:41:13] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 08:41:26] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 08:41:38] : mafiab4uj: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 08:41:50] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 08:42:02] : ongketrumsd: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 08:42:14] : tapchoidaz: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 08:42:25] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 08:42:37] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 08:42:50] : 26thmay vừa lên Top 5 Giải Siêu Hạng
+[2025-02-15 08:43:02] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-15 08:43:14] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 08:43:26] : 26thmay vừa lên Top 3 Giải Siêu Hạng
+[2025-02-15 08:43:38] : 26thmay vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 08:43:50] : 26thmay vừa lên Top 1 Giải Siêu Hạng
+[2025-02-15 08:44:02] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 08:44:14] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 08:44:25] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 08:44:38] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 08:44:49] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 08:45:02] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 08:45:14] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 08:45:26] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 08:45:38] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 08:45:50] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 08:46:02] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 08:46:13] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 08:46:26] : rick8mkso: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 08:46:37] : ongketrumsd: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 08:46:50] : babyshark14: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 08:47:02] : danhnatsv14: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 08:47:14] : s14gogeta vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 08:47:26] : sxmikeyxs: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 08:47:50] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 08:48:02] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 08:48:14] : BOSS Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 08:48:26] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-15 08:48:38] : BOSS Zangya vừa xuất hiện tại Đông Karin
+[2025-02-15 08:48:50] : BOSS Kogu vừa xuất hiện tại Đông Karin
+[2025-02-15 08:49:02] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 08:49:14] : BOSS Bujin vừa xuất hiện tại Đông Karin
+[2025-02-15 08:49:26] : clearbosss: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 08:49:38] : clearbosss: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 08:50:14] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 08:50:26] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 08:50:38] : xmaixjnh: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 08:50:50] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 08:51:02] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 08:51:14] : clearbosss: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 08:51:26] : dieptrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 08:52:02] : hantindtq: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 08:52:14] : clearbosss: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 08:53:02] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 08:53:14] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 08:53:26] : thgthienn vừa lên Top 7 Giải Siêu Hạng
+[2025-02-15 08:53:38] : thgthienn vừa lên Top 5 Giải Siêu Hạng
+[2025-02-15 08:53:50] : thgthienn vừa lên Top 3 Giải Siêu Hạng
+[2025-02-15 08:54:02] : thgthienn vừa lên Top 9 Giải Siêu Hạng
+[2025-02-15 08:54:38] : thgthienn vừa lên Top 1 Giải Siêu Hạng
+[2025-02-15 08:57:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:57:38] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:57:51] : BOSS Super Broly 30 vừa xuất hiện tại Rừng cọ
+[2025-02-15 08:58:02] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 08:58:14] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 08:58:26] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:58:38] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:58:50] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 08:59:03] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 08:59:15] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 08:59:50] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 09:00:03] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 09:00:39] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 09:00:51] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 09:01:03] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 09:01:14] : BOSS Siêu Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-15 09:01:26] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 09:01:39] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 09:01:51] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 09:02:02] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 09:02:15] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 09:02:27] : 14smafiab: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-15 09:02:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 09:02:50] : whatterfuck: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-15 09:03:03] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 09:03:15] : whatterfuck: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-15 09:03:26] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 09:03:38] : rick8mkso: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 09:03:51] : rick8mkso: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 09:04:02] : rick8mkso: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 09:05:02] : captaingoku: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 09:05:15] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 09:05:50] : BOSS Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 09:06:03] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-15 09:06:14] : BOSS Zangya vừa xuất hiện tại Đông Karin
+[2025-02-15 09:06:27] : BOSS Kogu vừa xuất hiện tại Đông Karin
+[2025-02-15 09:06:38] : BOSS Bujin vừa xuất hiện tại Đông Karin
+[2025-02-15 09:07:02] : captaingoku: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 09:07:50] : thaptuquynh vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Nail chiến binh Namếc
+[2025-02-15 09:08:39] : sxmikeyxs: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 09:08:50] : sxmikeyxs: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 09:11:51] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 09:12:03] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 09:12:14] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 09:12:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 09:12:38] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 09:12:51] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 09:13:03] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 09:13:15] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 09:13:26] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 09:13:39] : mafiab4uj: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 09:13:51] : mafiab4uj: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 09:14:03] : mafiab4uj: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 09:17:03] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:17:15] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vách núi Moori
+[2025-02-15 09:17:26] : BOSS Số 1 vừa xuất hiện tại Vách núi Moori
+[2025-02-15 09:17:38] : BOSS Số 2 vừa xuất hiện tại Vách núi Moori
+[2025-02-15 09:17:51] : BOSS Số 3 vừa xuất hiện tại Vách núi Moori
+[2025-02-15 09:18:03] : BOSS Số 4 vừa xuất hiện tại Vách núi Moori
+[2025-02-15 09:19:26] : ongketrumsd: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 09:19:38] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:19:51] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:20:38] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 09:21:15] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 09:21:26] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 09:21:39] : dungkhocnhe: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 09:21:51] : hoangtusv14: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 09:22:03] : dungkhocnhe: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 09:22:15] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:22:26] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:22:38] : dungkhocnhe: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 09:22:51] : obj277soviet vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 09:23:02] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 09:23:14] : hoangtusv14: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 09:23:27] : s14gogeta vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 09:23:51] : BOSS Siêu Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-15 09:24:15] : ongketrumsd: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 09:25:03] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:25:15] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 09:25:27] : clearbosss: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 09:25:39] : dieptrumsv14: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 09:26:15] : xmaixjnh: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 09:26:27] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 09:27:03] : ongketrumsd: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 09:27:26] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 09:27:39] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 09:27:50] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 09:28:02] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 09:28:15] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 09:28:51] : tuhuydiet2k3 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 09:29:51] : BOSS Super Broly 30 vừa xuất hiện tại Vách núi đen
+[2025-02-15 09:30:27] : dieptrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 09:31:51] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 09:32:03] : BOSS Bido vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 09:32:15] : BOSS Zangya vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 09:32:27] : BOSS Kogu vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 09:32:39] : BOSS Bujin vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 09:32:51] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 09:33:03] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 09:33:15] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 09:33:27] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 09:33:39] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 09:33:51] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 09:34:03] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 09:34:15] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 09:34:27] : essh350i vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 09:34:39] : kjngcrit: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-15 09:34:51] : kjngcrit: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-15 09:35:03] : kjngcrit: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-15 09:37:03] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 09:38:39] : ltranbinhl: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 09:38:51] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 09:39:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 09:40:03] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 09:40:15] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 09:40:39] : lucky7mau: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 09:41:27] : BOSS Siêu Bojack vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 09:41:39] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 09:41:51] : yromosko: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 09:42:03] : yeulamroinha: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 09:42:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:42:39] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:42:51] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:43:03] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:43:15] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:43:27] : yeulamroinha: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 09:44:03] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 09:44:15] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 09:44:27] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 09:44:51] : s14sieucap: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 09:45:03] : s14sieucap: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 09:45:15] : kjngcrit: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 09:47:39] : thaptuquynh vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 09:48:03] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 09:48:15] : yromosko: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 09:48:39] : yromosko: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 09:49:39] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi hoa vàng
+[2025-02-15 09:49:51] : BOSS Super Broly 30 vừa xuất hiện tại Nam Guru
+[2025-02-15 09:50:03] : BOSS Số 1 vừa xuất hiện tại Núi hoa vàng
+[2025-02-15 09:50:15] : BOSS Số 2 vừa xuất hiện tại Núi hoa vàng
+[2025-02-15 09:50:27] : BOSS Số 3 vừa xuất hiện tại Núi hoa vàng
+[2025-02-15 09:50:39] : BOSS Số 4 vừa xuất hiện tại Núi hoa vàng
+[2025-02-15 09:51:39] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 09:51:51] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:52:03] : owkiei vừa nhặt được Giầy Thần Namếc tại Rừng băng khu 9
+[2025-02-15 09:53:03] : blackzbuscu: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 09:53:15] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:54:27] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:55:03] : ongketrumsd: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 09:55:39] : blackzbuscu: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 09:55:51] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:57:03] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:57:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:57:39] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:57:51] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:58:03] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:58:15] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 09:58:27] : blackzbuscu: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 09:58:39] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 09:58:51] : s14gogeta vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 09:59:03] : ongketrumsd: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 10:00:27] : clearbosss: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 10:02:03] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 10:02:15] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 10:02:51] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 10:03:03] : blackhahhi: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 10:03:15] : siukamer vừa lên Top 10 Giải Siêu Hạng
+[2025-02-15 10:03:27] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 10:03:39] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:03:51] : babyshark14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 10:04:03] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:04:15] : siukamer vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 10:04:27] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:04:39] : siukamer vừa lên Top 6 Giải Siêu Hạng
+[2025-02-15 10:04:51] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:05:03] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:05:15] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:05:27] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:05:39] : siukamer vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 10:05:51] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:06:03] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:06:15] : siukamer vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 10:06:27] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:06:39] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 10:06:51] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:07:03] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 10:07:15] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 10:07:27] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 10:07:39] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 10:07:51] : siukamer vừa lên Top 1 Giải Siêu Hạng
+[2025-02-15 10:08:03] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:08:15] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:08:27] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:08:39] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:08:51] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:09:03] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:09:15] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:09:27] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:09:39] : s1kyangk1s: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 10:09:51] : babyshark14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 10:10:03] : mafiad10k: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 10:10:15] : mafiad10k: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 10:10:27] : blackhahhi: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 10:10:39] : mafiad10k: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 10:10:51] : ethientd vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 10:11:03] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 10:12:15] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 10:12:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 10:12:39] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 10:12:51] : BOSS Super Broly 30 vừa xuất hiện tại Vách núi đen
+[2025-02-15 10:13:03] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 10:13:15] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 10:13:27] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 10:13:39] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 10:13:51] : captaingoku: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 10:14:03] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 10:14:15] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 10:14:27] : captaingoku: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 10:15:15] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 10:15:27] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 10:15:39] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 10:15:51] : tapchoidaz: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 10:16:03] : s14sieucap: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 10:16:15] : s14sieucap: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 10:16:39] : blackhahhi vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Nail chiến binh Namếc
+[2025-02-15 10:17:15] : BOSS Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 10:17:27] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-15 10:17:39] : BOSS Zangya vừa xuất hiện tại Đông Karin
+[2025-02-15 10:17:51] : BOSS Kogu vừa xuất hiện tại Đông Karin
+[2025-02-15 10:18:03] : BOSS Bujin vừa xuất hiện tại Đông Karin
+[2025-02-15 10:21:15] : bekun6789 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 10:23:15] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 10:23:27] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 10:23:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:23:51] : BOSS Super Broly 29 vừa xuất hiện tại Rừng đá
+[2025-02-15 10:24:03] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 10:24:15] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 10:24:27] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:24:39] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 10:24:51] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:25:03] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 10:25:15] : mafia12w2: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 10:25:27] : mafia12w2: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 10:26:15] : mafia12w2: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 10:26:39] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 10:26:51] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 10:27:03] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 10:27:15] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 10:27:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:27:39] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
+[2025-02-15 10:27:51] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 10:28:03] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:28:15] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:28:27] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:28:39] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:28:51] : ongketrumsd: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 10:29:03] : thaptuquynh vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 10:29:15] : 14smafiab: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-15 10:29:27] : 14smafiab: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-15 10:29:39] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 10:29:51] : ongketrumsd: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 10:30:03] : blackzbuscu: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 10:31:03] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 10:31:40] : hoangtusv14: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 10:32:27] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 10:32:39] : ongketrumsd: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 10:33:15] : BOSS Super Broly 29 vừa xuất hiện tại Thung lũng Namếc
+[2025-02-15 10:34:17] : hoangtusv14: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 10:35:03] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 10:35:27] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 10:35:39] : xmaixjnh: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 10:35:51] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 10:36:03] : babyshark14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 10:36:15] : blackhahhi: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 10:37:39] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
+[2025-02-15 10:38:39] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:40:03] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:40:15] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Namếc
+[2025-02-15 10:40:27] : BOSS Số 1 vừa xuất hiện tại Thung lũng Namếc
+[2025-02-15 10:40:39] : BOSS Số 2 vừa xuất hiện tại Thung lũng Namếc
+[2025-02-15 10:40:51] : BOSS Số 3 vừa xuất hiện tại Thung lũng Namếc
+[2025-02-15 10:41:03] : BOSS Số 4 vừa xuất hiện tại Thung lũng Namếc
+[2025-02-15 10:41:15] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:41:28] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:41:39] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:41:51] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:42:03] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:42:15] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:42:27] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:42:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:42:51] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:43:03] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 10:43:15] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:43:28] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 10:43:39] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:43:51] : BOSS Super Broly 29 vừa xuất hiện tại Rừng đá
+[2025-02-15 10:44:03] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:44:15] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 10:44:27] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:44:39] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:44:51] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:45:03] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:45:15] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:45:27] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:45:40] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:45:51] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:46:03] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 10:46:15] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 10:46:27] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 10:46:39] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 10:46:52] : babyshark14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 10:47:03] : s14gogeta vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 10:47:15] : 14smafiac: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 10:47:27] : 14smafiac: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 10:47:40] : 14smafiac: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 10:47:51] : tancaed vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 10:48:03] : breakskips: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 10:48:15] : BOSS Bojack vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 10:48:27] : blackhahhi: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 10:48:40] : chillchanel: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 10:48:51] : babyshark14: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 10:49:03] : bong14sao: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 10:49:15] : tapchoidaz: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 10:49:27] : 14smafia1: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 10:51:28] : onmywayyyyy vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 1 sao
+[2025-02-15 10:51:40] : onmywayyyyy vừa mở Rương Ngọc Rồng nhận được Ngọc Rồng 3 sao
+[2025-02-15 10:52:15] : BOSS Siêu Bojack vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 10:54:03] : b0bneteo: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 10:57:15] : BOSS Super Broly 29 vừa xuất hiện tại Vách núi đen
+[2025-02-15 10:57:28] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:57:39] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:57:51] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:58:03] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:58:15] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 10:59:04] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 10:59:51] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:00:04] : ongketrumsd: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 11:00:40] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:00:51] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:01:03] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:01:15] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:01:27] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:01:40] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:01:52] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:02:03] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:02:15] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:02:28] : BOSS Siêu Bojack vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 11:02:40] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:02:52] : dong0motai: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 11:03:03] : clearbosss: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 11:03:15] : dong0motai: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:03:27] : hoangtusv14: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 11:03:40] : anhthosuaxe: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 11:03:52] : vidpham3 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 11:04:28] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:04:40] : hoangtusv14: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 11:04:52] : mozabp vừa lên Top 10 Giải Siêu Hạng
+[2025-02-15 11:05:16] : BOSS Bojack vừa xuất hiện tại Rừng xương
+[2025-02-15 11:05:27] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:05:40] : BOSS Bido vừa xuất hiện tại Rừng xương
+[2025-02-15 11:05:52] : BOSS Zangya vừa xuất hiện tại Rừng xương
+[2025-02-15 11:06:04] : BOSS Kogu vừa xuất hiện tại Rừng xương
+[2025-02-15 11:06:15] : BOSS Bujin vừa xuất hiện tại Rừng xương
+[2025-02-15 11:06:28] : hoangtusv14: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:07:03] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 11:07:28] : ongketrumsd: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:08:05] : hivgameroi vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 11:08:16] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 11:08:28] : xmaixjnh: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 11:09:17] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 11:09:28] : BOSS Siêu Bojack vừa xuất hiện tại Rừng xương
+[2025-02-15 11:09:40] : s2kyangk2s: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 11:10:40] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:11:05] : iphone14pr0: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 11:12:04] : s14gogeta vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Cađic M
+[2025-02-15 11:12:29] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:12:40] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:12:52] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:13:04] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:13:16] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:14:16] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Guru
+[2025-02-15 11:15:04] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 11:16:52] : z14toyota: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 11:17:04] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 11:17:16] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 11:17:28] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 11:17:40] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 11:17:52] : jennaruto: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:18:04] : feintiao: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 11:18:16] : 0hongcong0: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 11:18:28] : tapchoidaz: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 11:19:40] : BOSS Siêu Bojack vừa xuất hiện tại Rừng xương
+[2025-02-15 11:19:52] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:20:05] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:20:16] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:20:28] : anhthosuaxe: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 11:20:40] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:20:53] : 14smafiaa: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:21:04] : 14smafiad: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 11:22:04] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:22:16] : BOSS Super Broly 29 vừa xuất hiện tại Thành phố Vegeta
+[2025-02-15 11:22:28] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:22:40] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:22:52] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:23:04] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:23:16] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:23:28] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:23:40] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:23:52] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:24:05] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:24:16] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:24:29] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:24:40] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:24:52] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:25:05] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 11:25:16] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 11:25:29] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:25:40] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:25:52] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:26:04] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:26:16] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:26:28] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:26:40] : BOSS Bojack vừa xuất hiện tại Đảo Kamê
+[2025-02-15 11:26:52] : BOSS Bido vừa xuất hiện tại Đảo Kamê
+[2025-02-15 11:27:04] : BOSS Zangya vừa xuất hiện tại Đảo Kamê
+[2025-02-15 11:27:16] : BOSS Kogu vừa xuất hiện tại Đảo Kamê
+[2025-02-15 11:27:28] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:27:40] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:27:52] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:28:04] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:28:16] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:28:29] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:28:40] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:28:52] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:29:04] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:29:16] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:29:28] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:29:41] : BOSS Bujin vừa xuất hiện tại Đảo Kamê
+[2025-02-15 11:29:53] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:30:04] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:30:16] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:30:28] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:30:41] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:30:52] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:31:04] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:31:16] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:31:28] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:31:40] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:31:52] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:32:04] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:32:16] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:32:28] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:32:41] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:32:52] : BOSS Siêu Bojack vừa xuất hiện tại Đảo Kamê
+[2025-02-15 11:33:04] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 11:33:16] : 14smafiac: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 11:33:28] : 14smafiac: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 11:33:41] : babyshark14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 11:33:52] : babyshark14: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 11:35:05] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:37:40] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:37:53] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:38:04] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:38:17] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:38:29] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:38:40] : hoangtusv14: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 11:38:52] : dong0motai: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 11:39:05] : anhthosuaxe: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:39:17] : anhthosuaxe: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 11:39:28] : ongketrumsd: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 11:40:04] : hoangtusv14: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 11:40:16] : BOSS Super Broly 29 vừa xuất hiện tại Thung lũng Namếc
+[2025-02-15 11:40:28] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:42:04] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 11:42:16] : ongketrumsd: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 11:42:28] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:42:40] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 11:42:53] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:43:05] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:43:17] : BOSS Super Broly 29 vừa xuất hiện tại Thung lũng Namếc
+[2025-02-15 11:43:29] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 11:43:41] : BOSS Siêu Bojack vừa xuất hiện tại Rừng dương xỉ
+[2025-02-15 11:43:52] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:44:05] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:44:16] : ongketrumsd: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:44:30] : iphone14pr0: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 11:44:53] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 11:45:06] : ongketrumsd: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:45:16] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:45:28] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:45:41] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:45:52] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:46:05] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 11:46:16] : iphone14pr0: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 11:46:28] : mafiab4uj: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 11:48:05] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 11:48:28] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 11:48:40] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 11:48:52] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 11:49:04] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 11:49:17] : mozabp: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 11:49:28] : dong0motai: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 11:49:40] : kingtft: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 11:49:54] : mozabp: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 11:50:04] : kingtft: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:51:05] : b52kingg vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 11:51:16] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 11:51:29] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 11:51:41] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 11:51:53] : soifbom vừa nhặt được Áo Thần Xayda tại Rừng tuyết khu 11
+[2025-02-15 11:52:18] : 14smafiac: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-15 11:52:29] : 14smafiac: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-15 11:52:54] : 14smafiac: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-15 11:53:17] : onehitdinha vừa lên Top 9 Giải Siêu Hạng
+[2025-02-15 11:53:28] : onehitdinha vừa lên Top 7 Giải Siêu Hạng
+[2025-02-15 11:53:41] : BOSS Siêu Bojack vừa xuất hiện tại Rừng Bamboo
+[2025-02-15 11:53:53] : onehitdinha vừa lên Top 5 Giải Siêu Hạng
+[2025-02-15 11:54:05] : goku203dn2 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Cađic M
+[2025-02-15 11:54:17] : onehitdinha vừa lên Top 3 Giải Siêu Hạng
+[2025-02-15 11:54:54] : onehitdinha vừa lên Top 1 Giải Siêu Hạng
+[2025-02-15 11:55:42] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:55:53] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:56:06] : atraisaygex: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 11:56:17] : BOSS Bojack vừa xuất hiện tại Rừng nấm
+[2025-02-15 11:56:30] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 11:56:41] : BOSS Bido vừa xuất hiện tại Rừng nấm
+[2025-02-15 11:56:52] : BOSS Zangya vừa xuất hiện tại Rừng nấm
+[2025-02-15 11:57:05] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 11:57:18] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 11:57:28] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:57:41] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:57:52] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:58:05] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:58:17] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 11:58:30] : BOSS Kogu vừa xuất hiện tại Rừng nấm
+[2025-02-15 11:58:42] : BOSS Bujin vừa xuất hiện tại Rừng nấm
+[2025-02-15 11:58:53] : 0348078797zl: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 11:59:04] : 0348078797zl: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 11:59:17] : BOSS Super Broly 30 vừa xuất hiện tại Rừng đá
+[2025-02-15 11:59:28] : kijcty: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 12:00:18] : BOSS Super Broly 29 vừa xuất hiện tại Rừng cọ
+[2025-02-15 12:03:40] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 12:03:54] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 12:04:06] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 12:04:17] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 12:04:30] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 12:06:41] : BOSS Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-15 12:08:29] : BOSS Siêu Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-15 12:08:40] : kingtft: Đã tiêu diệt được Ma bư mọi người đều ngưỡng mộ.
+[2025-02-15 12:09:53] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 12:12:30] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 12:12:41] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 12:12:53] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 12:13:06] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 12:13:18] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 12:13:29] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 12:13:41] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 12:14:17] : BOSS Super Broly 29 vừa xuất hiện tại Rừng cọ
+[2025-02-15 12:14:30] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 12:14:41] : breakskips: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 12:14:54] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 12:15:06] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 12:15:17] : boykklcite07: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 12:15:29] : breakskips: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 12:16:30] : kingtft: Đã tiêu diệt được Ma bư mọi người đều ngưỡng mộ.
+[2025-02-15 12:17:05] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 12:17:41] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 12:17:53] : nhuquynhlove: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 12:18:05] : jen29s1: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 12:18:41] : BOSS Siêu Bojack vừa xuất hiện tại Rừng Bamboo
+[2025-02-15 12:18:53] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 12:19:06] : nhuquynhlove: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 12:19:29] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 12:19:42] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 12:19:54] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 12:20:06] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 12:20:18] : xmaixjnh: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 12:20:29] : ltmpro205: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 12:20:41] : ltmpro205: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 12:20:53] : ltmpro205: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 12:21:41] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 12:21:54] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 12:22:06] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 12:22:17] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 12:22:30] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 12:22:41] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 12:22:53] : karosv14: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 12:23:29] : kingtft: Đã tiêu diệt được Ma bư mọi người đều ngưỡng mộ.
+[2025-02-15 12:23:42] : blackhahhi: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 12:26:18] : BOSS Super Broly 28 vừa xuất hiện tại Rừng cọ
+[2025-02-15 12:27:30] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 12:27:42] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:27:53] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:28:06] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:28:18] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:28:30] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:28:41] : ongketrumsd: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 12:29:17] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 12:29:29] : blackzbuscu: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 12:30:18] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 12:30:30] : clearbosss: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 12:30:42] : BOSS Super Broly 29 vừa xuất hiện tại Rừng cọ
+[2025-02-15 12:31:42] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 12:31:54] : walledo vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 12:32:05] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 12:32:17] : ongketrumsd: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 12:32:30] : draftsman: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 12:32:54] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 12:33:05] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 12:33:18] : hoangtusv14: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 12:33:30] : gohanxcute07: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 12:33:42] : kingtft: Đã tiêu diệt được Ma bư mọi người đều ngưỡng mộ.
+[2025-02-15 12:34:19] : boykklcite07: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 12:34:42] : clearbosss: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 12:35:18] : dungbabyy vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Cađic M
+[2025-02-15 12:36:54] : nhuquynhlove vừa lên Top 10 Giải Siêu Hạng
+[2025-02-15 12:37:42] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:37:53] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:38:06] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:38:18] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:38:30] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:38:42] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:38:54] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:39:06] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:39:18] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Guru
+[2025-02-15 12:39:30] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 12:39:42] : BOSS Siêu Bojack vừa xuất hiện tại Đông Karin
+[2025-02-15 12:39:54] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 12:40:05] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 12:40:18] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 12:40:29] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 12:40:42] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:40:54] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:41:05] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:41:18] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:41:31] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:41:41] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:41:54] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:42:06] : kingtft: Đã tiêu diệt được Ma bư mọi người đều ngưỡng mộ.
+[2025-02-15 12:42:30] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:42:41] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:42:54] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:43:06] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:43:19] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 12:43:55] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:44:06] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:44:18] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:44:31] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:44:42] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:44:54] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:45:06] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:45:17] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:45:30] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:45:43] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:45:53] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:46:06] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:46:17] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:46:30] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:46:42] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:46:53] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:47:07] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:47:18] : BOSS Super Broly 29 vừa xuất hiện tại Rừng đá
+[2025-02-15 12:47:30] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:47:43] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:47:53] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:48:07] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:48:18] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:48:30] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:48:42] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:48:54] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:49:07] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 12:49:18] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 12:49:30] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:49:42] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:49:54] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:50:06] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 12:50:18] : BOSS Siêu Bojack vừa xuất hiện tại Rừng xương
+[2025-02-15 12:50:30] : kingtft: Đã tiêu diệt được Ma bư mọi người đều ngưỡng mộ.
+[2025-02-15 12:50:42] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 12:50:54] : karosv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 12:51:06] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 12:51:18] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 12:51:30] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 12:51:43] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 12:51:55] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 12:52:06] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 12:52:18] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 12:52:30] : karosv14: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 12:52:43] : dunghoangcsc: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 12:52:55] : dunghoangcsc: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 12:53:06] : topsv14zz: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 12:53:18] : bong14sao: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 12:53:31] : bong14sao: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 12:53:42] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 12:53:54] : karosv14: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 12:54:06] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 12:54:18] : 0ngbachacu: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 12:54:32] : karosv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 12:54:42] : karosv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 12:54:55] : topsv14zz: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 12:55:06] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 12:55:19] : kingtft: Đã tiêu diệt được Ma bư mọi người đều ngưỡng mộ.
+[2025-02-15 12:55:30] : dunghoangcsc: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 12:55:55] : dunghoangcsc: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 12:56:19] : BOSS Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-15 12:56:31] : BOSS Bido vừa xuất hiện tại Nam Kamê
+[2025-02-15 12:56:43] : BOSS Zangya vừa xuất hiện tại Nam Kamê
+[2025-02-15 12:56:54] : BOSS Kogu vừa xuất hiện tại Nam Kamê
+[2025-02-15 12:57:07] : BOSS Bujin vừa xuất hiện tại Nam Kamê
+[2025-02-15 12:57:18] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 12:57:32] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 12:57:44] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 12:57:55] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 12:58:08] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 12:58:20] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 12:58:31] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 12:58:43] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 12:58:55] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 12:59:07] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 12:59:21] : blackhahhi: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 12:59:55] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:02:32] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:05:08] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:05:19] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 13:06:08] : BOSS Siêu Bojack vừa xuất hiện tại Nam Kamê
+[2025-02-15 13:06:20] : dungbabyy vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Cađic M
+[2025-02-15 13:07:44] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:07:56] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:08:45] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:08:56] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:09:09] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:09:21] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:09:33] : kingtft: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 13:10:08] : babyshark14 vừa lên Top 10 Giải Siêu Hạng
+[2025-02-15 13:10:22] : minmins14: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-15 13:10:32] : kingtft: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 13:10:45] : minmins14: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-15 13:11:08] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:11:21] : babyshark14 vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 13:11:32] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 13:11:44] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 13:11:57] : clearbosss: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 13:12:08] : minmins14: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-15 13:12:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:12:44] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:12:57] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:13:08] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:13:22] : babyshark14 vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 13:13:32] : babyshark14 vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 13:13:46] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:13:58] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:14:09] : babyshark14 vừa lên Top 1 Giải Siêu Hạng
+[2025-02-15 13:14:20] : babyshark14 vừa lên Top 6 Giải Siêu Hạng
+[2025-02-15 13:14:33] : ongketrumsd: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 13:14:45] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:14:57] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:15:09] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:15:21] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:15:34] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:15:45] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 13:15:57] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 13:16:10] : ongketrumsd: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 13:16:21] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 13:16:33] : ongketrumsd: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 13:16:46] : kingtft: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 13:16:57] : saywhatfuck: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 13:17:08] : saywhatfuck: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 13:17:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:17:58] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:18:09] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:18:22] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:18:33] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:18:45] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:18:57] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:19:09] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:19:21] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:19:34] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:19:45] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:19:57] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:20:10] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:20:21] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:20:33] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:20:45] : kaisouliz đã đánh bại bản sao Commeson, mọi người đều ngưỡng mộ
+[2025-02-15 13:21:10] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 13:21:20] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 13:22:09] : sxmikeyxs: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 13:22:21] : BOSS Super Broly 28 vừa xuất hiện tại Vách núi đen
+[2025-02-15 13:22:34] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 13:22:46] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 13:22:56] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 13:23:08] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 13:23:21] : babyshark14: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 13:23:34] : karosv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 13:23:45] : sxmikeyxs: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 13:23:58] : sxmikeyxs: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 13:24:09] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 13:24:22] : redsbany: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 13:24:34] : lucky7mau: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 13:24:44] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 13:24:57] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 13:25:10] : sxmikeyxs: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 13:25:21] : sxmikeyxs: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 13:25:33] : sxmikeyxs: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 13:26:10] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 13:27:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:27:46] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:27:57] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:28:10] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:28:21] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 13:28:33] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 13:28:46] : karosv14: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 13:28:57] : karosv14: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 13:29:22] : BOSS Super Broly 29 vừa xuất hiện tại Vách núi đen
+[2025-02-15 13:30:21] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 13:31:10] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 13:31:21] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 13:31:33] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 13:31:45] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 13:31:57] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 13:36:33] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 13:36:57] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 13:37:11] : kingtft: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 13:38:23] : BOSS Super Broly 28 vừa xuất hiện tại Nam Guru
+[2025-02-15 13:39:22] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 13:39:34] : atraisaygex: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 13:40:10] : atraisaygex: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 13:40:34] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:41:22] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:41:34] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:42:22] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 1
+[2025-02-15 13:42:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 13:42:46] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 13:42:58] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 13:43:10] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:43:22] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:43:34] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:43:46] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 13:43:58] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 13:44:10] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 13:44:33] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 1
+[2025-02-15 13:45:10] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:45:46] : sonk4n: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-15 13:46:21] : sonk4n: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-15 13:46:58] : sonk4n: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-15 13:48:10] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:48:22] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:48:36] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:48:47] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Guru
+[2025-02-15 13:48:59] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:49:09] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 13:51:35] : lausun vừa nhặt được Quần Thần Xayda tại Núi tuyết khu 13
+[2025-02-15 13:52:10] : majinkidbuu vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 13:53:34] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 13:53:46] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 13:53:58] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 13:54:11] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 13:54:23] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 13:54:35] : bong14sao: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 13:54:46] : bong14sao: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 13:54:58] : 14smafiad: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 13:55:10] : 0hongcong0: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 13:55:22] : 14smafiad: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 13:56:10] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 13:56:34] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 13:56:58] : sakura0m: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 13:57:10] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 13:57:23] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 13:57:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 13:57:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 13:57:58] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 13:58:10] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 13:58:22] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 13:58:34] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 13:58:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 13:58:58] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 13:59:11] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 13:59:23] : BOSS Super Broly 29 vừa xuất hiện tại Nam Kamê
+[2025-02-15 13:59:34] : 14smafiaa: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 13:59:46] : keyferx: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 13:59:58] : heykewtii: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 14:00:10] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 14:00:22] : keyferx: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 14:00:34] : nhuquynhlove: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 14:00:47] : boygowave3: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 14:00:58] : blackhahhi: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 14:01:10] : breakskips: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 14:01:35] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 14:01:46] : sakura0m: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 14:04:22] : BOSS Super Broly 28 vừa xuất hiện tại Nam Kamê
+[2025-02-15 14:04:46] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:05:17] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:05:47] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:06:04] : BOSS Super Broly 28 vừa xuất hiện tại Nam Kamê
+[2025-02-15 14:06:18] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:06:29] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:12:34] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 14:12:47] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 14:13:09] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 14:13:16] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 14:13:22] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 14:14:34] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 14:15:10] : namhoang208: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 14:15:25] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 14:15:46] : namhoang208: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 14:15:58] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 14:16:47] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 14:17:10] : ilov3iuue: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 14:17:46] : BOSS Super Broly 28 vừa xuất hiện tại Nam Guru
+[2025-02-15 14:18:12] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 14:18:27] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 14:18:33] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 14:18:38] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 14:18:46] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 14:18:58] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 14:19:10] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 14:20:23] : BOSS Super Broly 28 vừa xuất hiện tại Nam Kamê
+[2025-02-15 14:22:11] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 14:22:37] : sakura0m: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 14:23:15] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 14:23:54] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 14:24:31] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 14:25:02] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 14:25:23] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 14:25:58] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 14:26:25] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 14:26:42] : lucky7mau: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 14:26:48] : zzz121212 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 14:26:54] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 14:26:59] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 14:27:05] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 14:27:10] : daxanhprm: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 14:27:15] : daxanhprm: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 14:27:20] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 14:27:28] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 14:27:33] : bong14sao: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 14:27:38] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:27:46] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:27:58] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:28:10] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:28:22] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:28:58] : weathzz: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 14:29:10] : weathzz: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 14:29:23] : lucky7mau: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 14:31:11] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 14:31:29] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 14:32:23] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 14:32:41] : tapchoidaz: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 14:32:58] : blackhahhi: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 14:33:12] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 14:33:34] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 14:33:46] : 14smafiaa: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 14:33:58] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 14:34:12] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 14:34:22] : keyferx: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 14:34:37] : karosv14: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 14:34:48] : keyferx: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 14:35:10] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 14:35:26] : heykewtii: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 14:35:46] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 14:36:12] : nhuquynhlove: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 14:38:11] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 14:38:29] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 14:38:41] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 14:38:53] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 11
+[2025-02-15 14:39:01] : vigito0l: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 14:39:46] : 14smafiad: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-15 14:39:59] : 14smafiad: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-15 14:40:24] : 14smafiad: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-15 14:41:46] : BOSS Super Broly 28 vừa xuất hiện tại Nam Kamê
+[2025-02-15 14:42:02] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 14:42:14] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 14:42:23] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 14:42:36] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:42:49] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:43:08] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:43:31] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:43:59] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:44:17] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 14:44:34] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 14:45:47] : [HT] hanqnicute vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Gohan
+[2025-02-15 14:47:12] : sakura0m: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 14:51:35] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 14:52:12] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 14:52:37] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 14:52:49] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 14:53:04] : dong0motai: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 14:53:20] : hoangtusv14: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 14:53:36] : dong0motai: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 14:53:51] : dong0motai: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 14:56:24] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 14:56:36] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 14:57:05] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 14:57:31] : boygowave3: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 14:57:51] : dunglonmup: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 14:58:07] : daxanhprm: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 14:58:18] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:58:30] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:58:38] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:58:48] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:58:56] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 14:59:06] : thaptuquynh vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Nail chiến binh Namếc
+[2025-02-15 14:59:16] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:59:27] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:59:38] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:59:47] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 14:59:59] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 15:00:47] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 15:01:12] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 15:01:28] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 15:01:47] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 15:02:04] : karosv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 15:02:16] : esinsayda: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 15:02:27] : esinsayda: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 15:02:37] : karosv14: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 15:04:23] : BOSS Super Broly 28 vừa xuất hiện tại Vách núi đen
+[2025-02-15 15:05:12] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 15:05:59] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 15:06:11] : ss4brights: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 15:06:29] : sakura0m: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 15:06:47] : BOSS Super Broly 28 vừa xuất hiện tại Vách núi đen
+[2025-02-15 15:08:11] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 15:08:35] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 15:08:54] : mafiab4uj: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 15:09:08] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 15:09:35] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 15:09:54] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 15:10:11] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 15:10:31] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 15:10:46] : mafiab4uj: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 15:10:59] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 15:11:14] : 14smafia1: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 15:11:30] : 14smafiaa: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 15:11:39] : hoangtusv14: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 15:11:50] : heykewtii: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 15:12:02] : keyferx: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 15:12:47] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 15:13:07] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 15:13:22] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 15:13:39] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 15:13:55] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 15:15:24] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Guru
+[2025-02-15 15:15:47] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 15:16:22] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 15:16:59] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 15:17:46] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 15:18:28] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 15:19:05] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 15:20:00] : hoangtusv14: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 15:20:48] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 15:21:26] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 15:21:57] : ongketrumsd: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 15:22:25] : ty4nn vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 15:23:12] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 15:25:25] : hoangtusv14: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 15:26:36] : kamenatsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 15:27:00] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 15:27:27] : hoangtusv14: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 15:27:49] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:28:14] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:28:30] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:28:42] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:29:00] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:29:12] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 15:29:26] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 15:29:42] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 15:29:58] : BOSS Super Broly 28 vừa xuất hiện tại Rừng Bamboo
+[2025-02-15 15:30:11] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 15:30:30] : conggiagia0: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 15:30:46] : conggiagia0: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 15:31:01] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 15:31:16] : dunglonmup: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 15:31:33] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 15:31:47] : beucanhsat: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 15:32:01] : beucanhsat: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 15:32:16] : beucanhsat: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 15:32:30] : ongketrumsd: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 15:34:14] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 15:34:38] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 15:37:13] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 15:37:40] : xmaixjnh: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 15:38:13] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 15:38:35] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 15:39:00] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 15:39:23] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 15:39:47] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 15:40:13] : ss4brights: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 15:40:31] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 15:41:25] : ltranbinhl: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 15:42:01] : mavuong1133: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 15:42:40] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 15:43:22] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:44:02] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:44:32] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:45:03] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:45:34] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 15:46:02] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 15:46:30] : tapchoidaz: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 15:47:04] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 15:47:35] : tapchoidaz: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 15:48:01] : beoj97: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 15:48:31] : onmywayyyyy vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Cađic M
+[2025-02-15 15:49:04] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 15:49:34] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 15:50:06] : keyferx: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 15:50:50] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 15:51:28] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 15:52:09] : mavuong1122: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 15:52:41] : j3rosv14: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 15:52:57] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 15:53:11] : thanhkha18a vừa nhặt được Áo Thần Linh tại Núi tuyết khu 10
+[2025-02-15 15:53:53] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 15:54:20] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 15:54:27] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 16:37:03] : hoangtusv14: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 16:37:51] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Guru
+[2025-02-15 16:38:27] : ongketrumsd: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 16:38:39] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 16:41:27] : sanbuusp vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 16:41:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 16:41:51] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 16:42:03] : rickv22si: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 16:42:15] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 16:42:27] : rickv22si: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 16:42:51] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 16:43:03] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 16:43:15] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 16:43:27] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 16:43:39] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 16:43:51] : hoangtusv14: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 16:44:04] : rickv22si: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 16:44:15] : hoangtusv14: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 16:44:27] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 16:46:16] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 16:47:51] : ss4brights: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 16:48:03] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 16:48:16] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 16:48:28] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 16:48:39] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 16:48:51] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 16:49:04] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 16:49:15] : BOSS Super Broly 29 vừa xuất hiện tại Vách núi đen
+[2025-02-15 16:49:28] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 16:49:39] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 16:49:51] : hoangtusv14: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 16:50:03] : purplenamec: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 16:52:04] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 16:53:04] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 16:53:16] : hoaixniem: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 16:53:28] : vinhngzc: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 16:53:40] : hoaixniem: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 16:53:52] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 16:54:04] : vinhngzc: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 16:54:40] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 16:55:40] : s14carot vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 16:57:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 16:58:04] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 16:58:16] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 16:58:28] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 16:58:40] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 16:59:40] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 16:59:52] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:00:04] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:00:16] : s14kaiosama vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 17:00:28] : rickjv7k5: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 17:00:40] : rickjv7k5: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 17:00:52] : faketaxiii: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 17:01:40] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 17:01:52] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 17:02:04] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 17:02:16] : ongtrumsv14: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 17:02:28] : ongtrumsv14: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 17:02:52] : ongtrumsv14: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 17:04:40] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 17:04:52] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 17:05:04] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 17:05:16] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 17:05:28] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 17:06:40] : huaminhdzai vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 17:07:16] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 17:09:52] : BOSS Super Broly 30 vừa xuất hiện tại Đảo Guru
+[2025-02-15 17:12:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:13:04] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:13:16] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 17:13:28] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:13:40] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:13:53] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:14:16] : s14kjng vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 17:16:40] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:16:52] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:17:04] : rickjv7k5: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 17:17:16] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:17:28] : anh9nee: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 17:17:52] : strongbow03: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 17:18:29] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 17:20:04] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 17:21:17] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 17:21:29] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 17:21:41] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 17:21:53] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 17:22:05] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 17:22:17] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 17:22:28] : sakura0m: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 17:22:41] : captaingoku: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 17:25:05] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 17:25:17] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 17:25:29] : ongtrumsv14: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 17:25:41] : ongtrumsv14: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 17:26:05] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 17:26:29] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 17:26:41] : l3eemaxx: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 17:26:53] : tapchoidaz: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 17:27:05] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 17:27:17] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 17:27:29] : hoangtusv14: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 17:27:41] : dong0motai: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 17:27:53] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:28:05] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:28:17] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:28:29] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:28:41] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 17:28:53] : siukamer: Vừa nâng cấp thành công Găng Thần Linh lên +6
+[2025-02-15 17:29:29] : hoangtusv14: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 17:30:05] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 17:30:17] : sakura0m: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 17:30:29] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 17:30:42] : vigito0l: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 17:30:53] : sv14vrq6x vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Nail chiến binh Namếc
+[2025-02-15 17:32:29] : vigito0l: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 17:33:06] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 17:33:17] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 17:33:30] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 17:33:42] : ongketrumsd: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 17:33:53] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Bulông
+[2025-02-15 17:34:05] : ongketrumsd: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 17:34:18] : ongketrumsd: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 17:34:41] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:35:05] : sakura0m: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 17:35:18] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:35:29] : s1plus2s: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 17:35:41] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:35:54] : ongtrumsv14: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 17:36:05] : ongtrumsv14: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 17:37:42] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:37:54] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:38:06] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:38:18] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:38:30] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:38:42] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 17:38:54] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 17:39:06] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 17:39:18] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 17:39:30] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 17:39:42] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:39:54] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:40:07] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:40:18] : BOSS Super Broly 29 vừa xuất hiện tại Vách núi đen
+[2025-02-15 17:40:30] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:40:42] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:40:55] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:41:06] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:41:18] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:41:30] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:41:42] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:41:54] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 17:42:06] : dong0motai: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 17:42:18] : dong0motai: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 17:42:54] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:43:06] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:43:18] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:43:30] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:43:42] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:44:06] : windsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 17:51:31] : hpsv14 vừa nhặt được Quần Thần Linh tại Cánh đồng tuyết khu 5
+[2025-02-15 17:52:43] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:53:07] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 17:53:19] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:53:31] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 17:53:43] : rickjv7k5: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 17:53:55] : ongtrumsv14: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 17:54:07] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 17:54:19] : monkeyye: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 17:54:32] : ongtrumsv14: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 17:54:43] : huaminhdzai vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 17:55:07] : sakura0m: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 17:55:19] : BOSS Super Broly 30 vừa xuất hiện tại Vách núi đen
+[2025-02-15 17:56:19] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 17:56:31] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 17:56:43] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 17:56:55] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 17:57:07] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 17:57:19] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 17:57:31] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 17:57:43] : keyferx: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 17:57:55] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:58:07] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:58:19] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:58:31] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:58:43] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 17:58:55] : keyferx: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 17:59:07] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 17:59:19] : gotenksego vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 17:59:43] : ruasamak2: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 17:59:55] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 18:00:07] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:00:19] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 18:00:31] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 18:00:43] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 18:01:56] : BOSS Super Broly 29 vừa xuất hiện tại Vách núi đen
+[2025-02-15 18:02:31] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:03:43] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 18:03:55] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 18:04:07] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 18:04:19] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:04:32] : ongtrumsv14: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 18:04:43] : sv14vrq6x vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 18:04:55] : ongtrumsv14: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 18:05:08] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:05:19] : ongtrumsv14: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 18:05:32] : ongtrumsv14: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 18:06:43] : hoangtusv14: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 18:06:55] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:09:44] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:10:08] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:10:20] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:10:32] : danhnatsv14: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 18:10:43] : rickjv7k5: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 18:10:55] : rickjv7k5: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 18:11:44] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:11:56] : ongtrumsv14: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 18:12:08] : sakura0m: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 18:12:56] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:13:08] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:13:19] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:13:31] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:13:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 18:13:56] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 18:14:08] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 18:14:20] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 18:14:32] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 18:14:44] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:14:56] : sakura0m: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 18:19:08] : clearbosss: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 18:25:08] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 18:26:32] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 18:26:44] : sakura0m: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 18:26:57] : BOSS Super Broly 30 vừa xuất hiện tại Vách núi đen
+[2025-02-15 18:27:45] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:27:56] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:28:08] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:28:21] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:28:33] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:28:44] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:28:56] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:29:09] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 18:29:20] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 18:29:32] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 18:29:45] : rickpqq73: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 18:29:57] : sakura0m: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 18:30:09] : rickpqq73: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 18:30:20] : phat2hit: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 18:30:33] : 0kamiel0: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 18:30:45] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 18:30:57] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 18:31:09] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 18:31:20] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 18:31:33] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 18:31:45] : 0kamiel0: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 18:32:09] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 18:32:57] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 18:33:09] : emngocbaby: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 18:33:45] : emngocbaby: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 18:33:57] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 18:34:33] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 18:34:45] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 18:34:57] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 18:35:09] : emngocbaby: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 18:35:33] : vanthanhnham: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 18:35:57] : tapchoidaz: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 18:36:21] : tapchoidaz: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 18:36:57] : anh9nee vừa lên Top 9 Giải Siêu Hạng
+[2025-02-15 18:37:09] : anh9nee vừa lên Top 7 Giải Siêu Hạng
+[2025-02-15 18:38:45] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 18:41:09] : dong0motai: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 18:41:22] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 18:41:58] : ok01doithu vừa lên Top 9 Giải Siêu Hạng
+[2025-02-15 18:42:09] : BOSS Super Broly 30 vừa xuất hiện tại Vách núi đen
+[2025-02-15 18:42:33] : ok01doithu vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 18:42:45] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:42:57] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 18:43:09] : ok01doithu vừa lên Top 6 Giải Siêu Hạng
+[2025-02-15 18:43:21] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 18:43:33] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 18:43:45] : ok01doithu vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 18:43:57] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 18:44:09] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 18:44:21] : ok01doithu vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 18:44:33] : dong0motai: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 18:45:10] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:45:33] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:46:09] : z14phattop2: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 18:46:21] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:46:33] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 18:46:45] : z14phattop2: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 18:46:58] : z14phattop2: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 18:47:45] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 18:47:57] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 18:48:09] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-15 18:48:45] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 18:48:57] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 18:49:09] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:49:21] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 18:49:34] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 18:49:45] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 18:49:57] : keyferx: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-15 18:50:09] : keyferx: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-15 18:50:22] : keyferx: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-15 18:55:45] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 18:55:58] : hoangtusv14: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 18:59:10] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 18:59:58] : hoangtusv14: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 19:00:34] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 19:00:45] : ongtrumsv14: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 19:00:58] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 19:01:10] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 19:01:22] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 19:01:34] : hoangtusv14: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 19:01:46] : sakura0m: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 19:01:58] : saywhatfuck: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 19:02:09] : saywhatfuck: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 19:03:33] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 19:04:10] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 19:04:22] : piclodaim8: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 19:04:34] : s14miikita: Vừa nâng cấp thành công Quần Thần Xayda lên +6
+[2025-02-15 19:04:46] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 19:04:58] : piclodaim8: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 19:05:10] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 19:05:22] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 19:05:34] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 19:05:45] : BOSS Số 3 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 19:05:58] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-15 19:06:10] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 19:06:22] : hoangtusv14: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 19:06:33] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 19:06:46] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 19:06:58] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 19:07:10] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 19:07:22] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 19:07:34] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 19:07:46] : piclodaim8: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 19:07:58] : ongtrumsv14: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 19:08:10] : ongtrumsv14: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 19:08:22] : ongtrumsv14: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 19:08:37] : ongtrumsv14: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 19:08:46] : clearbosss: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 19:08:58] : BOSS Super Broly 30 vừa xuất hiện tại Thung lũng đen
+[2025-02-15 19:09:10] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 19:09:22] : ongtrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 19:09:34] : s14chupachup: Vừa nâng cấp thành công Quần Thần Xayda lên +7
+[2025-02-15 19:10:46] : ongketrumsd: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 19:12:58] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 19:13:10] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 19:13:22] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 19:13:34] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 19:13:46] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 19:14:46] : dong0motai vừa lên Top 9 Giải Siêu Hạng
+[2025-02-15 19:15:10] : dong0motai vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 19:15:22] : dong0motai vừa lên Top 6 Giải Siêu Hạng
+[2025-02-15 19:15:46] : dong0motai vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 19:16:46] : dong0motai vừa lên Top 3 Giải Siêu Hạng
+[2025-02-15 19:17:34] : minhchiens14 vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 19:17:46] : minhchiens14 vừa lên Top 6 Giải Siêu Hạng
+[2025-02-15 19:17:58] : dong0motai vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 19:18:58] : dong0motai vừa lên Top 1 Giải Siêu Hạng
+[2025-02-15 19:20:34] : minhchiens14 vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 19:20:46] : minhchiens14 vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 19:21:22] : minhchiens14 vừa lên Top 1 Giải Siêu Hạng
+[2025-02-15 19:22:10] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 19:22:22] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 19:22:34] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 19:22:46] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 19:22:58] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 19:23:10] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 19:23:22] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 19:23:34] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 19:23:46] : z14occtiu14z: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 19:23:58] : z14occtiu14z: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 19:24:22] : z14occtiu14z: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 19:27:58] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:28:10] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:28:22] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:28:34] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:28:46] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:28:58] : [HT] bapcaix vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Gohan
+[2025-02-15 19:30:34] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 19:31:58] : BOSS Super Broly 30 vừa xuất hiện tại Rừng Bamboo
+[2025-02-15 19:32:10] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 19:33:10] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 19:33:22] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 19:33:58] : j3rosv14: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 19:34:10] : j3rosv14: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 19:34:46] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 19:34:58] : betrangsugar vừa lên Top 7 Giải Siêu Hạng
+[2025-02-15 19:35:10] : sakura0m: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 19:35:22] : betrangsugar vừa lên Top 5 Giải Siêu Hạng
+[2025-02-15 19:35:34] : betrangsugar vừa lên Top 3 Giải Siêu Hạng
+[2025-02-15 19:35:58] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 19:36:10] : darkids: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 19:36:22] : bum0xit0066 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 19:36:34] : betrangsugar vừa lên Top 1 Giải Siêu Hạng
+[2025-02-15 19:37:22] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 19:37:34] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 19:37:46] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 19:37:58] : hoaixniem: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 19:38:10] : hoaixniem: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 19:38:22] : hoaixniem: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 19:38:46] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 19:38:58] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 19:39:10] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 19:39:22] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 19:39:34] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 19:39:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 19:39:58] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 19:40:10] : trumnrsd6789: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 19:40:22] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 19:40:34] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 19:40:46] : thientruc14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 19:40:58] : darkids: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 19:41:10] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 19:41:22] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 19:41:34] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 19:41:46] : sakura0m: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 19:41:58] : z14octiu666: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 19:42:22] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 19:42:34] : z14octiu666: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 19:42:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:42:58] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:43:10] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:43:22] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:43:34] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:43:46] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 19:43:58] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:44:10] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:44:22] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:44:35] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:44:46] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:44:58] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:45:10] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:45:22] : z14octiu666: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 19:45:35] : sakura0m: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-15 19:45:46] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 19:45:58] : BOSS Xên con 7 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:46:10] : BOSS Xên con 6 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:46:22] : BOSS Xên con 5 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:46:34] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:46:46] : BOSS Xên con 4 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:46:58] : BOSS Xên con 3 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:47:10] : BOSS Xên con 2 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:47:22] : BOSS Xên con 1 vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 19:47:34] : captaingoku: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 19:47:46] : kingtft: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 19:48:34] : s14diablo vừa lên Top 9 Giải Siêu Hạng
+[2025-02-15 19:49:10] : s14diablo vừa lên Top 7 Giải Siêu Hạng
+[2025-02-15 19:49:22] : BOSS Super Broly 30 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 19:49:34] : kingtft vừa lên Top 9 Giải Siêu Hạng
+[2025-02-15 19:49:58] : kingtft vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 19:50:10] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-15 19:50:22] : s14diablo vừa lên Top 5 Giải Siêu Hạng
+[2025-02-15 19:50:34] : captaingoku vừa lên Top 10 Giải Siêu Hạng
+[2025-02-15 19:50:46] : s14diablo vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 19:50:59] : captaingoku vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 19:51:10] : kingtft vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 19:51:22] : s14diablo vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 19:51:34] : captaingoku vừa lên Top 9 Giải Siêu Hạng
+[2025-02-15 19:51:46] : kingtft vừa lên Top 7 Giải Siêu Hạng
+[2025-02-15 19:51:58] : ok01doithu vừa lên Top 5 Giải Siêu Hạng
+[2025-02-15 19:52:10] : captaingoku vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 19:52:22] : ok01doithu vừa lên Top 6 Giải Siêu Hạng
+[2025-02-15 19:52:34] : vigito0l: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-15 19:52:46] : captaingoku vừa lên Top 6 Giải Siêu Hạng
+[2025-02-15 19:52:58] : hanniined vừa nhặt được Giầy Thần Linh tại Dòng sông băng khu 5
+[2025-02-15 19:53:10] : mailovedun vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 19:53:22] : captaingoku vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 19:53:34] : kingtft vừa lên Top 5 Giải Siêu Hạng
+[2025-02-15 19:54:10] : kingtft vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 19:54:34] : kingtft vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 19:54:46] : faketaxiii vừa lên Top 10 Giải Siêu Hạng
+[2025-02-15 19:54:58] : faketaxiii vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 19:55:10] : b0ssbeerusxd vừa lên Top 10 Giải Siêu Hạng
+[2025-02-15 19:55:46] : s14diablo vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 19:55:58] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 19:56:10] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 19:56:22] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 19:56:34] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 19:56:46] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 19:56:58] : b0ssbeerusxd vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 19:57:59] : captaingoku vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 19:58:10] : faketaxiii vừa lên Top 8 Giải Siêu Hạng
+[2025-02-15 19:58:22] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 19:58:34] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 19:58:46] : faketaxiii vừa lên Top 6 Giải Siêu Hạng
+[2025-02-15 19:58:58] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 19:59:10] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 19:59:22] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 20:00:35] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 20:00:46] : kingtft vừa lên Top 3 Giải Siêu Hạng
+[2025-02-15 20:01:10] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 20:01:23] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 20:01:34] : kingtft: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 20:01:46] : kingtft: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 20:01:58] : kingtft: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 20:05:10] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 20:05:22] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-15 20:06:10] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 20:07:22] : babyshark14: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-15 20:07:58] : BOSS Super Broly 30 vừa xuất hiện tại Đảo Kamê
+[2025-02-15 20:08:22] : sakura0m: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-15 20:08:34] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 20:08:46] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 20:08:58] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-15 20:09:10] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 20:09:22] : kingtft: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-15 20:09:34] : faketaxiii vừa lên Top 4 Giải Siêu Hạng
+[2025-02-15 20:09:46] : faketaxiii vừa lên Top 2 Giải Siêu Hạng
+[2025-02-15 20:09:58] : kingtft: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-15 20:10:10] : kingtft: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-15 20:10:22] : ss4brights: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-15 20:10:34] : babyshark14: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-15 20:12:10] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 20:12:35] : be10m vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 20:12:46] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 20:12:58] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-15 20:13:10] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 20:13:22] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 20:13:34] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 20:13:46] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 20:13:58] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-15 20:14:11] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-15 20:14:23] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-15 20:14:34] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-15 20:14:46] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-15 20:14:58] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-15 20:15:10] : hoaixniem: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-15 20:15:24] : faketaxiii: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 20:15:34] : faketaxiii: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-15 20:18:34] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 20:19:10] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 20:19:22] : suppervegito: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-15 20:26:14] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 23:55:20] : suppervegito: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-15 23:55:33] : swan100cm: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-15 23:55:35] : lamthankaioi vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-15 23:55:39] : BOSS Super Broly 30 vừa xuất hiện tại Rừng cọ
+[2025-02-15 23:55:43] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 23:55:46] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 23:55:50] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 23:55:53] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 23:55:57] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-15 23:57:04] : hoangtusv14: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-15 23:57:16] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-15 23:57:39] : BOSS Xên hoàn thiện vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 23:57:52] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 23:58:03] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 23:58:15] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-15 23:58:28] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 23:58:39] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 23:58:52] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 23:59:04] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
+[2025-02-15 23:59:15] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-15 23:59:28] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-15 23:59:39] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-15 23:59:52] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 00:00:04] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 00:00:15] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 00:00:28] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 00:00:39] : ss4brights: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-16 00:00:52] : sakura0m: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-16 00:01:04] : anh8vechai: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-16 00:01:15] : anh8vechai: Đã tiêu diệt được Siêu bọ hung mọi người đều ngưỡng mộ.
+[2025-02-16 00:01:28] : longaim: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-16 00:01:52] : xcadic94 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-16 00:02:40] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 00:02:51] : BOSS Super Broly 29 vừa xuất hiện tại Thành phố Vegeta
+[2025-02-16 00:03:04] : tieubanhbao: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-16 00:03:15] : nr63nhaiti vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Cađic M
+[2025-02-16 00:06:04] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-16 00:06:39] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-16 00:06:51] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-16 00:07:04] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-16 00:07:15] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-16 00:07:27] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-16 00:07:39] : dunglonmup: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-16 00:07:52] : dieptrumsv14: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-16 00:08:04] : noob135jk vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Cađic M
+[2025-02-16 00:08:16] : buomemxinh03: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-16 00:08:28] : dieptrumsv14: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-16 00:08:40] : trumnrsd6789: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-16 00:08:52] : BOSS Super Broly 29 vừa xuất hiện tại Thành phố Vegeta
+[2025-02-16 00:09:03] : trumnrsd6789: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-16 00:09:16] : longaim: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-16 00:13:04] : 1stdelicious vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-16 00:16:16] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 00:16:28] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 00:16:40] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 00:16:52] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 00:17:04] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 00:17:16] : 17kamekame vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-16 00:18:16] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 00:18:29] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 00:18:40] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 00:19:05] : z14occtiu14z: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-16 00:19:16] : appplee333: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-16 00:19:28] : botuii: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-16 00:19:53] : BOSS Super Broly 29 vừa xuất hiện tại Rừng cọ
+[2025-02-16 00:20:05] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 00:23:54] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 00:24:53] : BOSS Super Broly 29 vừa xuất hiện tại Nam Guru
+[2025-02-16 00:25:41] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 00:26:05] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 00:26:17] : trumnrsd6789: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-16 00:26:31] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 00:26:41] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 00:26:54] : baybekil: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-16 00:27:06] : hoangtusv14: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-16 00:27:18] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 00:27:29] : s14kingkog: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-16 00:28:05] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-16 00:28:18] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-16 00:28:31] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:28:42] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:28:54] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:29:07] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-16 00:29:18] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:29:32] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:29:42] : thanhsiusao8: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-16 00:29:54] : thanhsiusao8: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-16 00:30:06] : clearbosss: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-16 00:31:06] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 00:31:18] : ongketrumsd: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-16 00:32:18] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-16 00:32:31] : sakura0m: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-16 00:32:44] : anhdzzzzzzzz vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-16 00:33:20] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi hoa vàng
+[2025-02-16 00:33:30] : BOSS Số 1 vừa xuất hiện tại Núi hoa vàng
+[2025-02-16 00:33:43] : BOSS Số 2 vừa xuất hiện tại Núi hoa vàng
+[2025-02-16 00:33:55] : BOSS Số 3 vừa xuất hiện tại Núi hoa vàng
+[2025-02-16 00:34:07] : BOSS Số 4 vừa xuất hiện tại Núi hoa vàng
+[2025-02-16 00:34:18] : sakura0m: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-16 00:34:30] : hoangtusv14: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-16 00:34:55] : xcadic94 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-16 00:35:19] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 00:35:31] : ongketrumsd: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-16 00:36:31] : th1nhv4n đã đánh bại bản sao Commeson, mọi người đều ngưỡng mộ
+[2025-02-16 00:38:44] : hoangtusv14: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-16 00:38:55] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-16 00:39:08] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-16 00:39:20] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-16 00:39:32] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-16 00:39:43] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-16 00:39:56] : dunglonmup: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-16 00:40:08] : z14octiu6879: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-16 00:40:20] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-16 00:40:32] : keyferx: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-16 00:40:44] : z14octiu666: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-16 00:40:56] : BOSS Super Broly 29 vừa xuất hiện tại Nam Guru
+[2025-02-16 00:41:08] : dieptrumsv14: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-16 00:41:20] : keyferx: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-16 00:41:56] : BOSS Super Broly 29 vừa xuất hiện tại Rừng Bamboo
+[2025-02-16 00:43:08] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:43:20] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:43:32] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:43:44] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 00:43:56] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:44:08] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 00:44:20] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 00:44:32] : vanzinyuu vừa lên Top 10 Giải Siêu Hạng
+[2025-02-16 00:44:44] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 00:44:56] : vanzinyuu vừa lên Top 8 Giải Siêu Hạng
+[2025-02-16 00:45:08] : damnatsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-16 00:45:20] : vanzinyuu vừa lên Top 6 Giải Siêu Hạng
+[2025-02-16 00:45:32] : trumnrsd6789: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-16 00:45:44] : vanzinyuu vừa lên Top 4 Giải Siêu Hạng
+[2025-02-16 00:45:56] : z14octiu69: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-16 00:46:08] : 00012012: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-16 00:46:44] : vanzinyuu vừa lên Top 2 Giải Siêu Hạng
+[2025-02-16 00:47:08] : vanzinyuu vừa lên Top 1 Giải Siêu Hạng
+[2025-02-16 00:49:47] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 00:49:59] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 00:50:11] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 00:50:35] : appplee333: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-16 00:50:47] : z14occtiu14z: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-16 00:50:59] : z14gohanz vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt Set Thần Vũ Trụ Kaio
+[2025-02-16 00:51:11] : z14occtiu14z: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-16 00:52:11] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-16 00:52:23] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-16 00:52:35] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-16 00:52:47] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-16 00:52:59] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-16 00:54:23] : BOSS Super Broly 14 vừa xuất hiện tại Rừng dương xỉ
+[2025-02-16 00:56:59] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-16 00:58:00] : BOSS Super Broly 28 vừa xuất hiện tại Rừng dương xỉ
+[2025-02-16 00:58:12] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
+[2025-02-16 00:58:24] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-16 00:58:36] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
+[2025-02-16 00:58:48] : BOSS Số 3 vừa xuất hiện tại Hang khỉ đen
+[2025-02-16 00:59:01] : BOSS Số 4 vừa xuất hiện tại Hang khỉ đen
+[2025-02-16 01:00:00] : BOSS Super Broly 26 vừa xuất hiện tại Nam Kamê
+[2025-02-16 01:00:37] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 01:01:12] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-16 01:01:25] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-16 01:01:37] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 01:01:49] : darkids: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-16 01:02:24] : ducvipsv14: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-16 01:02:36] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 01:03:01] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 01:03:12] : trumnrsd6789: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-16 01:04:00] : z14octiu69: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-16 01:04:12] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-16 01:04:37] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 01:06:25] : ongketrumsd: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-16 01:06:36] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-16 01:07:49] : darkids: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-16 01:08:49] : BOSS Tiểu đội trưởng vừa xuất hiện tại Vực maima
+[2025-02-16 01:09:00] : BOSS Số 1 vừa xuất hiện tại Vực maima
+[2025-02-16 01:09:12] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 01:09:24] : BOSS Số 2 vừa xuất hiện tại Vực maima
+[2025-02-16 01:09:38] : BOSS Số 3 vừa xuất hiện tại Vực maima
+[2025-02-16 01:09:50] : BOSS Số 4 vừa xuất hiện tại Vực maima
+[2025-02-16 01:10:00] : BOSS Super Broly 27 vừa xuất hiện tại Đảo Guru
+[2025-02-16 01:10:13] : keyferx: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-16 01:11:24] : BOSS Android 15 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-16 01:11:37] : BOSS Android 13 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-16 01:11:49] : BOSS Android 14 vừa xuất hiện tại Sân sau siêu thị khu vực 0
+[2025-02-16 01:12:02] : xcadic94 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-16 01:12:12] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
+[2025-02-16 01:12:25] : dieptrumsv14: Đã tiêu diệt được Android 13 mọi người đều ngưỡng mộ.
+[2025-02-16 01:12:38] : z14octiu6879: Đã tiêu diệt được Android 14 mọi người đều ngưỡng mộ.
+[2025-02-16 01:12:50] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-16 01:13:01] : s1plus2s: Đã tiêu diệt được Xên bọ hung mọi người đều ngưỡng mộ.
+[2025-02-16 01:13:13] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đen
+[2025-02-16 01:13:24] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
+[2025-02-16 01:13:37] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-16 01:13:49] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
+[2025-02-16 01:14:01] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
+[2025-02-16 01:14:26] : BOSS Super Broly 28 vừa xuất hiện tại Đảo Kamê
+[2025-02-16 01:14:38] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
+[2025-02-16 01:14:48] : s1plus2s: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-16 01:16:49] : s1plus2s: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
+[2025-02-16 01:18:01] : BOSS Super Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 01:18:13] : ongketrumsd: Đã tiêu diệt được Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-16 01:19:25] : BOSS Super Broly 27 vừa xuất hiện tại Rừng dương xỉ
+[2025-02-16 01:19:38] : z14octiu666: Đã tiêu diệt được Android 15 mọi người đều ngưỡng mộ.
+[2025-02-16 01:20:36] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 01:21:12] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 01:21:26] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 01:21:37] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 01:21:48] : BOSS Pic vừa xuất hiện tại Thành phố phía bắc
+[2025-02-16 01:22:00] : 3hot3girl3: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-16 01:22:13] : hoangtusv14: Đã tiêu diệt được Super Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-16 01:22:24] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 01:22:37] : babekil: Đã tiêu diệt được Poc mọi người đều ngưỡng mộ.
+[2025-02-16 01:22:49] : th1nhv4n: Đã tiêu diệt được Pic mọi người đều ngưỡng mộ.
+[2025-02-16 01:23:00] : ducvipsv14: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-16 01:23:12] : BOSS Super Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 01:23:24] : babekil: Đã tiêu diệt được King kong mọi người đều ngưỡng mộ.
+[2025-02-16 01:23:37] : dunghoangcsc: Đã tiêu diệt được Black Goku 0 mọi người đều ngưỡng mộ.
+[2025-02-16 01:23:49] : tuisback: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-16 01:25:37] : cuong14star đã đánh bại bản sao Commeson, mọi người đều ngưỡng mộ
+[2025-02-16 01:26:24] : BOSS Super Broly 28 vừa xuất hiện tại Vách núi đen
+[2025-02-16 01:26:36] : ongketrumsd: Đã tiêu diệt được Super Black Goku 1 mọi người đều ngưỡng mộ.
+[2025-02-16 01:26:50] : BOSS Tiểu đội trưởng vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 01:27:01] : BOSS Số 1 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 01:27:13] : BOSS Số 2 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 01:27:24] : BOSS Số 3 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 01:27:36] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
+[2025-02-16 01:27:48] : BOSS Super Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-16 01:28:02] : clearbosss: Đã tiêu diệt được Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-16 01:28:13] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 01:28:24] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 01:28:37] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 01:28:48] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 01:29:00] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-16 01:29:37] : tuisback đã đánh bại bản sao Commeson, mọi người đều ngưỡng mộ
+[2025-02-16 01:30:26] : BOSS Super Broly 16 vừa xuất hiện tại Thành phố Vegeta
+[2025-02-16 01:31:01] : BOSS Super Broly 27 vừa xuất hiện tại Nam Guru
+[2025-02-16 01:32:13] : hoangtusv14: Đã tiêu diệt được Super Black Goku 2 mọi người đều ngưỡng mộ.
+[2025-02-16 01:36:25] : BOSS Super Broly 27 vừa xuất hiện tại Đảo Kamê
+[2025-02-16 01:38:14] : BOSS Cooler vừa xuất hiện tại Hang băng
+[2025-02-16 01:39:38] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 01:40:01] : sakura0m: Đã tiêu diệt được Cooler mọi người đều ngưỡng mộ.
+[2025-02-16 01:40:14] : BOSS Cooler 2 vừa xuất hiện tại Hang băng
+[2025-02-16 01:40:38] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 01:40:51] : tungems2: Đã tiêu diệt được Fide Đại Ca 1 mọi người đều ngưỡng mộ.
+[2025-02-16 01:41:13] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
+[2025-02-16 01:41:26] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
+[2025-02-16 01:41:46] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-16 01:41:51] : sakura0m: Đã tiêu diệt được Cooler 2 mọi người đều ngưỡng mộ.
+[2025-02-16 01:42:02] : ducvipsv14: Đã tiêu diệt được Fide Đại Ca 2 mọi người đều ngưỡng mộ.
+[2025-02-16 01:42:14] : dunghoangcsc: Đã tiêu diệt được Android 19 mọi người đều ngưỡng mộ.
+[2025-02-16 01:42:26] : dunghoangcsc: Đã tiêu diệt được Dr.Kôrê mọi người đều ngưỡng mộ.
+[2025-02-16 01:42:49] : tungems2: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
+[2025-02-16 01:43:02] : BOSS Super Broly 27 vừa xuất hiện tại Núi hoa vàng
+>>>>>>> ebf5fbba3c03f58128cae5e952ea563f0f1cf7ed
