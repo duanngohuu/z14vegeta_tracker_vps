@@ -342,3 +342,4 @@
 [2025-02-17 01:33:56] : BOSS Siêu bọ hung vừa xuất hiện tại Võ đài Xên bọ hung
 [2025-02-17 01:34:07] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-17 01:34:19] : BOSS Fide Đại Ca 2 vừa xuất hiện tại Núi khỉ vàng
+[2025-02-17 01:34:31] : BOSS Fide Đại Ca 3 vừa xuất hiện tại Núi khỉ vàng
