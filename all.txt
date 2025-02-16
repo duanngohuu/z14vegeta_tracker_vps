@@ -97,3 +97,4 @@
 [2025-02-17 00:02:55] : BOSS Số 4 vừa xuất hiện tại Thung lũng Maima
 [2025-02-17 00:03:06] : darkids: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-17 00:03:18] : BOSS King kong vừa xuất hiện tại Thành phố phía bắc
+[2025-02-17 00:03:30] : BOSS Poc vừa xuất hiện tại Thành phố phía bắc
