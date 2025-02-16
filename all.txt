@@ -264,3 +264,4 @@
 [2025-02-17 01:00:58] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-17 01:01:10] : BOSS Android 19 vừa xuất hiện tại Thành phố phía nam
 [2025-02-17 01:01:23] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
+[2025-02-17 01:01:34] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
