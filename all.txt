@@ -566,3 +566,4 @@
 [2025-02-17 21:25:12] : 17kamekame vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-17 21:25:48] : BOSS Black Goku 1 vừa xuất hiện tại Thành phố phía đông
 [2025-02-17 21:27:49] : BOSS Black Goku 2 vừa xuất hiện tại Thành phố phía đông
+[2025-02-17 21:28:00] : BOSS Fide Đại Ca 1 vừa xuất hiện tại Núi khỉ vàng
