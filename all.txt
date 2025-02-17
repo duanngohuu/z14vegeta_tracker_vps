@@ -612,3 +612,4 @@
 [2025-02-18 08:38:22] : BOSS Dr.Kôrê vừa xuất hiện tại Thành phố phía nam
 [2025-02-18 08:38:34] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đen
 [2025-02-18 08:38:45] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đen
+[2025-02-18 08:38:57] : BOSS Số 3 vừa xuất hiện tại Núi khỉ đen
