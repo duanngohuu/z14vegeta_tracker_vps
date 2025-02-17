@@ -603,3 +603,4 @@
 [2025-02-18 08:34:21] : BOSS Số 4 vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-18 08:34:33] : chemchepnhi: Đã tiêu diệt được Xên hoàn thiện mọi người đều ngưỡng mộ.
 [2025-02-18 08:35:21] : BOSS Black Goku 0 vừa xuất hiện tại Thành phố phía đông
+[2025-02-18 08:35:57] : BOSS Siêu Bojack vừa xuất hiện tại Rừng xương
