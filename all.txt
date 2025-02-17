@@ -581,3 +581,4 @@
 [2025-02-17 21:31:50] : BOSS Số 4 vừa xuất hiện tại Núi khỉ đen
 [2025-02-17 21:32:01] : 10000vnds: Vừa nâng cấp thành công Quần Hủy Diệt lên +6
 [2025-02-17 21:34:02] : darkids vừa lên Top 10 Giải Siêu Hạng
+[2025-02-17 21:34:51] : darkids vừa lên Top 8 Giải Siêu Hạng
