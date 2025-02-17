@@ -598,3 +598,4 @@
 [2025-02-18 08:33:09] : kingtft vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-18 08:33:33] : BOSS Tiểu đội trưởng vừa xuất hiện tại Trạm tàu vũ trụ
 [2025-02-18 08:33:46] : BOSS Số 1 vừa xuất hiện tại Trạm tàu vũ trụ
+[2025-02-18 08:33:57] : BOSS Số 2 vừa xuất hiện tại Trạm tàu vũ trụ
