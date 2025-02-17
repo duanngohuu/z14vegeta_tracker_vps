@@ -642,3 +642,4 @@
 [2025-02-18 08:52:26] : Chúc mừng dinhdautroc đã thắng 90.000.000 vàng  với con số may mắn  46
 [2025-02-18 08:53:49] : BOSS Tiểu đội trưởng vừa xuất hiện tại Hang khỉ đen
 [2025-02-18 08:54:01] : BOSS Số 2 vừa xuất hiện tại Hang khỉ đen
+[2025-02-18 08:54:13] : BOSS Số 1 vừa xuất hiện tại Hang khỉ đen
