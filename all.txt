@@ -759,3 +759,4 @@
 [2025-02-18 09:39:09] : z14toyota: Đã tiêu diệt được Fide Đại Ca 3 mọi người đều ngưỡng mộ.
 [2025-02-18 09:40:32] : BOSS Bojack vừa xuất hiện tại Đông Karin
 [2025-02-18 09:40:44] : BOSS Bido vừa xuất hiện tại Đông Karin
+[2025-02-18 09:40:56] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
