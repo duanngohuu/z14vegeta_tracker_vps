@@ -665,3 +665,4 @@
 [2025-02-18 09:06:04] : BOSS Xên bọ hung vừa xuất hiện tại Thị trấn Ginder
 [2025-02-18 09:06:14] : bomnatsv14 vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
 [2025-02-18 09:06:28] : chip6xdnm vừa đánh quái may mắn nhận được 1 trang bị Set kích hoạt
+[2025-02-18 09:06:52] : BOSS Xên hoàn thiện vừa xuất hiện tại Thị trấn Ginder
