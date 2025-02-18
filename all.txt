@@ -748,3 +748,4 @@
 [2025-02-18 09:36:56] : BOSS Tiểu đội trưởng vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-18 09:37:09] : BOSS Số 2 vừa xuất hiện tại Núi khỉ đỏ
 [2025-02-18 09:37:20] : BOSS Số 1 vừa xuất hiện tại Núi khỉ đỏ
+[2025-02-18 09:37:33] : BOSS Siêu Bojack vừa xuất hiện tại Rừng nấm
